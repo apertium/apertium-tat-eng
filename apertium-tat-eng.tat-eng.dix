@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-   <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+
+  <alphabet>AÁÆBCDÐEFGHIJKLMNOPQRSTŢUVWXYZ
+            aáăảạbcčdeéèễệfghiíjklmnoóöớpqrsšştuúüưvwxyz
+            АӘБВГДЕЁЖҖЗИЙКЛМНҢОӨПРСТУҮФХҺЦЧШЩЪЫЬЭЮЯ
+            аәбвгдеёжҗзийклмнңоөпрстуүфхһцчшщъыьэюя</alphabet>
 
   <sdefs>
-    <!-- Define symbol definitions within <sdef> here. -->
+
     <sdef n="n"               c="Noun"/>
     <sdef n="np"              c="Proper noun"/>
     <sdef n="vblex"           c="Verb, lexical"/>
@@ -95,13 +98,17 @@
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
   </sdefs>
 
-   <section id="main" type="standard">
-      <!-- Define entries within <e> here. -->
-      <e><p><l>бер<s n="num"/></l><r>one<s n="num"/><s n="sg"/></r></p></e>
+  <section id="main" type="standard">
 
-      <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-      <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
-   </section>
+    <e><p><l>бер<s n="num"/></l><r>one<s n="num"/><s n="sg"/></r></p></e>
+
+    <e><p><l>абый<s n="n"/></l><r>brother<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>ата<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>ана<s n="n"/></l><r>mother<s n="n"/><s n="sg"/></r></p></e>
+
+    <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+  </section>
 </dictionary>
 
 <!--

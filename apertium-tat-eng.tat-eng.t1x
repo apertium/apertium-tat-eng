@@ -1,52 +1,523 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- -*- nxml -*- -->
+
+<!-- Tests are run by './qa t1x' command.
+     INPUT is the output of lexical selection,
+     OUTPUT is the expected output of this transfer module.
+
+     Also make sure to run './qa' (with no arguments)
+     before committing to svn. -->
+
 <transfer default="chunk">
+
   <section-def-cats>
-    <def-cat n="nom">
+
+    <def-cat n="n">
+      <cat-item tags="n"/>
       <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
+      <cat-item tags="prn.*"/>
+      <cat-item tags="adj.subst"/>
+      <cat-item tags="adj.subst.*"/>
+      <cat-item tags="adj.comp.subst"/>
+      <cat-item tags="adj.comp.subst.*"/>
+      <cat-item tags="adv.subst"/>
+      <cat-item tags="adv.subst.*"/>
     </def-cat>
-    <def-cat n="sent">
-      <cat-item tags="sent"/>
-    </def-cat>
+
   </section-def-cats>
 
   <section-def-attrs>
-    <def-attr n="a_cas">
-      <attr-item tags="nom"/>
+
+    <def-attr n="a_pos">
+      <attr-item tags="n"/>
+      <attr-item tags="np"/>
+      <attr-item tags="np.cog"/>
+      <attr-item tags="adj"/>
+      <attr-item tags="adv"/>
+      <attr-item tags="pred"/>
+      <attr-item tags="pr"/>
+      <attr-item tags="det"/>
+      <attr-item tags="det.pos"/>
     </def-attr>
+    <def-attr n="a_syntag">
+      <attr-item tags="advl"/>
+      <attr-item tags="attr"/>
+      <attr-item tags="subst"/>
+    </def-attr>
+    <def-attr n="a_SYNLABEL">
+      <attr-item tags="@ADVL→"/>
+    </def-attr>
+    <def-attr n="a_nom">
+      <attr-item tags="n"/>
+      <attr-item tags="np.ant"/>
+      <attr-item tags="np.top"/>
+      <attr-item tags="np.cog"/>
+      <attr-item tags="prn.pers.p1"/>
+      <attr-item tags="prn.pers.p2"/>
+      <attr-item tags="prn.pers.p3"/>
+      <attr-item tags="prn.dem"/>
+      <attr-item tags="prn.def"/>
+      <attr-item tags="prn.itg"/>
+      <attr-item tags="prn.neg"/>
+      <attr-item tags="prn.ind"/>
+      <attr-item tags="prn.ref"/>
+      <attr-item tags="adj"/>
+      <attr-item tags="adj.sint"/>
+      <attr-item tags="det.pos"/>
+      <attr-item tags="det.def"/>
+      <attr-item tags="det.ref"/>
+      <attr-item tags="num"/>
+    </def-attr>
+    <def-attr n="a_det">
+      <attr-item tags="det.dem"/>
+      <attr-item tags="det.pos"/>
+      <attr-item tags="det.itg"/>
+      <attr-item tags="det.ind"/>
+      <attr-item tags="det.qnt"/>
+      <attr-item tags="num"/>
+    </def-attr>
+    <def-attr n="a_num">
+      <attr-item tags="num"/>
+      <attr-item tags="det.ord"/>
+      <attr-item tags="det.qnt"/>
+      <attr-item tags="num.roman"/>
+      <attr-item tags="num.digit"/>
+    </def-attr>
+
+    <def-attr n="a_adj">
+      <attr-item tags="adj"/>
+      <attr-item tags="adj.sint"/>
+    </def-attr>
+    <def-attr n="a_adv">
+      <attr-item tags="adv"/>
+    </def-attr>
+    <def-attr n="a_pr">
+      <attr-item tags="pr"/>
+      <attr-item tags="adv.itg"/> <!-- for как -->
+    </def-attr>
+    <def-attr n="a_verb">
+      <attr-item tags="vbser"/>
+      <attr-item tags="vblex.impf"/>
+      <attr-item tags="vblex.perf"/>
+      <attr-item tags="vblex.dual"/>
+      <attr-item tags="vbmod.impf.tv"/> <!-- Modal verbs already receive transitivity tags in rus.dix-->
+      <attr-item tags="vbmod.impf.iv"/>
+      <attr-item tags="vbmod.perf.tv"/>
+      <attr-item tags="vbmod.perf.iv"/>
+    </def-attr>
+    <def-attr n="a_gender">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="mf"/>
+      <attr-item tags="mfn"/>
+    </def-attr>
+    <def-attr n="a_anim">
+      <attr-item tags="aa"/>
+      <attr-item tags="nn"/>
+      <attr-item tags="an"/>
+    </def-attr>
+    <def-attr n="a_poss">
+      <attr-item tags="px1sg"/>
+      <attr-item tags="px2sg"/>
+      <attr-item tags="px3sp"/>
+      <attr-item tags="px1pl"/>
+      <attr-item tags="px2pl"/>
+    </def-attr>
+    <def-attr n="a_case">
+      <attr-item tags="nom"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="abl"/>
+      <attr-item tags="loc"/>
+      <attr-item tags="sim"/>
+      <attr-item tags="ins"/>
+      <attr-item tags="prp"/>
+      <attr-item tags="CD"/>
+    </def-attr>
+    <def-attr n="a_px">
+      <attr-item tags="px"/>
+    </def-attr>
+    <def-attr n="a_nbr">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+    </def-attr>
+    <def-attr n="a_pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+    </def-attr>
+    <def-attr n="a_tense">
+      <attr-item tags="pres"/>
+      <attr-item tags="ifi"/>
+      <attr-item tags="past"/>
+      <attr-item tags="fut"/>
+      <attr-item tags="fut2"/>
+      <attr-item tags="imp"/>
+    </def-attr>
+    <def-attr n="a_neg">
+      <attr-item tags="neg"/>
+    </def-attr>
+    <def-attr n="a_trans">
+      <attr-item tags="tv"/>
+      <attr-item tags="iv"/>
+    </def-attr>
+    <def-attr n="a_aspec">
+      <attr-item tags="perf"/>
+      <attr-item tags="impf"/>
+      <attr-item tags="dual"/>
+    </def-attr>
+    <def-attr n="a_formality">
+      <attr-item tags="frm"/>
+    </def-attr>
+
   </section-def-attrs>
 
   <section-def-vars>
+
     <def-var n="number"/>
+    <def-var n="negation"/>
+    <def-var n="gender"/>
+    <def-var n="case"/>
+    <def-var n="preposition"/>
+    <def-var n="possessive"/>
+    <def-var n="animacy"/>
+
   </section-def-vars>
 
+  <section-def-lists>
+
+    <def-list n="np-top-hypernym">
+      <list-item v="шәһәр"/>
+    </def-list>
+
+    <def-list n="nouns-with-loc-case">
+      <list-item v="год"/>
+      <list-item v="сад"/>
+      <list-item v="угол"/>
+    </def-list>
+
+    <def-list n="nouns-most-likely-used-with-ordinal-num">
+      <list-item v="статья"/>
+      <list-item v="глава"/>
+      <list-item v="параграф"/>
+    </def-list>
+
+  </section-def-lists>
+
   <section-def-macros>
-    <def-macro n="test" npar="1">
-          <let>
-            <var n="number"/>
-            <lit v=""/>
-          </let>
+
+    <def-macro n="return-number-of-sl-word" npar="1">
+      <!-- arg.1 any nominal -> v_number
+           Sets the 'number' variable to '<pl>' if the word contains the '<pl>' tag,
+           to '<sg>' otherwise (in context of Tatar, singular is the absence of the
+           plural affix).
+           GIVEN:  ^мәктәп<n><nom>/школа<n><f><nn><nom>$
+           EXPECT: number = "<sg>"
+           GIVEN:  ^мәктәп<n><pl><nom>/школа<n><f><nn><pl><nom>$
+           EXPECT: number = "<pl>" -->
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/>
+            </equal>
+          </test>
+          <let><var n="number"/><lit-tag v="pl"/></let>
+        </when>
+        <otherwise>
+          <let><var n="number"/><lit-tag v="sg"/></let>
+        </otherwise>   
+      </choose>
     </def-macro>
+
+    <def-macro n="convert-poss-affix-to-poss-determiner" npar="1">
+      <!-- arg.1 any nominal -> v_possessive
+           Sets the value of the 'possessive' variable to a possessive determiner if the nominal
+           contains a possessive affix.
+           GIVEN:  ^абый<n><px1sg><nom>/brother<n><sg><px1sg><nom>$
+           EXPECT: possessive = ^my<det><pos><sp>$
+           GIVEN:  ^абый<n><px2sg><acc>/brother<n><sg><px2sg><acc>$
+           EXPECT: possessive = ^your<det><pos><sp>$ -->
+      <let><var n="possessive"/><lit v=""/></let>
+      <choose>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px1sg"/></equal>
+          </test>
+          <let><var n="possessive"/>
+          <concat>
+            <lit v="^my"/>
+            <lit-tag v="det"/><lit-tag v="pos"/><lit-tag v="sp"/>
+            <lit v="$ "/>
+          </concat>
+          </let>  
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px2sg"/></equal>
+          </test>
+          <let><var n="possessive"/>
+          <concat>
+            <lit v="^your"/>
+            <lit-tag v="det"/><lit-tag v="pos"/><lit-tag v="sp"/>
+            <lit v="$ "/>
+          </concat>
+          </let>  
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px3sp"/></equal>
+          </test>
+          <let><var n="possessive"/>
+          <concat>
+            <lit v="^his"/>
+            <lit-tag v="det"/><lit-tag v="pos"/><lit-tag v="sp"/>
+            <lit v="$ "/>
+          </concat>
+          </let>  
+        </when>
+      </choose>
+    </def-macro>
+
+    <def-macro n="translate-noun" npar="1">
+      <!-- arg.1 noun -> v_preposition v_possessive noun
+           Translates ablative, locative, similiative cases with the variable 'preposition'
+           and noun, <px><nom> with genitive, other cases remain as they are. If the noun
+           has a possessive affix, stores a corresponding possessive determiner in 'possessive'
+           variable.
+           Modifies variables and TL noun so that they are generatable (or, in case of variables,
+           empty). -->
+      <call-macro n="return-number-of-sl-word">
+        <with-param pos="1"/>
+      </call-macro>
+      <choose>
+        <when>
+          <test>
+            <or>
+              <equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/></equal>
+              <equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="gen"/></equal>
+              <equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="dat"/></equal>
+              <equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="acc"/></equal>
+            </or>
+          </test>
+          <let><var n="preposition"/><lit v=""/></let>
+          <let><var n="case"/><clip pos="1" side="tl" part="a_case"/></let>
+        </when>
+        <when>
+          <test><equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="abl"/></equal></test>
+          <let><var n="preposition"/><concat><lit v="^из"/><lit-tag v="pr"/><lit v="$ "/></concat></let>
+          <let><var n="case"/><lit-tag v="gen"/></let>
+        </when>
+        <when>
+          <test><equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="loc"/></equal></test>
+	  <let><var n="preposition"/><concat><lit v="^в"/><lit-tag v="pr"/><lit v="$ "/></concat></let>
+	  <choose>
+	    <when>
+	      <test><in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="nouns-with-loc-case"/></in></test>
+              <let><var n="case"/><lit-tag v="loc"/></let>
+            </when>
+	    <otherwise>
+              <let><var n="case"/><lit-tag v="prp"/></let>
+	    </otherwise>
+	  </choose>
+	</when>
+        <when>
+          <test><equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="sim"/></equal></test>
+          <let><var n="preposition"/><concat><lit v="^как"/><lit-tag v="adv"/><lit-tag v="rel"/><lit v="$ "/></concat></let>
+          <let><var n="case"/><lit-tag v="nom"/></let>
+        </when>
+        <when>
+          <test><equal><clip pos="1" side="sl" part="a_case"/><lit v=""/></equal></test>
+          <let><var n="case"/><lit-tag v="nom"/></let>
+        </when>
+        <when>
+          <test><equal><clip pos="1" side="sl" part="a_px"/><lit-tag v="px"/></equal></test>
+          <let><var n="case"/><lit-tag v="gen"/></let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+	    <and>
+              <equal><clip pos="1" side="tl" part="a_pos"/><lit-tag v="adj"/></equal>
+	      <equal><var n="number"/><lit-tag v="pl"/></equal>
+	    </and>
+	  </test>
+	  <let><clip pos="1" side="tl" part="a_gender"/><lit-tag v="mfn"/></let>
+	</when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+	    <and>
+	      <or>
+		<equal><clip pos="1" side="tl" part="a_pos"/><lit-tag v="adj"/></equal>
+		<equal><clip pos="1" side="tl" part="a_pos"/><lit-tag v="det"/></equal>
+	      </or>
+              <equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="acc"/></equal>
+	      <or>
+		<equal><clip pos="1" side="tl" part="a_gender"/><lit-tag v="m"/></equal>
+		<equal><clip pos="1" side="tl" part="a_gender"/><lit-tag v="mfn"/></equal>
+	      </or>
+	    </and>
+	  </test>
+	  <let><clip pos="1" side="tl" part="a_anim"/><lit-tag v="aa"/></let>
+	</when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+	    <and>
+              <equal><clip pos="1" side="tl" part="a_pos"/><lit-tag v="np.cog"/></equal>
+	      <equal><var n="number"/><lit-tag v="pl"/></equal>
+	    </and>
+	  </test>
+	  <let><clip pos="1" side="tl" part="a_gender"/><lit-tag v="mf"/></let>
+	</when>
+      </choose>
+      <let>
+        <clip pos="1" side="tl" part="whole"/>
+        <concat>
+          <clip pos="1" side="tl" part="lemh"/>
+          <clip pos="1" side="tl" part="a_nom"/>
+          <clip pos="1" side="tl" part="a_gender"/>
+          <clip pos="1" side="tl" part="a_anim"/>
+          <var n="number"/>
+          <var n="case"/>
+          <clip pos="1" side="tl" part="lemq"/>
+        </concat>
+      </let>
+      <call-macro n="convert-poss-affix-to-poss-determiner">
+        <with-param pos="1"/>
+      </call-macro>
+    </def-macro>
+
   </section-def-macros>
 
   <section-rules>
-    <rule comment="REGLA: SENT">
+
+    <rule comment="REGLA: N">
+      <!--
+      INPUT:  ^ата<n><px3sp><nom>/father<n><sg><px3sp><nom>$
+      OUTPUT: ^n<SN><nom>{^his<det><pos><sp>$ ^father<n><sg>$}$
+      -->
       <pattern>
-        <pattern-item n="sent"/>
+        <pattern-item n="n"/>
       </pattern>
       <action>
-        <out>
-          <chunk name="sent" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SENT"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
+        <choose>
+          <when>
+            <test>
+	      <and>
+	        <equal><clip pos="1" side="sl" part="a_syntag"/><lit-tag v="attr"/></equal>
+	        <equal><clip pos="1" side="tl" part="a_pos"/><lit-tag v="adj"/></equal>
+	      </and>
+	    </test>
+            <out>
+              <chunk name="adj">
+                <tags>
+                  <tag><lit-tag v="AdjP"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+              </chunk>
+            </out>
+	  </when>
+          <when c="similative is translated with an adverb (happens in case of pronouns
+		   шундый->так)">
+	    <test>
+	      <equal><clip pos="1" side="tl" part="a_pos"/><lit-tag v="adv"/></equal>
+	    </test>
+	    <out>
+	      <chunk name="adv">
+                <tags>
+                  <tag><lit-tag v="AdvP"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+	      </chunk>
+	    </out>
+          </when>
+          <when>
+	    <test>
+	      <equal><clip pos="1" side="tl" part="a_pos"/><lit-tag v="det.pos"/></equal>
+	    </test>
+	    <out>
+	      <chunk name="det">
+                <tags>
+                  <tag><lit-tag v="DET"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+	      </chunk>
+	    </out>
+          </when>
+          <when c="n.px3sp.{dat/abl/loc} is translated with a preposition">
+            <test><equal><clip pos="1" side="tl" part="a_pos"/><lit-tag v="pr"/></equal></test>
+            <out>
+              <chunk name="pr">
+                <tags>
+                  <tag><lit-tag v="PREP"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_pr"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <call-macro n="translate-noun">
+              <with-param pos="1"/>
+            </call-macro>
+            <choose>
+              <when>
+                <test><equal><var n="preposition"/><lit v=""/></equal></test>
+                <out>
+                  <chunk name="n">
+                    <tags>
+                      <tag><lit-tag v="SN"/></tag>
+                      <tag><clip pos="1" side="tl" part="a_case"/></tag>
+                      <tag><clip pos="1" side="sl" part="a_SYNLABEL"/></tag>
+                    </tags>
+                    <var n="possessive"/>
+                    <lu>
+		      <clip pos="1" side="tl" part="lem"/>
+		      <clip pos="1" side="tl" part="a_nom"/>
+		      <clip pos="1" side="tl" part="a_nbr"/>
+		      <clip pos="1" side="tl" part="lemq"/>
+                    </lu>
+                  </chunk>
+                </out>
+              </when>
+              <otherwise>
+                <out>
+                  <chunk name="pr_n">
+                    <tags>
+                      <tag><lit-tag v="PP"/></tag>
+                    </tags>
+                    <var n="preposition"/>
+                    <var n="possessive"/>
+                    <lu>
+		      <clip pos="1" side="tl" part="whole"/>
+                    </lu>
+                  </chunk>
+                </out>
+              </otherwise>
+            </choose>
+          </otherwise>
+        </choose>
       </action>
     </rule>
+
   </section-rules>
+
 </transfer>
 
 <!--
