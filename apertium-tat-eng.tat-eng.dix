@@ -100,15 +100,24 @@
 
   <section id="main" type="standard">
 
-    <e><p><l>бер<s n="num"/></l><r>one<s n="num"/><s n="sg"/></r></p></e>
-
     <e><p><l>абый<s n="n"/></l><r>brother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ата<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ана<s n="n"/></l><r>mother<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>Баланов<s n="np"/><s n="cog"/><s n="m"/></l><r>Balanov<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    <e><p><l>Казан<s n="np"/><s n="top"/></l><r>Kazan<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>кыз<s n="n"/></l><r>daughter<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>бер<s n="num"/></l><r>one<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>мещан<s n="n"/></l><r>urban<b/>commoner<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>Мөхәммәд<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammad<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Нигъмәтулла<s n="np"/><s n="ant"/><s n="m"/></l><r>Nigmetulla<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Сәрвиҗамал<s n="np"/><s n="ant"/><s n="f"/></l><r>Servijamal<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Фәтхулла<s n="np"/><s n="ant"/><s n="m"/></l><r>Fethulla<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 
     <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+
   </section>
+
 </dictionary>
 
 <!--
