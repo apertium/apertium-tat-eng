@@ -23,7 +23,3 @@ t/t1x.test -text
 t/trimmed-coverage.sh -text
 t/update-latest -text
 t/wiki-tests -text
-texts/birthRecord.corrected.csv -text
-texts/birthRecord.csv -text
-texts/birthRecord.recentTranslation.csv -text
-texts/birthRecord.refTranslation.csv -text
