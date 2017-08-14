@@ -109,8 +109,12 @@
     <e><p><l>кыз<s n="n"/></l><r>daughter<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>купес<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мещан<s n="n"/></l><r>urban<b/>commoner<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мөәзин<s n="n"/></l><r>muezzin<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>өяз<s n="n"/></l><r>county<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>почтовой<s n="n"/></l><r>postman<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>почтавой<s n="n"/></l><r>postman<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ул<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>ындырчы<s n="n"/></l><r>granary<b/>worker<s n="n"/><s n="sg"/></r></p></e>
 
     <e><p><l>гыйнвар<s n="n"/></l><r>January<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>февраль<s n="n"/></l><r>February<s n="n"/><s n="sg"/></r></p></e>
@@ -647,6 +651,7 @@
     <e><p><l>Дима<s n="np"/><s n="ant"/><s n="m"/></l><r>Dima<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Динар<s n="np"/><s n="ant"/><s n="m"/></l><r>Dinar<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Динара<s n="np"/><s n="ant"/><s n="f"/></l><r>Dinara<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>Дини<s n="np"/><s n="ant"/><s n="m"/></l><r>Dini<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Динә<s n="np"/><s n="ant"/><s n="f"/></l><r>Dinä<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Динмөхәммәт<s n="np"/><s n="ant"/><s n="m"/></l><r>Dinmöxämmät<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Дмитрий<s n="np"/><s n="ant"/><s n="m"/></l><r>Dmitriy<s n="np"/><s n="ant"/><s n="m"/></r></p></e>

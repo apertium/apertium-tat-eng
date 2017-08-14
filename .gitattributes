@@ -18,5 +18,5 @@
 test-scripts/t1x.test -text
 texts/birthRecord.corrected.csv -text
 texts/birthRecord.csv -text
-texts/birthRecord.previousOutput.csv -text
+texts/birthRecord.recentTranslation.csv -text
 texts/birthRecord.refTranslation.csv -text
