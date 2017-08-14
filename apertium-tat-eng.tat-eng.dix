@@ -103,6 +103,8 @@
     <e><p><l>бер<s n="num"/></l><r>one<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>үз<s n="det"/><s n="ref"/></l><r>own<s n="adj"/></r></p></e>
 
+    <e><p><l>потомственный<s n="det"/><s n="ref"/></l><r>hereditary<s n="adj"/></r></p></e>
+
     <e><p><l>абый<s n="n"/></l><r>brother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>авыл<s n="n"/></l><r>village<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ата<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
@@ -133,6 +135,24 @@
     <e><p><l>ул<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>фатир<s n="n"/></l><r>apartment<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ындырчы<s n="n"/></l><r>granary<b/>worker<s n="n"/><s n="sg"/></r></p></e>
+
+    <e><p><l>дворянин<s n="n"/></l><r>nobleman<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>сәүдәгәр<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>дамелла<s n="n"/></l><r>damella<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мелла<s n="n"/></l><r>mullah<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>хатыйп<s n="n"/></l><r>khatib<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мөдәррис<s n="n"/></l><r>teacher<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>второй<b/>гильдий<b/>купес<s n="n"/></l><r>merchant<b/>of<b/>the<b/>second<b/>guild<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>второй<b/>гильдии<b/>купец<s n="n"/></l><r>merchant<b/>of<b/>the<b/>second<b/>guild<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>1<b/>нче<b/>гильдии<b/>купец<s n="n"/></l><r>merchant<b/>of<b/>the<b/>1st<b/>guild<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>подданный<s n="n"/></l><r>citizen<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>народный<b/>учитель<s n="n"/></l><r>national<b/>teacher<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>билетный<b/>солдат<s n="n"/></l><r>reserve<b/>soldier<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>губернский<b/>секретарь<s n="n"/></l><r>governorate<b/>secretary<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>подполковник<s n="n"/></l><r>lieutenant-colonel<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>почтавой<s n="n"/></l><r>postman<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>почтовой<s n="n"/></l><r>postman<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>әткә<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
 
     <e><p><l>гыйнвар<s n="n"/></l><r>January<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>февраль<s n="n"/></l><r>February<s n="n"/><s n="sg"/></r></p></e>
