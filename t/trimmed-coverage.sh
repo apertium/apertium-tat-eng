@@ -14,7 +14,7 @@ fi
 # This file is kept even after the script is ended:
 needed=/tmp/corpus-stat-all-needed.txt
 
-covgoal="75.0" # percent goal we aim
+covgoal="100.0" # percent goal we aim
 
 
 cd "$(dirname $0)"
