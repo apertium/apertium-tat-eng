@@ -164,4 +164,4 @@ test: all
 	@rm .test-ref .test-mt
 
 corpus-test: all
-	diff texts/birthRecord.previousOutput.csv <(cat texts/birthRecord.corrected.csv | apertium -u -d . tat-eng) | less
+	diff texts/birthRecord.recentTranslation.csv <(cat texts/birthRecord.corrected.csv | apertium -u -d . tat-eng) | less
