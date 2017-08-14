@@ -163,3 +163,5 @@ test: all
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
 
+corpus-test: all
+	diff texts/birthRecord.previousOutput.csv <(cat texts/birthRecord.corrected.csv | apertium -u -d . tat-eng) | less
