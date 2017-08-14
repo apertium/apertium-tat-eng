@@ -13,7 +13,6 @@
 /apertium-tat-eng.tat-eng.t3x -text
 /autogen.sh -text
 /configure.ac -text
-dev/todo -text
 /modes.xml -text
 /qa -text
 test-scripts/t1x.test -text
