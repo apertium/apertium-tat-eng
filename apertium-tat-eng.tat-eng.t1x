@@ -49,6 +49,14 @@
       <cat-item tags="v.*.ger.pl.px3sp.*"/>
     </def-cat>
 
+    <def-cat n="np-top-attr">
+      <cat-item tags="np.top.attr"/>
+    </def-cat>
+
+    <def-cat n="np-top-gen">
+      <cat-item tags="np.top.gen"/>
+    </def-cat>
+    
     <def-cat n="cop-pres">
       <cat-item tags="cop.aor.p1.*"/>
       <cat-item tags="cop.aor.p2.*"/>
@@ -636,7 +644,7 @@
     </rule>
 
     <rule comment="RULE: COP">
-      <!--
+     <!--
      INPUT:  ^и<cop><aor><p3><sg>/be<vbser><p3><sg>$
      OUTPUT: ^cop-pres<VBSER>{^be<vbser><pres><p3><sg>$}$
      -->
@@ -665,9 +673,62 @@
       </action>
     </rule>
 
+    <rule comment="RULE: NP N NP"> 
+      <!--
+      INPUT:  ^Казан<np><top><attr>/Kazan<np><top><sg><attr>$ ^өяз<n><px3sp><nom>/county<n><sg><px3sp><nom>$ ^Әлдермеш<np><top><gen>/Äldermeş<np><top><sg><gen>$
+      OUTPUT: ^np_n_np<PP>{^from<pr>$ ^Äldermeş<np><top><sg>$ ^in<pr>$ ^county<n><sg>$ ^of<pr>$ ^Kazan<np><top><sg>$}$
+      -->
+      <pattern>
+	<pattern-item n="np-top-attr"/>
+        <pattern-item n="n-px3sp"/>
+        <pattern-item n="np-top-gen"/>
+      </pattern>
+      <action>
+	<out>
+	  <chunk name="np_n_np">
+	    <tags>
+	      <tag><lit-tag v="PP"/></tag>
+	    </tags>
+	    <lu>
+	      <lit v="from"/>
+	      <lit-tag v="pr"/>
+	    </lu>
+	    <b/>
+	    <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="a_nbr"/>
+            </lu>
+	    <b/>
+	    <lu>
+	      <lit v="in"/>
+	      <lit-tag v="pr"/>
+	    </lu>
+	    <b/>
+	    <lu>
+	      <clip pos="2" side="tl" part="lem"/>
+	      <clip pos="2" side="tl" part="a_nom"/>
+	      <clip pos="2" side="tl" part="a_nbr"/>
+	    </lu>
+	    <b/>
+	    <lu>
+	      <lit v="of"/>
+	      <lit-tag v="pr"/>
+	    </lu>
+	    <b/>	    
+	    <lu>
+	      <clip pos="1" side="tl" part="lem"/>
+	      <clip pos="1" side="tl" part="a_nom"/>
+	      <clip pos="1" side="tl" part="a_nbr"/>
+	    </lu>
+	  </chunk>
+	</out>
+      </action>
+    </rule>
+    
   </section-rules>
 
-</transfer>
+ </transfer>
 
 <!--
 Resources:
