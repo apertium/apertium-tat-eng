@@ -23,7 +23,8 @@
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
     <sdef n="prn"             c="Pronoun"/>
-
+    <sdef n="cop"             c="Copula"/>
+    
     <sdef n="attr"            c="Attributive"/>
     <sdef n="top"             c="Toponym"/>
     <sdef n="ant"             c="Anthroponym"/>
@@ -74,6 +75,7 @@
     <sdef n="pprs"            c="Present participle"/>
     <sdef n="pasv"            c="Passive"/>
     <sdef n="actv"            c="Active voice"/>
+    <sdef n="aor"             c="Aorist"/>
 
     <sdef n="sint"            c="Synthetic (of adjectives)"/>
     <sdef n="pst"             c="Positive"/>
@@ -129,6 +131,7 @@
     <e><p><l>зәүҗәен<s n="n"/></l><r>couple<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зирагать<s n="n"/></l><r>granary<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зирагатьче<s n="n"/></l><r>granary<b/>worker<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>и<s n="cop"/><s n="aor"/><s n="p3"/><s n="sg"/></l><r>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e><p><l>ибн<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ике<s n="num"/><s n="ord"/></l><r>second<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>ил<s n="n"/></l><r>village<s n="n"/><s n="sg"/></r></p></e>

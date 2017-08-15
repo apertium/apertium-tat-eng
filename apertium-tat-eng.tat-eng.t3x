@@ -1,43 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- -*- nxml -*- -->
+
+<!-- Tests are run by './t/qa t3x' command.
+     INPUT is the output of t2x,
+     OUTPUT is the expected output of this transfer module.
+
+     Also make sure to run './t/qa' (with no arguments)
+     before committing to svn. -->
+
 <postchunk>
+
   <section-def-cats>
-    <def-cat n="sent">
-      <cat-item name="punt"/>
+    <def-cat n="vbser-pres">
+      <cat-item name="cop-pres"/>
     </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
-    <def-attr n="nbr">
-      <attr-item tags="sg"/>
+    <def-attr n="attrstub">
+      <attr-item tags="attrstub"/>
     </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
-    <def-var n="paraula"/>
+    <def-var n="varstub"/>
   </section-def-vars>
 
   <section-rules>
-    <rule comment="CHUNK:">
+
+<!--
+INPUT:  ^cop-pres<VBSER>{^быть<vbser><pres><p3><sg>$}$
+OUTPUT: ""
+-->
+    <rule comment="Delete the present tense copula">
       <pattern>
-        <pattern-item n="sent"/>
+        <pattern-item n="vbser-pres"/>
       </pattern>
       <action>
         <out>
           <lu>
-            <clip pos="1" part="whole"/>
+            <lit v=""/>
           </lu>
         </out>
       </action>
     </rule>
+
   </section-rules>
+
 </postchunk>
-
-<!--
-Resources:
-    http://wiki.apertium.org/wiki/Chunking:_A_full_example
-    http://wiki.apertium.org/wiki/Chunking
-    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Transfer_rules
-    http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
-    http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
--->
-
