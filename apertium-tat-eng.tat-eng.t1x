@@ -676,7 +676,7 @@
     <rule comment="RULE: NP N NP"> 
       <!--
       INPUT:  ^Казан<np><top><attr>/Kazan<np><top><sg><attr>$ ^өяз<n><px3sp><nom>/county<n><sg><px3sp><nom>$ ^Әлдермеш<np><top><gen>/Äldermeş<np><top><sg><gen>$
-      OUTPUT: ^np_n_np<PP>{^from<pr>$ ^Äldermeş<np><top><sg>$ ^in<pr>$ ^county<n><sg>$ ^of<pr>$ ^Kazan<np><top><sg>$}$
+      OUTPUT: ^np_n_np<PP>{^from<pr>$ ^Äldermeş<np><top><sg>$ ^in<pr>$ ^Kazan<np><top><sg>$ ^county<n><sg>$}$
       -->
       <pattern>
 	<pattern-item n="np-top-attr"/>
@@ -706,20 +706,15 @@
 	    </lu>
 	    <b/>
 	    <lu>
-	      <clip pos="2" side="tl" part="lem"/>
-	      <clip pos="2" side="tl" part="a_nom"/>
-	      <clip pos="2" side="tl" part="a_nbr"/>
-	    </lu>
-	    <b/>
-	    <lu>
-	      <lit v="of"/>
-	      <lit-tag v="pr"/>
-	    </lu>
-	    <b/>	    
-	    <lu>
 	      <clip pos="1" side="tl" part="lem"/>
 	      <clip pos="1" side="tl" part="a_nom"/>
 	      <clip pos="1" side="tl" part="a_nbr"/>
+	    </lu>
+	    <b/>
+	    <lu>
+	      <clip pos="2" side="tl" part="lem"/>
+	      <clip pos="2" side="tl" part="a_nom"/>
+	      <clip pos="2" side="tl" part="a_nbr"/>
 	    </lu>
 	  </chunk>
 	</out>
