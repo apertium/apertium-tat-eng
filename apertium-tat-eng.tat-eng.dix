@@ -147,7 +147,8 @@
     <e><p><l>крестьян<s n="n"/></l><r>peasant<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>крестьянин<s n="n"/></l><r>peasant<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>купес<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>купец<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>    
+    <e><p><l>купец<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>куян<s n="n"/></l><r>rabbit<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>кыз<s n="n"/></l><r>daughter<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>май<s n="n"/></l><r>May<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>март<s n="n"/></l><r>March<s n="n"/><s n="sg"/></r></p></e>
@@ -184,8 +185,6 @@
     <e><p><l>шәһәр<s n="n"/></l><r>city<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ындырчы<s n="n"/></l><r>granary<b/>worker<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ышкул<s n="n"/></l><r>school<s n="n"/><s n="sg"/></r></p></e>
-
-    <e><p><l>Баланов<s n="np"/><s n="cog"/><s n="m"/></l><r>Balanov<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
 
     <e><p><l>Абай<s n="np"/><s n="ant"/><s n="m"/></l><r>Abay<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Абайжан<s n="np"/><s n="ant"/><s n="m"/></l><r>Abayjan<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -4691,6 +4690,7 @@
     <e><p><l>Зәйнетдинов<s n="np"/><s n="cog"/></l><r>Zäynetdinov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Зәйниев<s n="np"/><s n="cog"/></l><r>Zäyniev<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Зәйнуллин<s n="np"/><s n="cog"/></l><r>Zäynullin<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Зәлуш<s n="np"/><s n="cog"/></l><r>Zäluş<s n="np"/><s n="cog"/></r></p></e>    
     <e><p><l>Зәлушев<s n="np"/><s n="cog"/></l><r>Zäluşev<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Зәлүшев<s n="np"/><s n="cog"/></l><r>Zälüşev<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Зимин<s n="np"/><s n="cog"/></l><r>Zimin<s n="np"/><s n="cog"/></r></p></e>
@@ -4812,6 +4812,7 @@
     <e><p><l>Курмашов<s n="np"/><s n="cog"/></l><r>Qurmaşov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Күрсинков<s n="np"/><s n="cog"/></l><r>Kürsinkov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Кусатов<s n="np"/><s n="cog"/></l><r>Qusatov<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Күҗи<s n="np"/><s n="cog"/></l><r>Küci<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Күстәнбаев<s n="np"/><s n="cog"/></l><r>Küstänbayev<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Кутиев<s n="np"/><s n="cog"/></l><r>Qutiev<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Күтлин<s n="np"/><s n="cog"/></l><r>Kütlin<s n="np"/><s n="cog"/></r></p></e>
@@ -5698,6 +5699,7 @@
     <e><p><l>Күл<s n="np"/><s n="top"/></l><r>Kül<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Кулачы<s n="np"/><s n="top"/></l><r>Qulaçı<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Күлбаш<s n="np"/><s n="top"/></l><r>Külbaş<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Күлбашный<s n="np"/><s n="top"/></l><r>Külbaşnıy<s n="np"/><s n="top"/><s n="sg"/></r></p></e>   
     <e><p><l>Күлбеш<s n="np"/><s n="top"/></l><r>Külbeş<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Күлибаш<s n="np"/><s n="top"/></l><r>Külibaş<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Күлкә<b/>Көек<s n="np"/><s n="top"/></l><r>Külkä<b/>Köyek<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -5759,8 +5761,8 @@
     <e><p><l>Максабашы<s n="np"/><s n="top"/></l><r>Maqsabaşı<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Макул<s n="np"/><s n="top"/></l><r>Maqul<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Макыл<s n="np"/><s n="top"/></l><r>Maqıl<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Малмыж<s n="np"/><s n="top"/></l><r>Malmıj<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Малмыж<b/>өязе<s n="np"/><s n="top"/></l><r>Malmıj<b/>öyäze<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Малмыж<s n="np"/><s n="top"/></l><r>Malmıс<s n="np"/><s n="top"/><s n="sg"/></r></p></e>  
+    <e><p><l>Малмыҗ<s n="np"/><s n="top"/></l><r>Malmıс<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Малый<b/>Көек<s n="np"/><s n="top"/></l><r>Malıy<b/>Köyek<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Малый<b/>Мәтәскә<s n="np"/><s n="top"/></l><r>Malıy<b/>Mätäskä<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Малый<b/>Муй<s n="np"/><s n="top"/></l><r>Malıy<b/>Muy<s n="np"/><s n="top"/><s n="sg"/></r></p></e>

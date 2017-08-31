@@ -53,8 +53,14 @@
       <cat-item tags="np.top.attr"/>
     </def-cat>
 
-    <def-cat n="np-top-gen">
+    <def-cat n="n-px3sp-gen-or-abl">
+      <cat-item tags="n.px3sp.gen"/>
+      <cat-item tags="n.px3sp.abl"/>      
+    </def-cat>
+    
+    <def-cat n="np-top-gen-or-abl">
       <cat-item tags="np.top.gen"/>
+      <cat-item tags="np.top.abl"/>      
     </def-cat>
 
     <def-cat n="np-ant-loc">
@@ -67,7 +73,11 @@
       <cat-item tags="cop.aor.p3.*"/>
       <cat-item tags="cop.neg.aor.p3.*"/>
     </def-cat>
-    
+
+    <def-cat n="det">
+      <cat-item tags="det.*"/>
+    </def-cat>
+
   </section-def-cats>
 
   <section-def-attrs>
@@ -487,6 +497,95 @@
 
   <section-rules>
 
+     <rule comment="RULE: NP N NP N"> 
+      <!--
+      INPUT:  ^Мамадыш<np><top><attr>/Mamadış<np><top><sg><attr>$ ^өяз<n><px3sp><nom>/county<n><sg><px3sp><nom>$ ^Измә<np><top><attr>/İzmä<np><top><sg><attr>$ ^авыл<n><px3sp><gen>/village<n><sg><px3sp><gen>$
+      OUTPUT: ^np_n_np_n<PP>{^from<pr>$ ^İzmä<np><top><sg>$ ^village<n><sg>$ ^in<pr>$ ^Mamadış<np><top><sg>$ ^county<n><sg>$}$
+      -->
+      <pattern>
+	<pattern-item n="np-top-attr"/>
+        <pattern-item n="n-px3sp"/>
+	<pattern-item n="np-top-attr"/>
+        <pattern-item n="n-px3sp-gen-or-abl"/>
+      </pattern>
+      <action>
+	<out>
+	  <chunk name="np_n_np_n">
+	    <tags>
+	      <tag><lit-tag v="PP"/></tag>
+	    </tags>
+	    <lu>
+	      <lit v="from"/>
+	      <lit-tag v="pr"/>
+	    </lu>
+	    <b/>
+	    <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="a_nbr"/>
+            </lu>
+	    <b/>
+	    <lu>
+	      <clip pos="4" side="tl" part="lem"/>
+	      <clip pos="4" side="tl" part="a_nom"/>
+	      <clip pos="4" side="tl" part="a_nbr"/>
+	    </lu>
+	    <b/>
+	    <lu>
+	      <lit v="in"/>
+	      <lit-tag v="pr"/>
+	    </lu>
+	    <b/>
+	    <lu>
+	      <clip pos="1" side="tl" part="lem"/>
+	      <clip pos="1" side="tl" part="a_nom"/>
+	      <clip pos="1" side="tl" part="a_nbr"/>
+	    </lu>
+	    <b/>
+	    <lu>
+	      <clip pos="2" side="tl" part="lem"/>
+	      <clip pos="2" side="tl" part="a_nom"/>
+	      <clip pos="2" side="tl" part="a_nbr"/>
+	    </lu>
+	  </chunk>
+	</out>
+      </action>
+    </rule>
+   
+    <rule comment="np-ant-loc">
+      <!--
+        INPUT:  ^Гали<np><ant><m><loc>/Ğäli<np><ant><m><sg><loc>$
+        OUTPUT: ^np<PP>{^at<pr>$ ^Ğäli<np><ant><m><sg>$^'s<gen>$}$
+      -->
+      <pattern>
+        <pattern-item n="np-ant-loc"/>
+      </pattern>
+      <action>
+	<out>
+	  <chunk name="np">
+	    <tags>
+	      <tag><lit-tag v="PP"/></tag>
+	    </tags>
+	    <lu>
+	      <lit v="at"/>
+	      <lit-tag v="pr"/>
+	    </lu>
+	    <b/>
+	    <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_gender"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+            </lu>
+	    <lu>
+	      <lit v="'s"/>
+	      <lit-tag v="gen"/>
+	    </lu>
+	  </chunk>
+	</out>
+      </action>
+    </rule>
+    
     <rule comment="RULE: N">
       <!--
       INPUT:  ^ата<n><px3sp><nom>/father<n><sg><px3sp><nom>$
@@ -646,11 +745,11 @@
             </out>
       </action>
     </rule>
-
+    
     <rule comment="NP NP">
       <!--
         INPUT:  ^Тәмти<np><ant><m><nom>/Tämti<np><ant><m><sg><nom>$ ^Гали<np><ant><m><loc>/Ğäli<np><ant><m><sg><loc>$
-        OUTPUT: ^np_np<PP>{^at<pr>$ ^Tämti<np><ant><m><sg>$ ^Ğäli<np><ant><m><sg>$^'s<gen>$ ^home<n><sg>$}$
+        OUTPUT: ^np_np<PP>{^at<pr>$ ^Tämti<np><ant><m><sg>$ ^Ğäli<np><ant><m><sg>$^'s<gen>$}$
       -->
       <pattern>
 	<pattern-item n="n-attr-or-gen"/>
@@ -683,12 +782,6 @@
 	    <lu>
 	      <lit v="'s"/>
 	      <lit-tag v="gen"/>
-	    </lu>
-	    <b/>
-	    <lu>
-	      <lit v="home"/>
-	      <lit-tag v="n"/>
-	      <lit-tag v="sg"/>
 	    </lu>
 	  </chunk>
 	</out>
@@ -733,7 +826,7 @@
       <pattern>
 	<pattern-item n="np-top-attr"/>
         <pattern-item n="n-px3sp"/>
-        <pattern-item n="np-top-gen"/>
+        <pattern-item n="np-top-gen-or-abl"/>
       </pattern>
       <action>
 	<out>
@@ -772,7 +865,7 @@
 	</out>
       </action>
     </rule>
-
+    
     <rule comment="NP N NP N NP">
       <!--
       INPUT:  ^Сембер<np><top><attr>/Sember<np><top><sg><attr>$ ^губерна<n><px3sp><nom>/governorate<n><sg><px3sp><nom>$ ^Буа<np><top><attr>/Bua<np><top><sg><attr>$ ^өяз<n><px3sp><nom>/county<n><sg><px3sp><nom>$ ^Чокалы<np><top><gen>/Çoqalı<np><top><sg><gen>$
@@ -783,7 +876,7 @@
         <pattern-item n="n-px3sp"/>
 	<pattern-item n="np-top-attr"/>
         <pattern-item n="n-px3sp"/>
-        <pattern-item n="np-top-gen"/>
+        <pattern-item n="np-top-gen-or-abl"/>
       </pattern>
       <action>
 	<out>
@@ -839,7 +932,70 @@
 	</out>
       </action>
     </rule>
+
+    <rule comment="DET N">
+      <!--
+          INPUT:  ^үз<det><ref>/own<adj>$ ^йорт<n><px3sp><loc>/home<n><sg><px3sp><loc>$
+          OUTPUT: ^det_n<PP>{^at<pr>$ ^his<det><pos><sp>$ ^own<adj>$ ^home<n><sg>$}$
+      -->
+      <pattern>
+	<pattern-item n="det"/>
+        <pattern-item n="n"/>
+      </pattern>
+      <action>
+        <call-macro n="translate-noun">
+          <with-param pos="2"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test><equal><var n="preposition"/><lit v=""/></equal></test>
+            <out>
+              <chunk name="det_n">
+                <tags>
+                  <tag><lit-tag v="NP"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_case"/></tag>
+                  <tag><clip pos="1" side="sl" part="a_SYNLABEL"/></tag>
+                </tags>
+                <var n="possessive"/>
+                <lu>
+		  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+		<b/>
+                <lu>
+		  <clip pos="2" side="tl" part="lem"/>
+		  <clip pos="2" side="tl" part="a_nom"/>
+		  <clip pos="2" side="tl" part="a_nbr"/>
+		  <clip pos="2" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <out>
+              <chunk name="det_n">
+                <tags>
+                  <tag><lit-tag v="PP"/></tag>
+                </tags>
+                <var n="preposition"/>
+                <var n="possessive"/>
+                <lu>
+		  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+		<b/>
+                <lu>
+		  <clip pos="2" side="tl" part="lem"/>
+		  <clip pos="2" side="tl" part="a_nom"/>
+		  <clip pos="2" side="tl" part="a_nbr"/>
+		  <clip pos="2" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
+      </action>
+    </rule>
     
+
 </section-rules>
 
  </transfer>
