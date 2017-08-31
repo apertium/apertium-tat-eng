@@ -167,4 +167,7 @@ acceptance-test: all
 	diff <(cat texts/birthRecord.corrected.csv | apertium tat-eng -d . -u -m texts/tat-eng.tmx -o tat-eng) texts/birthRecord.refTranslation.csv | less
 
 corpus-test: all
-	diff texts/birthRecord.recentTranslation.csv <(cat texts/birthRecord.corrected.csv | apertium tat-eng -d . -u -m texts/tat-eng.tmx -o tat-eng) | less
+	mv texts/birthRecord.currentTranslation.csv texts/birthRecord.previousTranslation.csv
+	cat texts/birthRecord.corrected.csv | apertium tat-eng -d . -u -m texts/tat-eng.tmx -o tat-eng > texts/birthRecord.currentTranslation.csv
+	diff texts/birthRecord.previousTranslation.csv texts/birthRecord.currentTranslation.csv | less
+
