@@ -164,7 +164,7 @@ test: all
 	@rm .test-ref .test-mt
 
 acceptance-test: all
-	diff <(cat texts/birthRecord.corrected.csv | apertium tat-eng -d . -u -m texts/tat-eng.tmx -o tat-eng) texts/birthRecord.refTranslation.csv | less
+	diff <(head -n `wc -l texts/birthRecord.refTranslation.csv | grep -o "[[:digit:]]\+"` texts/birthRecord.corrected.csv | apertium tat-eng -d . -u -m texts/tat-eng.tmx -o tat-eng) texts/birthRecord.refTranslation.csv  | less
 
 corpus-test: all
 	mv texts/birthRecord.currentTranslation.csv texts/birthRecord.previousTranslation.csv
