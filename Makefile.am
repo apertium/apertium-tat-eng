@@ -163,5 +163,8 @@ test: all
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
 
+acceptance-test: all
+	diff <(cat texts/birthRecord.corrected.csv | apertium tat-eng -d . -u -m texts/tat-eng.tmx -o tat-eng) texts/birthRecord.refTranslation.csv | less
+
 corpus-test: all
 	diff texts/birthRecord.recentTranslation.csv <(cat texts/birthRecord.corrected.csv | apertium -u -d . tat-eng) | less
