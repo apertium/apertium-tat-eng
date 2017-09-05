@@ -58,6 +58,7 @@
 
     <def-cat n="kinship-term--px3sp">
       <cat-item lemma="бин" tags="n.px3sp.nom"/>
+      <cat-item lemma="бине" tags="n.px3sp.nom"/>
       <cat-item lemma="бинт" tags="n.px3sp.nom"/>
       <cat-item lemma="вәләд" tags="n.px3sp.nom"/>      
     </def-cat>
