@@ -10,6 +10,7 @@
 
     <sdef n="n"               c="Noun"/>
     <sdef n="np"              c="Proper noun"/>
+    <sdef n="v"              c="Verb"/>
     <sdef n="vblex"           c="Verb, lexical"/>
     <sdef n="vbmod"           c="Modal verb"/>
     <sdef n="vaux"            c="Auxiliary verb"/>
@@ -76,7 +77,10 @@
     <sdef n="pasv"            c="Passive"/>
     <sdef n="actv"            c="Active voice"/>
     <sdef n="aor"             c="Aorist"/>
-
+    <sdef n="past"             c=""/>
+    <sdef n="ifi"             c=""/>    
+    <sdef n="iv"             c=""/>
+    
     <sdef n="sint"            c="Synthetic (of adjectives)"/>
     <sdef n="pst"             c="Positive"/>
     <sdef n="comp"            c="Comparative"/>
@@ -117,6 +121,7 @@
     <e><p><l>бине<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бинт<s n="n"/></l><r>daughter<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вә<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e><p><l>вәкил<s n="n"/></l><r>witness<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вәләд<s n="n"/></l><r>child<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>волость<s n="n"/></l><r>volost<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>второй<b/>гильдии<b/>купец<s n="n"/></l><r>merchant<b/>of<b/>the<b/>second<b/>guild<s n="n"/><s n="sg"/></r></p></e>
@@ -148,6 +153,7 @@
     <e><p><l>июнь<s n="n"/></l><r>June<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>йорт<s n="n"/></l><r>home<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>карья<s n="n"/></l><r>village<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>кияү<s n="n"/></l><r>broom<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>крестьян<s n="n"/></l><r>peasant<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>крестьянин<s n="n"/></l><r>peasant<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>купес<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
@@ -158,6 +164,7 @@
     <e><p><l>март<s n="n"/></l><r>March<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мелла<s n="n"/></l><r>mullah<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мещан<s n="n"/></l><r>urban<b/>commoner<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мәһәр<s n="n"/></l><r>mahr<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәхәллә<s n="n"/></l><r>community<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәчет<s n="n"/></l><r>mosque<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мөдәррис<s n="n"/></l><r>teacher<s n="n"/><s n="sg"/></r></p></e>
@@ -165,12 +172,14 @@
     <e><p><l>мөфти<s n="n"/></l><r>mufti<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мулла<s n="n"/></l><r>mullah<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>народный<b/>учитель<s n="n"/></l><r>national<b/>teacher<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>номер<s n="n"/></l><r>number<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ноябрь<s n="n"/></l><r>November<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>октябрь<s n="n"/></l><r>October<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>отставной<s n="adj"/></l><r>resign<s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>офицер<s n="n"/></l><r>officer<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>өй<s n="n"/></l><r>home<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>өяз<s n="n"/></l><r>county<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>паспорт<s n="n"/></l><r>passport<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>подданный<s n="n"/></l><r>citizen<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>подполковник<s n="n"/></l><r>lieutenant-colonel<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>потомственный<s n="det"/><s n="ref"/></l><r>hereditary<s n="adj"/></r></p></e>
@@ -181,6 +190,8 @@
     <e><p><l>сентябрь<s n="n"/></l><r>September<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сәүдәгәр<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>солдат<s n="n"/></l><r>soldier<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тамга<b/>сал<s n="v"/><s n="iv"/><s n="ifi"/><s n="p1"/><s n="sg"/></l><r>sign<s n="vblex"/><s n="past"/></r></p></e>
+    <e><p><l>тараф<s n="n"/></l><r>side<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>указной<s n="adj"/></l><r>appoint<s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>ул<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>урам<s n="n"/></l><r>street<s n="n"/><s n="sg"/></r></p></e>    
