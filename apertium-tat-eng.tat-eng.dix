@@ -106,6 +106,7 @@
     <e><p><l>абый<s n="n"/></l><r>brother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>август<s n="n"/></l><r>August<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>авыл<s n="n"/></l><r>village<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>алтынчы<s n="n"/></l><r>goldsmith<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ана<s n="n"/></l><r>mother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>апрель<s n="n"/></l><r>April<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ата<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
@@ -136,6 +137,7 @@
     <e><p><l>и<s n="cop"/><s n="aor"/><s n="p3"/><s n="sg"/></l><r>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e><p><l>ибн<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ике<s n="num"/><s n="ord"/></l><r>second<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>икмәкче<s n="n"/></l><r>backer<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ил<s n="n"/></l><r>village<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>имам<s n="n"/></l><r>imam<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>исем<s n="n"/></l><r>name<s n="n"/><s n="sg"/></r></p></e>
@@ -163,7 +165,9 @@
     <e><p><l>народный<b/>учитель<s n="n"/></l><r>national<b/>teacher<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ноябрь<s n="n"/></l><r>November<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>октябрь<s n="n"/></l><r>October<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>отставной<s n="adj"/></l><r>resign<s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>офицер<s n="n"/></l><r>officer<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>өй<s n="n"/></l><r>home<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>өяз<s n="n"/></l><r>county<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>подданный<s n="n"/></l><r>citizen<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>подполковник<s n="n"/></l><r>lieutenant-colonel<s n="n"/><s n="sg"/></r></p></e>
@@ -175,17 +179,20 @@
     <e><p><l>сентябрь<s n="n"/></l><r>September<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сәүдәгәр<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>солдат<s n="n"/></l><r>soldier<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>указной<s n="adj"/></l><r>appoint<s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>ул<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>урам<s n="n"/></l><r>street<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>үз<s n="det"/><s n="ref"/></l><r>own<s n="adj"/></r></p></e>
     <e><p><l>фатир<s n="n"/></l><r>apartment<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>февраль<s n="n"/></l><r>February<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хатыйп<s n="n"/></l><r>khatib<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>хаҗи<s n="n"/></l><r>hajji<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>һәм<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>шәһәр<s n="n"/></l><r>city<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ындырчы<s n="n"/></l><r>granary<b/>worker<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ышкул<s n="n"/></l><r>school<s n="n"/><s n="sg"/></r></p></e>
-
+    <e><p><l>ягъни<s n="cnjsub"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    
     <e><p><l>Абай<s n="np"/><s n="ant"/><s n="m"/></l><r>Abay<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Абайжан<s n="np"/><s n="ant"/><s n="m"/></l><r>Abayjan<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Абат<s n="np"/><s n="ant"/><s n="m"/></l><r>Abat<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -4777,6 +4784,7 @@
     <e><p><l>Кенәгин<s n="np"/><s n="cog"/></l><r>Kenägin<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Кенягигин<s n="np"/><s n="cog"/></l><r>Kenyagigin<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Кәрими<s n="np"/><s n="cog"/></l><r>Kärimi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Кәрниз<s n="np"/><s n="cog"/></l><r>Kärniz<s n="np"/><s n="cog"/></r></p></e>    
     <e><p><l>Кәримов<s n="np"/><s n="cog"/></l><r>Kärimov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Кидеков<s n="np"/><s n="cog"/></l><r>Kidekov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Кизкәнбашский<s n="np"/><s n="cog"/></l><r>Kizkänbaşsqiy<s n="np"/><s n="cog"/></r></p></e>
