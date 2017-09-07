@@ -28,7 +28,7 @@ TODOstripwords="the The of oblast in In it if ki any will his this who we right 
 
 
 ### Do the translation:
-apertium-deshtml | apertium -f none -d .. "$PAIR-postchunk" | apertium-cleanstream -n | tee "$transfout" | lt-proc -g "../$PAIR.autogen.bin" | lt-proc -p "../$PAIR.autopgen.bin" > "$genout"
+apertium-deshtml | apertium "$PAIR-postchunk" -f none -d .. -m ../texts/tat-eng.tmx -o tat-eng | apertium-cleanstream -n | tee "$transfout" | lt-proc -g "../$PAIR.autogen.bin" | lt-proc -p "../$PAIR.autopgen.bin" > "$genout"
 
 
 
