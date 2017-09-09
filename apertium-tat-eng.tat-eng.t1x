@@ -331,8 +331,10 @@
     </def-macro>
 
     <def-macro n="convert-poss-affix-to-poss-determiner" npar="1">
-      <!-- arg.1 any nominal -> v_possessive
-           Sets the value of the 'possessive' variable to a possessive determiner if the nominal
+      <!-- arg.1 any nominal
+	   MODIFIES: 'possessive' variable
+	   
+           Sets the value of the 'possessive' variable to an appropriate possessive determiner if the nominal
            contains a possessive affix.
            GIVEN:  ^абый<n><px1sg><nom>/brother<n><sg><px1sg><nom>$
            EXPECT: possessive = ^my<det><pos><sp>$
@@ -536,7 +538,7 @@
         </when>
       </choose>
     </def-macro>
-
+   
   </section-def-macros>
 
   <section-rules>
