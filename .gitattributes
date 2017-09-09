@@ -13,6 +13,7 @@
 /apertium-tat-eng.tat-eng.t3x -text
 /autogen.sh -text
 /configure.ac -text
+/line -text
 /modes.xml -text
 t/README.org -text
 t/config.sh.in -text
