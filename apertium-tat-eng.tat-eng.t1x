@@ -70,6 +70,14 @@
       <cat-item tags="v.*.ger.pl.px3sp.*"/>
     </def-cat>
 
+    <def-cat n="np-ant-nom">
+      <cat-item tags="np.ant.*.nom"/>
+    </def-cat>
+
+    <def-cat n="np-cog-nom">
+      <cat-item tags="np.cog.*.nom"/>
+    </def-cat>
+
     <def-cat n="np-ant-or-cog-nom">
       <cat-item tags="np.*.nom"/>
       <cat-item tags="np.*.gen"/>
@@ -108,6 +116,10 @@
     <def-cat n="title">
       <cat-item lemma="мулла" tags="n.nom"/>
       <cat-item lemma="хаҗи" tags="n.nom"/>
+    </def-cat>
+
+    <def-cat n="son-of">
+      <cat-item lemma="ул" tags="n.px3sp.nom"/>
     </def-cat>
     
   </section-def-cats>
@@ -528,8 +540,8 @@
   </section-def-macros>
 
   <section-rules>
-
-     <rule comment="RULE: NP N NP N"> 
+    
+    <rule comment="RULE: NP N NP N"> 
       <!--
       INPUT:  ^Мамадыш<np><top><attr>/Mamadış<np><top><sg><attr>$ ^өяз<n><px3sp><nom>/county<n><sg><px3sp><nom>$ ^Измә<np><top><attr>/İzmä<np><top><sg><attr>$ ^авыл<n><px3sp><gen>/village<n><sg><px3sp><gen>$
       OUTPUT: ^np_n_np_n<PP>{^from<pr>$ ^İzmä<np><top><sg>$ ^village<n><sg>$ ^in<pr>$ ^Mamadış<np><top><sg>$ ^county<n><sg>$}$
@@ -1133,8 +1145,8 @@
       </action>
     </rule>
     
-        <rule comment="N NP">
-	  <!--
+    <rule comment="N NP">
+      <!--
         INPUT:  ^вәләд<n><px3sp><nom>/child<n><sg><nom>$ ^Гали<np><ant><m><nom>/Ğäli<np><ant><m><sg><nom>$
         OUTPUT: ^n_np<NP>{^child<n><sg>$ ^of<pr>$ ^Ğäli<np><ant><m><sg>$}$
         INPUT:  ^бин<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ^Максут<np><ant><m><nom>/Maqsut<np><ant><m><sg><nom>$
@@ -1175,6 +1187,67 @@
                 </lu>
               </chunk>
             </out>
+      </action>
+    </rule>
+
+        <rule comment="NP NP N N NP">
+      <!--
+          INPUT:  ^Габделкадыйр<np><ant><m><nom>/Ğabdelqadıyr<np><ant><m><sg><nom>$ ^Мөхәммәдвәли<np><ant><m><nom>/Möxämmädwäli<np><ant><m><sg><nom>$ ^мулла<n><attr>/mullah<n><sg><attr>$ ^ул<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ^Заманов<np><cog><m><nom>/Zamanov<np><cog><m><nom>$
+          OUTPUT: ^np_np_n_np<NP>{^Ğabdelqadıyr<np><ant><m><sg>>$ ^son<n><sg>$ ^of<pr>$ ^mullah<n><sg>$ ^Möxämmädwäli<np><ant><m><sg>$ ^Zamanov<np><cog><m><sg>$}$
+      -->
+      <pattern>
+        <pattern-item n="np-ant-nom"/>
+        <pattern-item n="np-ant-nom"/>
+        <pattern-item n="n-attr-or-gen"/>
+        <pattern-item n="son-of"/>
+        <pattern-item n="np-cog-nom"/>
+      </pattern>
+      <action>
+        <call-macro n="translate-noun">
+          <with-param pos="5"/>
+        </call-macro>
+        <out>
+          <chunk name="np_np_n_n_np">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+            </tags>
+            <var n="preposition"/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+            </lu>
+	    <b/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/>
+              <clip pos="4" side="tl" part="a_nom"/>
+              <clip pos="4" side="tl" part="a_nbr"/>
+            </lu>
+	    <b/>
+            <lu>
+              <lit v="of"/>
+              <lit-tag v="pr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_nom"/>
+	      <clip pos="3" side="tl" part="a_nbr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+	      <clip pos="2" side="tl" part="a_nbr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="5" side="tl" part="lem"/>
+              <clip pos="5" side="tl" part="a_nom"/>
+	      <clip pos="5" side="tl" part="a_nbr"/>
+            </lu>
+          </chunk>
+        </out>
       </action>
     </rule>
 

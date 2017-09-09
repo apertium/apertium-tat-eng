@@ -137,7 +137,7 @@
     <e><p><l>бинт<s n="n"/></l><r>daughter<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="ifi"/></l><r>be<s n="vbser"/><s n="past"/></r></p></e>
     <e><p><l>вә<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
-    <e><p><l>вәкил<s n="n"/></l><r>witness<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>вәкил<s n="n"/></l><r>envoy<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вәләд<s n="n"/></l><r>child<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вәли<s n="n"/></l><r>wali<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>волость<s n="n"/></l><r>volost<s n="n"/><s n="sg"/></r></p></e>
@@ -185,6 +185,7 @@
     <e><p><l>йорт<s n="n"/></l><r>home<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>карья<s n="n"/></l><r>village<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кияү<s n="n"/></l><r>broom<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>көмеш<s n="n"/></l><r>silver<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>крестьян<s n="n"/></l><r>peasant<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>крестьянин<s n="n"/></l><r>peasant<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>кул<s n="n"/></l><r>sign<s n="n"/><s n="sg"/></r></p></e>
@@ -241,7 +242,8 @@
     <e><p><l>тамга<b/>сал<s n="v"/><s n="iv"/><s n="ifi"/><s n="p1"/><s n="sg"/></l><r>sign<s n="vblex"/><s n="past"/></r></p></e>
     <e><p><l>тамга<s n="n"/></l><r>mark<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>тараф<s n="n"/></l><r>side<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>тәңкә<s n="n"/></l><r>ruble<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тәңкә<s n="n"/></l><r>coin<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>тәңкә<s n="n"/></l><r>ruble<s n="n"/><s n="pl"/></r></p></e>    
     <e><p><l>тиен<s n="n"/></l><r>kopek<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>тол<s n="adj"/></l><r>widowed<s n="adj"/></r></p></e>
     <e><p><l>тор<s n="v"/><s n="iv"/><s n="gpr_pot"/><s n="subst"/><s n="nom"/></l><r>live<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -6619,8 +6621,23 @@
     <e><re>[0-9]+([.,][0-9]+)+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
     <e><p><l>бу<b/>гакыде<b/>никахка<b/>разый<b/>булып</l><r>as<b/>content<b/>with<b/>this<b/>marriage<b/>agreeement</r></p></e>
-    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсендә<b/>ләвазем<b/>имамәтне<b/>әда<b/>кылгучы</l><r>serving<b/>as<b/>imam<b/>in<b/>a<b/>third<b/>level<b/>wooden<b/>mosque<b/>mahalla</r></p></e>
     <e><p><l>тиешле<b/>акчасын<b/>алып</l><r><b/>taking<b/>appropriate<b/>money</r></p></e>
+    <e><p><l>кулым<b/>куйдым</l><r>has<b/>signed</r></p></e>
+    <e><p><l>никах<b/>кылдым</l><r>conducted<b/>the<b/>ceremony</r></p></e>
+    <e><p><l>никах<b/>иттем</l><r>conducted<b/>the<b/>ceremony</r></p></e>
+    <e><p><l>тамгам<b/>салдым</l><r>has<b/>marked</r></p></e>
+    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсендә<b/>ләвазем<b/>имамәтне<b/>әда<b/>кылгучы</l><r>serving<b/>as<b/>imam<b/>in<b/>a<b/>third<b/>level<b/>wooden<b/>mosque<b/>mahalla</r></p></e>
+    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсе<b/>указной<b/>мөәдзин<b/>әдә<b/>кылгучы</l><r>serving<b/>as<b/>appointed<b/>muezzin<b/>in<b/>a<b/>third-level<b/>wooden<b/>mosque<b/>community</r></p></e>
+    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсендә<b/>указной<b/>мөәдзин<b/>әдә<b/>кылгучы</l><r>serving<b/>as<b/>appointed<b/>muezzin<b/>in<b/>a<b/>third-level<b/>wooden<b/>mosque<b/>community</r></p></e>
+    <e><p><l>мәһәре<b/>мөсәмма<s n="n"/></l><r>mahr<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>личный<b/>почетный<b/>гражданин<s n="n"/></l><r>personal<b/>honorary<b/>citizen<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>потомственный<b/>почетный<b/>гражданин<s n="n"/></l><r>hereditary<b/>honorary<b/>citizen<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>почетный<b/>гражданин<s n="n"/></l><r>honorary<b/>citizen<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>гәваһ<s n="n"/></l><r>witness<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>гәваһ<b/>булып</l><r>as<b/>witness</r></p></e>
+    <e><p><l>ма<b/>бәкыйсе</l><r>the<b/>rest</r></p></e>
+    <e><p><l>вәкил<b/>булып</l><r>as<b/>envoy</r></p></e>
+
   </section>
 
 </dictionary>
