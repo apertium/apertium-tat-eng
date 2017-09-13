@@ -155,9 +155,9 @@ clean-local:
 ###############################################################################
 
 acceptance-test: all
-	diff <(head -n `wc -l texts/birthRecord.refTranslation.csv | grep -o "[[:digit:]]\+"` texts/birthRecord.corrected.csv | apertium tat-eng -d . -u -m texts/tat-eng.tmx -o tat-eng) texts/birthRecord.refTranslation.csv  | less
+	diff <(head -n `wc -l texts/birthRecord.refTranslation.csv | grep -o "[[:digit:]]\+"` texts/birthRecord.corrected.csv | apertium -u -d . tat-eng) texts/birthRecord.refTranslation.csv  | less
 
 corpus-test: all
 	mv texts/currentTranslation.csv texts/previousTranslation.csv
-	cat texts/birthRecord.csv texts/marriageRecord.csv texts/divorceRecord.csv texts/deathRecord.csv | apertium tat-eng -d . -u -m texts/tat-eng.tmx -o tat-eng > texts/currentTranslation.csv
+	cat texts/birthRecord.csv texts/marriageRecord.csv texts/divorceRecord.csv texts/deathRecord.csv | apertium -u -d . tat-eng > texts/currentTranslation.csv
 	diff texts/previousTranslation.csv texts/currentTranslation.csv | less
