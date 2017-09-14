@@ -1195,7 +1195,7 @@
         <rule comment="NP NP N N NP">
       <!--
           INPUT:  ^Габделкадыйр<np><ant><m><nom>/Ğabdelqadıyr<np><ant><m><sg><nom>$ ^Мөхәммәдвәли<np><ant><m><nom>/Möxämmädwäli<np><ant><m><sg><nom>$ ^мулла<n><attr>/mullah<n><sg><attr>$ ^ул<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ^Заманов<np><cog><m><nom>/Zamanov<np><cog><m><nom>$
-          OUTPUT: ^np_np_n_np<NP>{^Ğabdelqadıyr<np><ant><m><sg>>$ ^son<n><sg>$ ^of<pr>$ ^mullah<n><sg>$ ^Möxämmädwäli<np><ant><m><sg>$ ^Zamanov<np><cog><m><sg>$}$
+          OUTPUT: ^np_np_n_n_np<NP>{^Ğabdelqadıyr<np><ant><m><sg>$ ^son<n><sg>$ ^of<pr>$ ^mullah<n><sg>$ ^Möxämmädwäli<np><ant><m><sg>$ ^Zamanov<np><cog><m><sg>$}$
       -->
       <pattern>
         <pattern-item n="np-ant-nom"/>
@@ -1217,6 +1217,7 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_gender"/>
               <clip pos="1" side="tl" part="a_nbr"/>
             </lu>
 	    <b/>
@@ -1240,12 +1241,14 @@
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="a_gender"/>
 	      <clip pos="2" side="tl" part="a_nbr"/>
             </lu>
             <b/>
             <lu>
               <clip pos="5" side="tl" part="lem"/>
               <clip pos="5" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_gender"/>
 	      <clip pos="5" side="tl" part="a_nbr"/>
             </lu>
           </chunk>
