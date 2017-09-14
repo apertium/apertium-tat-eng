@@ -635,7 +635,7 @@
     <rule comment="RULE: N">
       <!--
       INPUT:  ^ата<n><px3sp><nom>/father<n><sg><px3sp><nom>$
-      OUTPUT: ^n<SN><nom>{^his<det><pos><sp>$ ^father<n><sg>$}$
+      OUTPUT: ^n<NP><nom>{^his<det><pos><sp>$ ^father<n><sg>$}$
       -->
       <pattern>
         <pattern-item n="n"/>
@@ -715,7 +715,7 @@
                 <out>
                   <chunk name="n">
                     <tags>
-                      <tag><lit-tag v="SN"/></tag>
+                      <tag><lit-tag v="NP"/></tag>
                       <tag><clip pos="1" side="tl" part="a_case"/></tag>
                       <tag><clip pos="1" side="sl" part="a_SYNLABEL"/></tag>
                     </tags>
