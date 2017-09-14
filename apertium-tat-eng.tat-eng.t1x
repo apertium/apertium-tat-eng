@@ -24,7 +24,11 @@
       <cat-item tags="adv.subst"/>
       <cat-item tags="adv.subst.*"/>
     </def-cat>
-    
+
+    <def-cat n="post">
+      <cat-item tags="post"/>
+    </def-cat>
+
     <def-cat n="n-attr-or-gen">
       <cat-item tags="n.attr"/>
       <cat-item tags="n.gen"/>
@@ -60,9 +64,9 @@
       <cat-item lemma="бин" tags="n.px3sp.nom"/>
       <cat-item lemma="бине" tags="n.px3sp.nom"/>
       <cat-item lemma="бинт" tags="n.px3sp.nom"/>
-      <cat-item lemma="вәләд" tags="n.px3sp.nom"/>      
+      <cat-item lemma="вәләд" tags="n.px3sp.nom"/>
     </def-cat>
-    
+
     <def-cat n="n-px3sp">
       <cat-item tags="n.px3sp.*"/>
       <cat-item tags="n.pl.px3sp.*"/>
@@ -90,18 +94,18 @@
 
     <def-cat n="n-px3sp-gen-or-abl">
       <cat-item tags="n.px3sp.gen"/>
-      <cat-item tags="n.px3sp.abl"/>      
+      <cat-item tags="n.px3sp.abl"/>
     </def-cat>
-    
+
     <def-cat n="np-top-gen-or-abl">
       <cat-item tags="np.top.gen"/>
-      <cat-item tags="np.top.abl"/>      
+      <cat-item tags="np.top.abl"/>
     </def-cat>
 
     <def-cat n="np-ant-loc">
       <cat-item tags="np.ant.*.loc"/>
     </def-cat>
-    
+
     <def-cat n="cop-pres">
       <cat-item tags="cop.aor.p1.*"/>
       <cat-item tags="cop.aor.p2.*"/>
@@ -121,7 +125,14 @@
     <def-cat n="son-of">
       <cat-item lemma="ул" tags="n.px3sp.nom"/>
     </def-cat>
-    
+
+    <def-cat n="ibn">
+      <cat-item lemma="ибн" tags="n.px3sp.nom"/>
+      <cat-item lemma="ибне" tags="n.px3sp.nom"/>
+      <cat-item lemma="бин" tags="n.px3sp.nom"/>
+      <cat-item lemma="бине" tags="n.px3sp.nom"/>
+    </def-cat>
+
   </section-def-cats>
 
   <section-def-attrs>
@@ -136,6 +147,7 @@
       <attr-item tags="pr"/>
       <attr-item tags="det"/>
       <attr-item tags="det.pos"/>
+      <attr-item tags="pr"/>
     </def-attr>
     <def-attr n="a_syntag">
       <attr-item tags="advl"/>
@@ -482,6 +494,7 @@
         <concat>
           <clip pos="1" side="tl" part="lemh"/>
           <clip pos="1" side="tl" part="a_nom"/>
+          <clip pos="1" side="tl" part="a_gender"/>
           <var n="number"/>
           <var n="case"/>
           <clip pos="1" side="tl" part="lemq"/>
@@ -542,6 +555,29 @@
   </section-def-macros>
 
   <section-rules>
+
+    <rule comment="POST">
+      <!--
+        INPUT:  ^буенча<post>/by<pr>$
+        OUTPUT: ^post<P>{^by<pr>$}$
+      -->
+      <pattern>
+        <pattern-item n="post"/>
+      </pattern>
+      <action>
+	<out>
+	  <chunk name="post">
+	    <tags>
+	      <tag><lit-tag v="P"/></tag>
+	    </tags>
+	    <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_pos"/>
+            </lu>
+	  </chunk>
+	</out>
+      </action>
+    </rule>
     
     <rule comment="RULE: NP N NP N"> 
       <!--
@@ -746,6 +782,47 @@
             </choose>
           </otherwise>
         </choose>
+      </action>
+    </rule>
+
+    <rule comment="RULE: N N">
+      <!--
+      INPUT:  ^ибн<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ^Максут<np><ant><m><nom>/Maqsut<np><ant><m><sg><nom>$
+      OUTPUT: ^n_np<NP>{^son<n><sg>$ ^of<pr>$ ^Maqsut<np><ant><m><sg>$}$
+      -->
+      <pattern>
+        <pattern-item n="ibn"/>
+        <pattern-item n="np-ant-nom"/>
+      </pattern>
+      <action>
+        <call-macro n="translate-noun">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="n_np">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+            </tags>
+            <var n="preposition"/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="of"/>
+              <lit-tag v="pr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="a_gender"/>
+              <clip pos="2" side="tl" part="a_nbr"/>
+            </lu>
+          </chunk>
+        </out>
       </action>
     </rule>
 
@@ -1094,6 +1171,55 @@
       </action>
     </rule>
 
+    <rule comment="NP NP N">
+      <!--
+          INPUT:  ^Шаһиәхмәт<np><ant><m><nom>/Şahiäxmät<np><ant><m><sg><nom>$ ^Әхмән<np><ant><m><nom>/Äxmän<np><ant><m><sg><nom>$ ^ул<n><px3sp><gen>/son<n><sg><px3sp><gen>$
+          OUTPUT: ^np_np_n<NP>{^Şahiäxmät<np><ant><m><sg>$ ^son<n><sg>$ ^of<pr>$ ^Äxmän<np><ant><m><sg>$}$
+      -->
+      <pattern>
+	<pattern-item n="np-ant-nom"/>
+        <pattern-item n="np-ant-nom"/>
+        <pattern-item n="n-px3sp"/>
+      </pattern>
+      <action>
+        <call-macro n="translate-noun">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="np_np_n">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+            </tags>
+            <var n="preposition"/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+	      <clip pos="1" side="tl" part="a_gender"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="a_nbr"/>
+            </lu>
+	    <b/>
+            <lu>
+              <lit v="of"/>
+              <lit-tag v="pr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+	      <clip pos="2" side="sl" part="a_gender"/>		  
+	      <clip pos="2" side="sl" part="a_nbr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
     <rule comment="NP N NP">
       <!--
           INPUT:  ^Максут<np><ant><m><nom>/Maqsut<np><ant><m><sg><nom>$ ^вәләд<n><px3sp><nom>/child<n><sg><nom>$ ^Гали<np><ant><m><nom>/Ğäli<np><ant><m><sg><nom>$
@@ -1192,7 +1318,64 @@
       </action>
     </rule>
 
-        <rule comment="NP NP N N NP">
+    <rule comment="NP NP N NP">
+      <!--
+          INPUT:  ^Габделкадыйр<np><ant><m><nom>/Ğabdelqadıyr<np><ant><m><sg><nom>$ ^Мөхәммәдвәли<np><ant><m><nom>/Möxämmädwäli<np><ant><m><sg><nom>$ ^ул<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ^Заманов<np><cog><m><nom>/Zamanov<np><cog><m><nom>$
+          OUTPUT: ^np_np_n_np<NP>{^Ğabdelqadıyr<np><ant><m><sg>$ ^son<n><sg>$ ^of<pr>$ ^Möxämmädwäli<np><ant><m><sg>$ ^Zamanov<np><cog><m><sg>$}$
+      -->
+      <pattern>
+        <pattern-item n="np-ant-nom"/>
+        <pattern-item n="np-ant-nom"/>
+        <pattern-item n="son-of"/>
+        <pattern-item n="np-cog-nom"/>
+      </pattern>
+      <action>
+        <call-macro n="translate-noun">
+          <with-param pos="4"/>
+        </call-macro>
+        <out>
+          <chunk name="np_np_n_np">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+            </tags>
+            <var n="preposition"/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_gender"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+            </lu>
+	    <b/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="a_nbr"/>
+            </lu>
+	    <b/>
+            <lu>
+              <lit v="of"/>
+              <lit-tag v="pr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="a_gender"/>
+	      <clip pos="2" side="tl" part="a_nbr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/>
+              <clip pos="4" side="tl" part="a_nom"/>
+              <clip pos="4" side="tl" part="a_gender"/>
+	      <clip pos="4" side="tl" part="a_nbr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+        
+    <rule comment="NP NP N N NP">
       <!--
           INPUT:  ^Габделкадыйр<np><ant><m><nom>/Ğabdelqadıyr<np><ant><m><sg><nom>$ ^Мөхәммәдвәли<np><ant><m><nom>/Möxämmädwäli<np><ant><m><sg><nom>$ ^мулла<n><attr>/mullah<n><sg><attr>$ ^ул<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ^Заманов<np><cog><m><nom>/Zamanov<np><cog><m><nom>$
           OUTPUT: ^np_np_n_n_np<NP>{^Ğabdelqadıyr<np><ant><m><sg>$ ^son<n><sg>$ ^of<pr>$ ^mullah<n><sg>$ ^Möxämmädwäli<np><ant><m><sg>$ ^Zamanov<np><cog><m><sg>$}$

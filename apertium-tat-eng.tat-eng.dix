@@ -135,6 +135,7 @@
     <e><p><l>бин<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бине<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бинт<s n="n"/></l><r>daughter<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>буенча<s n="post"/></l><r>by<s n="pr"/></r></p></e>
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="ifi"/></l><r>be<s n="vbser"/><s n="past"/></r></p></e>
     <e><p><l>вә<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>вәкил<s n="n"/></l><r>envoy<s n="n"/><s n="sg"/></r></p></e>
@@ -144,6 +145,7 @@
     <e><p><l>второй<b/>гильдии<b/>купец<s n="n"/></l><r>merchant<b/>of<b/>the<b/>second<b/>guild<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>второй<b/>гильдий<b/>купес<s n="n"/></l><r>merchant<b/>of<b/>the<b/>second<b/>guild<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гакрәб<s n="n"/></l><r>scorpio<s n="n"/><s n="sg"/></r></p></e>    
+    <e><p><l>гакыде<b/>никах<s n="n"/></l><r>marriage<b/>agreement<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>гражданин<s n="n"/></l><r>citizen<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>губерна<s n="n"/></l><r>governorate<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>губернский<b/>секретарь<s n="n"/></l><r>governorate<b/>secretary<s n="n"/><s n="sg"/></r></p></e>
@@ -250,8 +252,9 @@
     <e><p><l>тор<s n="v"/><s n="iv"/><s n="gpr_pot"/><s n="subst"/><s n="nom"/></l><r>live<s n="vblex"/><s n="pprs"/></r></p></e>
     <e><p><l>указной<s n="adj"/></l><r>appoint<s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>ул<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>урам<s n="n"/></l><r>street<s n="n"/><s n="sg"/></r></p></e>    
+    <e><p><l>урам<s n="n"/></l><r>street<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>үз<s n="det"/><s n="ref"/></l><r>own<s n="adj"/></r></p></e>
+    <e><p><l>үтенү<s n="n"/></l><r>request<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>фатир<s n="n"/></l><r>apartment<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>февраль<s n="n"/></l><r>February<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хаҗи<s n="n"/></l><r>hajji<s n="n"/><s n="sg"/></r></p></e>
@@ -7982,13 +7985,6 @@
     <e><p><l>Яшурма<s n="np"/><s n="top"/></l><r>Yaşurma<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Яшурмә<s n="np"/><s n="top"/></l><r>Yäşurmä<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
-    <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-    <e><p><l>"^,<s n="cm"/></l><r>",<s n="cm"/></r></p></e>
-    <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
-    <e><re>[IVXMC]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[0-9]+([.,][0-9]+)+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-
     <e><p><l>бу<b/>гакыде<b/>никахка<b/>разый<b/>булып</l><r>as<b/>content<b/>with<b/>this<b/>marriage<b/>agreeement</r></p></e>
     <e><p><l>вәкил<b/>булып</l><r>as<b/>envoy</r></p></e>
     <e><p><l>гәваһ<b/>булып</l><r>as<b/>witness</r></p></e>
@@ -8018,6 +8014,15 @@
     <e><p><l>язу<b/>белмәгән<b/>сәбәпле<b/>үтенүе<b/>буенча</l><r>on<b/>his<b/>request<b/>because<b/>of<b/>his<b/>illiteracy</r></p></e>
     <e><p><l>картлык<b/>маризы<b/>белән</l><r>of<b/>old<b/>age</r></p></e>
     <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсе<b/>указной<b/>мөәдзин<b/>әдә<b/>кылгучы</l><r>serving<b/>as<b/>muezzin<b/>in<b/>a<b/>third<b/>level<b/>wooden<b/>mosque<b/>community</r></p></e>
+    
+    <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><p><l>"^,<s n="cm"/></l><r>",<s n="cm"/></r></p></e>
+    <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+    <e><re>[IVXMC]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+([.,][0-9]+)+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e>       <re>[\(\[]</re><p><l><s n="lpar"/></l>  <r><s n="lpar"/></r></p></e>
+    <e>       <re>[\)\]]</re><p><l><s n="rpar"/></l>  <r><s n="rpar"/></r></p></e>
 
   </section>
 
