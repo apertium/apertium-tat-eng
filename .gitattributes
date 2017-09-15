@@ -22,6 +22,7 @@ t/pending-tests -text
 t/qa -text
 t/regression-tests -text
 t/t1x.test -text
+t/t2x.test -text
 t/trimmed-coverage.sh -text
 t/update-latest -text
 t/wiki-tests -text

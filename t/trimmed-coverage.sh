@@ -14,7 +14,7 @@ fi
 # This file is kept even after the script is ended:
 needed=/tmp/corpus-stat-all-needed.txt
 
-covgoal="100.0" # percent goal we aim
+covgoal="95.0" # percent goal we aim
 
 
 cd "$(dirname $0)"
@@ -28,7 +28,7 @@ TODOstripwords="the The of oblast in In it if ki any will his this who we right 
 
 
 ### Do the translation:
-apertium-deshtml | apertium "$PAIR-postchunk" -f none -d .. -m ../texts/tat-eng.tmx -o tat-eng | apertium-cleanstream -n | tee "$transfout" | lt-proc -g "../$PAIR.autogen.bin" | lt-proc -p "../$PAIR.autopgen.bin" > "$genout"
+apertium-deshtml | apertium "$PAIR-postchunk" -f none -d .. | apertium-cleanstream -n | tee "$transfout" | lt-proc -g "../$PAIR.autogen.bin" | lt-proc -p "../$PAIR.autopgen.bin" > "$genout"
 
 
 
