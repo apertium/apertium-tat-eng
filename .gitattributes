@@ -13,7 +13,9 @@
 /apertium-tat-eng.tat-eng.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/toadd -text
 dev/tocomment -text
+dev/working_hours.txt -text
 /line -text
 /modes.xml -text
 t/README.org -text

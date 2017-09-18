@@ -313,7 +313,19 @@
     <e><p><l>ягъни<s n="cnjsub"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>янә<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e><p><l>яшь<s n="n"/></l><r>age<s n="n"/><s n="sg"/></r></p></e>
-
+    <e><p><l>бистә<s n="n"/></l><r>settlement<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>имам<b/>җамигъ<s n="n"/></l><r>imam<b/>at<b/>a<b/>congregational<b/>mosque<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>дәрәҗә<s n="n"/></l><r>degree<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мәһәре<b/>нәкыд<s n="n"/></l><r>mahr<b/>money<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>морза<s n="n"/></l><r>morza<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>кари<s n="n"/></l><r>qari<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>вәли<b/>вәкил<s n="n"/></l><r>wali<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>бакирә<s n="n"/></l><r>maiden<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>хатынлык<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>хәләл<b/>җефетлек<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тәкабәл<s n="n"/></l><r>compensation<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>крестьянин<s n="n"/></l><r>peasant<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>крестьян<s n="n"/></l><r>peasant<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ал<s n="v"/><s n="tv"/><s n="pass"/><s n="ifi"/><s n="p3"/><s n="sg"/></l><r>take<s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>тиешле<s n="adj"/></l><r>appropriate<s n="adj"/></r></p></e>    
 
@@ -4519,6 +4531,9 @@
     <e><p><l>Яхья<s n="np"/><s n="ant"/><s n="m"/></l><r>Yäxya<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Яһуда<s n="np"/><s n="ant"/><s n="m"/></l><r>Yahuda<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Яһүдә<s n="np"/><s n="ant"/><s n="m"/></l><r>Yähüdä<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Бәязит<s n="np"/><s n="ant"/><s n="m"/></l><r>Bäyazit<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Мәмәд<s n="np"/><s n="ant"/><s n="m"/></l><r>Mämäd<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Әхмәулла<s n="np"/><s n="ant"/><s n="m"/></l><r>Äxmäulla<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 
     <e><p><l>Абаков<s n="np"/><s n="cog"/></l><r>Abaqov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Абашев<s n="np"/><s n="cog"/></l><r>Abaşev<s n="np"/><s n="cog"/></r></p></e>
