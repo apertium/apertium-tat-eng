@@ -130,6 +130,36 @@
     <e><p><l>ата<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бала<s n="n"/></l><r>child<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бер<s n="num"/></l><r>one<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>ике<s n="num"/></l><r>two<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>өч<s n="num"/></l><r>three<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>дүрт<s n="num"/></l><r>four<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>биш<s n="num"/></l><r>five<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>алты<s n="num"/></l><r>six<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>җиде<s n="num"/></l><r>seven<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>сигез<s n="num"/></l><r>eight<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>тугыз<s n="num"/></l><r>nine<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>ун<s n="num"/></l><r>ten<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>унбер<s n="num"/></l><r>eleven<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>унике<s n="num"/></l><r>twelve<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>унөч<s n="num"/></l><r>thirteen<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>ундүрт<s n="num"/></l><r>fourteen<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>унбиш<s n="num"/></l><r>fifteen<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>уналты<s n="num"/></l><r>sixteen<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>унҗиде<s n="num"/></l><r>seventeen<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>унсигез<s n="num"/></l><r>eighteen<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>унтугыз<s n="num"/></l><r>nineteen<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>егерме<s n="num"/></l><r>twenty<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>утыз<s n="num"/></l><r>thirty<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>кырык<s n="num"/></l><r>forty<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>илле<s n="num"/></l><r>fifty<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>алтмыш<s n="num"/></l><r>sixty<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>җитмеш<s n="num"/></l><r>seventy<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>сиксән<s n="num"/></l><r>eighty<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>туксан<s n="num"/></l><r>ninety<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>йөз<s n="num"/></l><r>hundred<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>мең<s n="num"/></l><r>thousand<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>миллион<s n="num"/></l><r>million<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>миллиард<s n="num"/></l><r>billion<s n="num"/><s n="sg"/></r></p></e>    
     <e><p><l>берлән<s n="post"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>бессрочный<b/>солдат<s n="n"/></l><r>reserve<b/>soldier<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>билетный<b/>солдат<s n="n"/></l><r>reserve<b/>soldier<s n="n"/><s n="sg"/></r></p></e>
@@ -8037,7 +8067,7 @@
     <e><p><l>укыдым</l><r>have<b/>conducted<b/>the<b/>ceremony</r></p></e>
     <e><p><l>так<b/>в<b/>документе</l><r>so<b/>in<b/>the<b/>document</r></p></e>
     <e><p><l>әүвәлге</l><r>first</r></p></e>
-    <e><p><l>бакирә</l><r>virgin</r></p></e>
+    <e><p><l>бакирә</l><r>maiden</r></p></e>
     <e><p><l>әһле<b/>зирагатьтән</l><r>granary<b/>workers</r></p></e>
     <e><p><l>мәхәббәт<b/>юклыгыннан</l><r>because<b/>of<b/>the<b/>lack<b/>of<b/>love</r></p></e>
     <e><p><l>арамызда<b/>мәхәббәт<b/>улмаганлык<b/>сәбәбеннән</l><r>because<b/>of<b/>the<b/>lack<b/>of<b/>love<b/>between<b/>spouses</r></p></e>
