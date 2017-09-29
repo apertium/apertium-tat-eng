@@ -13,7 +13,6 @@
 /apertium-tat-eng.tat-eng.t3x -text
 /autogen.sh -text
 /configure.ac -text
-dev/marriageRecordUnknownsConcord.txt -text svneol=unset#application/octet-stream
 dev/toadd -text
 dev/tocomment -text
 /line -text
