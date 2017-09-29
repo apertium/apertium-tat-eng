@@ -397,6 +397,9 @@
     <e><p><l>һич<s n="adv"/></l><r>at<b/>all<s n="adv"/></r></p></e>
     <e><p><l>чәршәмбе<s n="n"/></l><r>Wednesday<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>шарт<b/>кыл<s n="v"/><s n="tv"/></l><r>agree<s n="vblex"/></r></p></e>
+    <e><p><l>кабул<b/>кыл<s n="v"/><s n="tv"/></l><r>accept<s n="vblex"/></r></p></e>
+    <e><p><l>кабыз<b/>кыл<s n="v"/><s n="tv"/></l><r>receive<s n="vblex"/></r></p></e>
+    <e><p><l>тәслим<b/>кыл<s n="v"/><s n="tv"/></l><r>transfer<s n="vblex"/></r></p></e>
     <e><p><l>шаһит<s n="n"/></l><r>witness<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>шәһәр<s n="n"/></l><r>city<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>шимбә<s n="n"/></l><r>Saturday<s n="n"/><s n="sg"/></r></p></e>
@@ -427,6 +430,14 @@
     <e><p><l>нәфәкате<b/>гыйддә<s n="n"/></l><r>iddah<b/>alimony<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бәдәл<s n="n"/></l><r>compensation<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>җәмәгать<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>бертуган<b/>ага<s n="n"/></l><r>elder<b/>brother<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>бертуган<b/>эне<s n="n"/></l><r>younger<b/>brother<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>гакыд<s n="n"/></l><r>agreement<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>әһле<b/>зирәгәть<s n="n"/></l><r>granary<b/>worker<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>зиммә<s n="n"/></l><r>responsibility<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мәҗлесе<b/>гакыд<s n="n"/></l><r>agreement<b/>meeting<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тәразый<s n="n"/></l><r>mutual<b/>consent<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>шарт<s n="n"/></l><r>condition<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хәләл<b/>җәмәгате<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>хәмел<s n="n"/></l><r>baby<b/>(fetus)<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>яшь<s n="n"/><s n="px3sp"/><s n="loc"/></l><r>years<b/>old</r></p></e>
@@ -8219,8 +8230,27 @@
     <e><p><l>юклыгы</l><r>the<b/>lack<b/>of</r></p></e>
     <e><p><l>шулук</l><r>the<b/>same</r></p></e>
     <e><p><l>берлә</l><r>with</r></p></e>
+    <e><p><l>бикер</l><r>maiden</r></p></e>
+    <e><p><l>кабыз</l><r>received</r></p></e>
+    <e><p><l>көллә</l><r>all<b/>of<b/>it</r></p></e>
+    <e><p><l>көлләсе</l><r>all<b/>of<b/>it</r></p></e>
+    <e><p><l>мәкъбуз</l><r>received</r></p></e>
+    <e><p><l>мөбашәрә</l><r><b/>begin<b/>(?)</r></p></e>
+    <e><p><l>мөгәҗҗәл</l><r>(to<b/>be<b/>paid)<b/>right<b/>away</r></p></e>
+    <e><p><l>мөәҗҗәл</l><r>deferred</r></p></e>
+    <e><p><l>мөҗәррәдләр</l><r>both<b/>maiden/bachelor</r></p></e>
+    <e><p><l>никах<b/>ителде</l><r>he<b/>got<b/>married<b/>to</r></p></e>
+    <e><p><l>ныйсыфы</l><r>half<b/>of<b/>it</r></p></e>
+    <e><p><l>салды</l><r>has<b/>put</r></p></e>
+    <e><p><l>сәйиб</l><r>widowed</r></p></e>
+    <e><p><l>сәйибә</l><r>widow</r></p></e>
+    <e><p><l>тәкрар</l><r>repeated</r></p></e>
+    <e><p><l>толлар</l><r>both<b/>widowed</r></p></e>
+    <e><p><l>улмакына</l><r>that<b/>it<b/>will<b/>be</r></p></e>
+    <e><p><l>һәр<b/>икәве<b/>бикер</l><r>both<b/>have<b/>never<b/>been<b/>married<b/>before</r></p></e>
+    <e><p><l>һәр<b/>икәве<b/>әһле<b/>зирагатьтән</l><r>both<b/>are<b/>granary<b/>workers</r></p></e>
 
-<e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><p><l>"^,<s n="cm"/></l><r>",<s n="cm"/></r></p></e>
     <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
     <e><re>[IVXMC]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
