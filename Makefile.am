@@ -163,4 +163,7 @@ corpus-test: all
 	diff texts/previousTranslation.csv texts/currentTranslation.csv | less
 
 non-destructuve-corpus-test: all
-	diff -U0 texts/previousTranslation.csv texts/currentTranslation.csv | dwdiff --diff-input | grep -v '^@' |sed 's/.*\[-//'|sed 's/+}.*//'  | sort | uniq -c |sort -nr
+	diff -U0 texts/previousTranslation.csv texts/currentTranslation.csv | dwdiff --diff-input | less
+
+non-destructuve-corpus-test-summary: all
+	diff -U0 texts/previousTranslation.csv texts/currentTranslation.csv | dwdiff --diff-input | grep -v '^@' |sed 's/.*\[-//'|sed 's/+}.*//'  | sort | uniq -c |sort -nr | less
