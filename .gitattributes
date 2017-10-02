@@ -27,3 +27,4 @@ t/t2x.test -text
 t/trimmed-coverage.sh -text
 t/update-latest -text
 t/wiki-tests -text
+/update-memory.bash -text

@@ -8354,6 +8354,17 @@
     <e><p><l>язу<b/>белмәгән<b/>өчен</l><r>because<b/>of<b/>his<b/>illiteracy</r></p></e>
     <e><p><l>язу<b/>белмәгән<b/>сәбәпле</l><r>because<b/>of<b/>his<b/>illiteracy</r></p></e>
     <e><p><l>язу<b/>белмәгәне<b/>өчен</l><r>because<b/>of<b/>his<b/>illiteracy</r></p></e>
+    <e><p><l>ирем</l><r>my<b/>husband</r></p></e>
+    <e><p><l>кайтарып</l><r>returning</r></p></e>
+    <e><p><l>кәнде<b/>никахында</l><r>in<b/>his<b/>marriage</r></p></e>
+    <e><p><l>муафыйк<b/>шәрг</l><r>according<b/>to<b/>the<b/>Islamic<b/>law</r></p></e>
+    <e><p><l>низагсыз</l><r>without<b/>conflict</r></p></e>
+    <e><p><l>низагсыз<b/>кайтарып<b/>вирмәк<b/>булдым</l><r>I<b/>committed<b/>to<b/>return<b/>without<b/>conflict</r></p></e>
+    <e><p><l>сораганда</l><r>when<b/>request(s)</r></p></e>
+    <e><p><l>тәрбия<b/>кылырга</l><r>for<b/>parenting</r></p></e>
+    <e><p><l>түбәндә<b/>исемләде<b/>язылмыш</l><r>the<b/>names<b/>of<b/>which<b/>are<b/>written<b/>below</r></p></e>
+    <e><p><l>түбәндә<b/>исемләре<b/>язылмыш</l><r>the<b/>names<b/>of<b/>which<b/>are<b/>written<b/>below</r></p></e>
+    <e><p><l>улган</l><r>being</r></p></e>
 
     <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><p><l>"^,<s n="cm"/></l><r>",<s n="cm"/></r></p></e>
