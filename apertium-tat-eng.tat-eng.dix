@@ -279,8 +279,12 @@
     <e><p><l>мөдәррис<s n="n"/></l><r>teacher<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мөәзин<s n="n"/></l><r>muezzin<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мөфти<s n="n"/></l><r>mufti<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>мөэнәтә<b/>кисвә<b/>вә<b/>сүкнә<s n="n"/></l><r>alimony<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>мөэнәтә<b/>сүкнә<s n="n"/></l><r>alimentation<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мөэнәтә<b/>кисвә<b/>вә<b/>сүкнә<s n="n"/></l><r>alimony<b/>with<b/>clothing<b/>and<b/>cloth<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мөэнәтә<b/>кисвә<s n="n"/></l><r>alimony<b/>with<b/>clothing<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мөэнәтә<b/>сүкнә<s n="n"/></l><r>alimony<b/>with<b/>cloth<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>кисвә<s n="n"/></l><r>clothing<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>сүкнә<s n="n"/></l><r>cloth<b/>(?)<s n="n"/><s n="sg"/></r></p></e>    
+    <e><p><l>нәфәкател<b/>гыйддә<s n="n"/></l><r>iddah<b/>alimony<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мулла<s n="n"/></l><r>mullah<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>народный<b/>учитель<s n="n"/></l><r>national<b/>teacher<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>нәкыд<s n="n"/></l><r>cash<s n="n"/><s n="sg"/></r></p></e>
@@ -5825,6 +5829,7 @@
     <e><p><l>Двор<s n="np"/><s n="top"/></l><r>Dvor<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Делжавин<s n="np"/><s n="top"/></l><r>Deljavin<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Державин<s n="np"/><s n="top"/></l><r>Derjavin<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Державинский<s n="np"/><s n="top"/></l><r>Derjavinskiy<s n="np"/><s n="top"/><s n="sg"/></r></p></e>    
     <e><p><l>Дәвелге<s n="np"/><s n="top"/></l><r>Däwelge<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Дәүләки<s n="np"/><s n="top"/></l><r>Däwläki<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Диңгезбай<s n="np"/><s n="top"/></l><r>Diñgezbay<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -8365,6 +8370,7 @@
     <e><p><l>түбәндә<b/>исемләде<b/>язылмыш</l><r>the<b/>names<b/>of<b/>which<b/>are<b/>written<b/>below</r></p></e>
     <e><p><l>түбәндә<b/>исемләре<b/>язылмыш</l><r>the<b/>names<b/>of<b/>which<b/>are<b/>written<b/>below</r></p></e>
     <e><p><l>улган</l><r>being</r></p></e>
+    <e><p><l>кисвә</l><r>clothing</r></p></e>
     <e><p><l>түбәндә исемләре язылган</l><r>the name of which are written below</r></p></e>
     <e><p><l>түбәндә исемләде язылмыш</l><r>the names of which are written below</r></p></e>
     <e><p><l>кәнде никахында улган хатыны</l><r>his wedded wife</r></p></e>
