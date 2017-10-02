@@ -410,7 +410,12 @@
     <e><p><l>риза<b/>бул<s n="v"/><s n="iv"/></l><r>agree<s n="vblex"/></r></p></e>
     <e><p><l>гаһед<b/>ит<s n="v"/><s n="tv"/></l><r>promise<s n="vblex"/></r></p></e>
     <e><p><l>әгъраз<b/>кыл<s n="v"/><s n="tv"/></l><r>request<s n="vblex"/></r></p></e>
-    <e><p><l>ибраэ<b/>әйлә<s n="v"/><s n="tv"/></l><r>free<b/>from<b/>obligations<s n="vblex"/></r></p></e>
+    <e><p><l>ибраэ<b/>әйлә<s n="v"/><s n="tv"/></l><r>remit<b/>the<b/>debts<s n="vblex"/></r></p></e>
+    <e><p><l>ибраэ<b/>гам<b/>кыл<s n="v"/><s n="tv"/></l><r>remit<b/>the<b/>debts</r></p></e>
+    <e><p><l>ибраэ<b/>кыл<s n="v"/><s n="tv"/></l><r>remit<b/>the<b/>debts</r></p></e>
+    <e><p><l>ибраэ<b/>әйлә<s n="v"/><s n="tv"/><s n="coop"/><s n="ifi"/><s n="p3"/><s n="pl"/></l><r>remitted<b/>the<b/>debts<b/>of<b/>each<b/>other<s n="vblex"/></r></p></e>
+    <e><p><l>ибраэ<b/>гам<b/>кыл<s n="v"/><s n="tv"/><s n="coop"/><s n="ifi"/><s n="p3"/><s n="pl"/></l><r>remited<b/>the<b/>debts<b/>of<b/>each<b/>other</r></p></e>
+    <e><p><l>ибраэ<b/>кыл<s n="v"/><s n="tv"/><s n="coop"/><s n="ifi"/><s n="p3"/><s n="pl"/></l><r>remited<b/>the<b/>debts<b/>of<b/>each<b/>other</r></p></e>
     <e><p><l>икърар<b/>әйлә<s n="v"/><s n="tv"/></l><r>acknowledge<s n="vblex"/></r></p></e>
     <e><p><l>икърар<b/>кыл<s n="v"/><s n="tv"/></l><r>acknowledge<s n="vblex"/></r></p></e>
     <e><p><l>илтизам<b/>ит<s n="v"/><s n="tv"/></l><r>commit<b/>to<s n="vblex"/></r></p></e>
@@ -8266,7 +8271,6 @@
     <e><p><l>хәлем<b/>тияр<b/>кадәр</l><r>to<b/>the<b/>extent<b/>possible</r></p></e>
     <e><p><l>талакы<b/>баин<b/>кылдым</l><r>I<b/>have<b/>irreconcilablely<b/>divorced</r></p></e> 
     <e><p><l>араларында</l><r>between<b/>them</r></p></e> 
-    <e><p><l>ибраэ<b/>гам<b/>кылыштылар</l><r>freed<b/>each<b/>other<b/>from<b/>any<b/>accusations<b/>or<b/>charges</r></p></e>
     <e><p><l>ошбу<b/>рәвешчә</l><r>in<b/>this<b/>manner</r></p></e>
     <e><p><l>бу<b/>рәвешчә</l><r>in<b/>this<b/>manner</r></p></e>
     <e><p><l>шул<b/>рәвешчә</l><r>in<b/>that<b/>manner</r></p></e>
