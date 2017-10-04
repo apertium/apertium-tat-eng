@@ -153,11 +153,13 @@
     <e><p><l>бертуган<b/>ага<s n="n"/></l><r>elder<b/>brother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бертуган<b/>эне<s n="n"/></l><r>younger<b/>brother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бессрочный<b/>солдат<s n="n"/></l><r>reserve<b/>soldier<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>бәгъдендә<s n="post"/></l><r>after<s n="pr"/></r></p></e>
     <e><p><l>бәдәл<s n="n"/></l><r>compensation<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бәдәле<b/>хәлегъ<s n="n"/></l><r>divorce<b/>compensation<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>бәдәлел<s n="n"/></l><r>compensation<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>бәкыятән<b/>мәһәр<s n="n"/></l><r>remaining<b/>(?)<b/>mahr<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бәрабәренә<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+    <e><p><l>бәян<b/>кыл<s n="v"/><s n="tv"/></l><r>tell<s n="vblex"/></r></p></e>
     <e><p><l>билетный<b/>солдат<s n="n"/></l><r>reserve<b/>soldier<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бин<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бине<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
@@ -172,10 +174,15 @@
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="gna_perf"/></l><r>as<s n="adv"/></r></p></e>
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="ifi"/></l><r>be<s n="vbser"/><s n="past"/></r></p></e>
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="past"/></l><r>be<s n="vbser"/><s n="past"/></r></p></e>    
+    <e><p><l>вадыйг<b/>кыл<s n="v"/><s n="tv"/></l><r>give<b/>birth<s n="vblex"/></r></p></e>
+    <e><p><l>вадыйге<b/>хәмел<b/>кыл<s n="v"/><s n="iv"/></l><r>give<b/>birth<b/>to<b/>the<b/>child<s n="vblex"/></r></p></e>
     <e><p><l>вакыйг<b/>бул<s n="v"/><s n="iv"/></l><r>take<b/>place<s n="vblex"/></r></p></e>
     <e><p><l>вакыйг<b/>ул<s n="v"/><s n="iv"/></l><r>take<b/>place<s n="vblex"/></r></p></e>    
     <e><p><l>вә<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e><p><l>вәгъдә<b/>кыл<s n="v"/><s n="tv"/></l><r>promise<s n="vblex"/></r></p></e>
+    <e><p><l>вәгъдә<s n="n"/></l><r>pledge<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вәҗеһ<s n="n"/></l><r>reason<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>вәкил<b/>кыл<s n="v"/><s n="tv"/></l><r>select<b/>for<b/>a<b/>custodian<s n="vblex"/></r></p></e>
     <e><p><l>вәкил<s n="n"/></l><r>envoy<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вәләд<s n="n"/></l><r>child<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вәли<b/>вәкил<s n="n"/></l><r>wali<s n="n"/><s n="sg"/></r></p></e>
@@ -186,8 +193,10 @@
     <e><p><l>гакрәб<s n="n"/></l><r>scorpio<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>гакыд<s n="n"/></l><r>agreement<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гакыде<b/>никах<s n="n"/></l><r>marriage<b/>agreement<s n="n"/><s n="sg"/></r></p></e>    
+    <e><p><l>гакыде<b/>хәлегъ<b/>кыл<s n="v"/><s n="iv"/></l><r>conclude<b/>a<b/>divorce<b/>agreement<s n="vblex"/></r></p></e>
     <e><p><l>галәмәт<s n="n"/></l><r>mark<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гаһед<b/>ит<s n="v"/><s n="tv"/></l><r>promise<s n="vblex"/></r></p></e>
+    <e><p><l>гаһед<b/>кыл<s n="v"/><s n="tv"/></l><r>pledge<s n="vblex"/></r></p></e>
     <e><p><l>гәваһ<s n="n"/></l><r>witness<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гражданин<s n="n"/></l><r>citizen<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>губерна<s n="n"/></l><r>governorate<s n="n"/><s n="sg"/></r></p></e>
@@ -214,6 +223,7 @@
     <e><p><l>егет<s n="n"/></l><r>groom<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ел<s n="n"/></l><r>year<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>әгъраз<b/>кыл<s n="v"/><s n="tv"/></l><r>request<s n="vblex"/></r></p></e>
+    <e><p><l>әда<b/>кыл<s n="v"/><s n="tv"/></l><r>pay<s n="vblex"/></r></p></e>
     <e><p><l>әйт<s n="v"/><s n="tv"/></l><r>say<s n="vblex"/></r></p></e>
     <e><p><l>әнкә<s n="n"/></l><r>mother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>әрҗәче<s n="n"/></l><r>basketweaver<s n="n"/><s n="sg"/></r></p></e>    
@@ -227,11 +237,14 @@
     <e><p><l>җиде<s n="num"/><s n="ord"/></l><r>seventh<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>җитмеш<s n="num"/></l><r>seventy<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>җомга<s n="n"/></l><r>Friday<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>зәнҗал<b/>кыл<s n="v"/><s n="iv"/></l><r>make<b/>a<b/>quarrel<s n="vblex"/></r></p></e>
     <e><p><l>зәүҗ<s n="n"/></l><r>husband<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зәүҗә<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зәүҗәен<s n="n"/></l><r>couple<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зәүҗәен<s n="n"/></l><r>husband<b/>and<b/>wife<s n="n"/></r></p></e>
     <e><p><l>зәүҗиять<s n="n"/></l><r>marriage<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>зикер<b/>ит<s n="v"/><s n="tv"/></l><r>mention<s n="vblex"/></r></p></e>
+    <e><p><l>зикер<b/>кыл<s n="v"/><s n="tv"/></l><r>mention<s n="vblex"/></r></p></e>
     <e><p><l>зиммә<s n="n"/></l><r>responsibility<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зирагать<s n="n"/></l><r>agriculture<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зирагатьче<s n="n"/></l><r>farmer<s n="n"/><s n="sg"/></r></p></e>
@@ -245,6 +258,8 @@
     <e><p><l>ибраэ<b/>әйлә<s n="v"/><s n="tv"/><s n="coop"/><s n="ifi"/><s n="p3"/><s n="pl"/></l><r>remitted<b/>the<b/>debts<b/>of<b/>each<b/>other<s n="vblex"/></r></p></e>
     <e><p><l>ибраэ<b/>кыл<s n="v"/><s n="tv"/></l><r>remit<b/>the<b/>debts</r></p></e>
     <e><p><l>ибраэ<b/>кыл<s n="v"/><s n="tv"/><s n="coop"/><s n="ifi"/><s n="p3"/><s n="pl"/></l><r>remited<b/>the<b/>debts<b/>of<b/>each<b/>other</r></p></e>
+    <e><p><l>игътияр<b/>кыл<s n="v"/><s n="tv"/></l><r>allow<s n="vblex"/></r></p></e>
+    <e><p><l>иҗаб<b/>кыл<s n="v"/><s n="tv"/></l><r>accept<s n="vblex"/></r></p></e>
     <e><p><l>ике<s n="num"/></l><r>two<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>ике<s n="num"/><s n="ord"/></l><r>second<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>ике<s n="num"/><s n="ord"/><s n="px3sp"/><s n="nom"/></l><r>another<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -252,6 +267,7 @@
     <e><p><l>икърар<b/>әйлә<s n="v"/><s n="tv"/></l><r>acknowledge<s n="vblex"/></r></p></e>
     <e><p><l>икърар<b/>кыл<s n="v"/></l><r>acknowledge<s n="vblex"/></r></p></e>
     <e><p><l>икърар<b/>кыл<s n="v"/><s n="tv"/></l><r>acknowledge<s n="vblex"/></r></p></e>
+    <e><p><l>икъраре<b/>шәргый<b/>кыл<s n="v"/><s n="iv"/></l><r>acknowledge,<b/>as<b/>prescribed<b/>by<b/>Islamic<b/>law<s n="vblex"/></r></p></e>
     <e><p><l>ил<s n="n"/></l><r>village<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>илә<s n="post"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>илән<s n="post"/></l><r>with<s n="pr"/></r></p></e>
@@ -261,7 +277,11 @@
     <e><p><l>имам<b/>җамигъ<s n="n"/></l><r>imam<b/>at<b/>a<b/>congregational<b/>mosque<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>имам<s n="n"/></l><r>imam<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>имза<b/>ит<s n="v"/><s n="tv"/></l><r>sign<s n="vblex"/></r></p></e>
+    <e><p><l>имза<b/>кыл<s n="v"/><s n="iv"/></l><r>sign<s n="vblex"/></r></p></e>
+    <e><p><l>инкяр<b/>кыл<s n="v"/><s n="iv"/></l><r>decline<s n="vblex"/></r></p></e>
+    <e><p><l>исбат<b/>кыл<s n="v"/><s n="tv"/></l><r>prove<s n="vblex"/></r></p></e>
     <e><p><l>исем<s n="n"/></l><r>name<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>исәп<s n="n"/></l><r>count<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>искат<b/>кыл<s n="v"/><s n="tv"/><s n="coop"/></l><r>free<b/>each<b/>other<b/>from<b/>obligations<s n="vblex"/></r></p></e>
     <e><p><l>итче<s n="n"/></l><r>butcher<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ихтыяр<s n="n"/></l><r>will<s n="n"/><s n="sg"/></r></p></e>        
@@ -280,12 +300,14 @@
     <e><p><l>кари<s n="n"/></l><r>qari<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>карья<s n="n"/></l><r>village<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>катг<b/>низаг<b/>кыл<s n="v"/><s n="tv"/></l><r>cease<b/>the<b/>conflict<s n="vblex"/></r></p></e>
+    <e><p><l>катыг<b/>кыл<s n="v"/><s n="tv"/></l><r>abort<s n="vblex"/></r></p></e>
     <e><p><l>кил<s n="v"/><s n="tv"/><s n="gna_perf"/></l><r>visit<s n="vblex"/><s n="past"/></r></p></e>
     <e><p><l>кисвә<s n="n"/></l><r>clothing<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кич<s n="v"/><s n="tv"/><s n="ifi"/><s n="p1"/><s n="sg"/></l><r>renounce<s n="vblex"/><s n="past"/></r></p></e>
     <e><p><l>кич<s n="v"/><s n="tv"/><s n="ifi"/><s n="p3"/><s n="sg"/></l><r>renounce<s n="vblex"/><s n="past"/></r></p></e>    
     <e><p><l>кияү<s n="n"/></l><r>groom<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>комган<s n="n"/></l><r>ewer<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>корсак<s n="n"/></l><r>womb<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>көзге<s n="n"/></l><r>mirror<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>көмеш<s n="n"/></l><r>silver<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>көн<s n="n"/></l><r>day<s n="n"/><s n="sg"/></r></p></e>
@@ -301,8 +323,10 @@
     <e><p><l>куян<s n="n"/></l><r>rabbit<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>күлмәк<s n="n"/></l><r>dress<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>кыз<s n="n"/></l><r>daughter<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>кыл<s n="v"/><s n="tv"/><s n="pass"/><s n="ifi"/><s n="p3"/><s n="sg"/></l><r>do<s n="vblex"/><s n="pp"/></r></p></e>
+    <e><p><l>кыйд<b/>кыл<s n="v"/><s n="tv"/></l><r>record<s n="vblex"/></r></p></e>
+    <e><p><l>кыл<s n="v"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
     <e><p><l>кыл<s n="v"/><s n="tv"/><s n="coop"/><s n="ifi"/><s n="p3"/><s n="pl"/></l><r>[missing<b/>main<b/>verb]<b/>each<b/>other</r></p></e>
+    <e><p><l>кыл<s n="v"/><s n="tv"/><s n="pass"/><s n="ifi"/><s n="p3"/><s n="sg"/></l><r>do<s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>кырык<s n="num"/></l><r>forty<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>лафыз<s n="n"/></l><r>word<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>май<s n="n"/></l><r>May<s n="n"/><s n="sg"/></r></p></e>
@@ -312,13 +336,16 @@
     <e><p><l>мең<s n="num"/></l><r>thousand<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>мещан<s n="n"/></l><r>urban<b/>commoner<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәгълүм<b/>ит<s n="v"/><s n="tv"/></l><r>declare<s n="vblex"/></r></p></e>
+    <e><p><l>мәгълюм<b/>кыл<s n="v"/><s n="tv"/></l><r>make<b/>known<s n="vblex"/></r></p></e>
     <e><p><l>мәгыйшәт<s n="n"/></l><r>life<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәҗлес<s n="n"/></l><r>congregation<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәҗлесе<b/>гакыд<s n="n"/></l><r>agreement<b/>meeting<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәҗлесе<b/>хәлегъ<s n="n"/></l><r>divorce<b/>settlement<b/>conference<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәзкүр<s n="adj"/></l><r>aforementioned<s n="adj"/></r></p></e>
     <e><p><l>мәзкүрә<s n="adj"/></l><r>aforementioned<b/>female<s n="adj"/></r></p></e>
+    <e><p><l>мәнигъ<b/>кыл<s n="v"/><s n="tv"/></l><r>prevent<s n="vblex"/></r></p></e>
     <e><p><l>мәнкүхә<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>мәншүрле<s n="adj"/></l><r>appointed<s n="adj"/></r></p></e>
     <e><p><l>мәртәбә<s n="n"/></l><r>time<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәрхүм<s n="n"/></l><r>late<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>мәхәббәт<s n="n"/></l><r>love<s n="n"/><s n="sg"/></r></p></e>
@@ -329,13 +356,16 @@
     <e><p><l>мәһәре<b/>мөсәмма<s n="n"/></l><r>mahr<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәһәре<b/>нәкыд<s n="n"/></l><r>mahr<b/>money<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәчет<s n="n"/></l><r>mosque<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>микъдар<s n="n"/></l><r>amount<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>миллиард<s n="num"/></l><r>billion<s n="num"/><s n="sg"/></r></p></e>    
     <e><p><l>миллион<s n="num"/></l><r>million<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>мин<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="nom"/></l><r>I<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>минкатг<s n="adj"/></l><r>ceased<s n="adj"/></r></p></e>
     <e><p><l>морза<s n="n"/></l><r>morza<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мөддәт<s n="n"/></l><r>period<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мөдәррис<s n="n"/></l><r>teacher<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мөәзин<s n="n"/></l><r>muezzin<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мөрафәга<b/>кыл<s n="v"/><s n="tv"/></l><r>consider<s n="vblex"/></r></p></e>
     <e><p><l>мөфти<s n="n"/></l><r>mufti<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мөэнәтә<b/>кисвә<b/>вә<b/>сүкнә<s n="n"/></l><r>alimony<b/>with<b/>clothing<b/>and<b/>cloth<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мөэнәтә<b/>кисвә<s n="n"/></l><r>alimony<b/>with<b/>clothing<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
@@ -346,10 +376,13 @@
     <e><p><l>нәкыд<s n="n"/></l><r>cash<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>нәрсә<s n="prn"/><s n="itg"/></l><r>thing<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>нәсия<s n="n"/></l><r>debt<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>нәсыйхәт<b/>кыл<s n="v"/><s n="tv"/></l><r>admonish<s n="vblex"/></r></p></e>
+    <e><p><l>нәсыйхәт<s n="n"/></l><r>admonition<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>нәфәка<s n="n"/></l><r>alimony<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>нәфәкате<b/>гыйддә<s n="n"/></l><r>iddah<b/>alimony<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>нәфәкател<b/>гыйддә<s n="n"/></l><r>iddah<b/>alimony<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>нәфәкать<s n="n"/></l><r>alimony<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>низаг<s n="n"/></l><r>conflict<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>низаг<s n="n"/></l><r>disagreement<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>никах<s n="n"/></l><r>marriage<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>номер<s n="n"/></l><r>number<s n="n"/><s n="sg"/></r></p></e>
@@ -362,6 +395,7 @@
     <e><p><l>ошбу<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>    
     <e><p><l>өй<s n="n"/></l><r>home<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>өлфәт<s n="n"/></l><r>affection<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>өс-башы<s n="n"/></l><r>outerwear<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>өстәл<s n="n"/></l><r>table<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>өч<s n="num"/></l><r>three<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>өч<s n="num"/><s n="ord"/></l><r>third<s n="adj"/><s n="ord"/></r></p></e>
@@ -387,9 +421,11 @@
     <e><p><l>ризалык<s n="n"/></l><r>consent<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>самавыр<s n="n"/></l><r>samovar<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>сандык<s n="n"/></l><r>chest<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>сарыф<b/>кыл<s n="v"/><s n="tv"/></l><r>spend<s n="vblex"/></r></p></e>
     <e><p><l>сентябрь<s n="n"/></l><r>September<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сәбәп<s n="n"/></l><r>reason<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сәбит<b/>ит<s n="v"/><s n="tv"/></l><r>register<s n="vblex"/></r></p></e>
+    <e><p><l>сәбит<b/>кыл<s n="v"/><s n="tv"/></l><r>register<s n="vblex"/></r></p></e>
     <e><p><l>сәбт<b/>кыл<s n="v"/><s n="tv"/></l><r>register<s n="vblex"/></r></p></e>
     <e><p><l>сәнә<s n="n"/></l><r>year<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>сәүдәгәр<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
@@ -400,6 +436,8 @@
     <e><p><l>ситца<s n="n"/></l><r>chintz<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>сишәмбе<s n="n"/></l><r>Tuesday<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>солдат<s n="n"/></l><r>soldier<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>солых<b/>кыл<s n="v"/><s n="iv"/></l><r>make<b/>peace<s n="vblex"/></r></p></e>
+    <e><p><l>солых<s n="n"/></l><r>peace<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>соң<s n="post"/></l><r>after<s n="pr"/></r></p></e>
     <e><p><l>сум<s n="n"/></l><r>ruble<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сүкнә<s n="n"/></l><r>cloth<b/>(?)<s n="n"/><s n="sg"/></r></p></e>    
@@ -408,25 +446,43 @@
     <e><p><l>талак<s n="n"/></l><r>divorce<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>талакы<b/>баин<b/>әйлә<s n="v"/><s n="tv"/></l><r>divorce<b/>irrevocably<s n="vblex"/></r></p></e>
     <e><p><l>талакы<b/>баин<b/>кыл<s n="v"/><s n="tv"/></l><r>divorce<b/>irrevocably<s n="vblex"/></r></p></e>
-    <e><p><l>талакы<b/>раҗигый<b/>кыл<s n="v"/><s n="tv"/></l><r>divorce<b/>revocably<s n="vblex"/></r></p></e>
-    <e><p><l>талакы<b/>раҗигый<b/>әйлә<s n="v"/><s n="tv"/></l><r>divorce<b/>revocably<s n="vblex"/></r></p></e>    
     <e><p><l>талакы<b/>баин<s n="n"/></l><r>irrevocable<b/>divorce<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>талакы<b/>раҗигый<b/>әйлә<s n="v"/><s n="tv"/></l><r>divorce<b/>revocably<s n="vblex"/></r></p></e>    
+    <e><p><l>талакы<b/>раҗигый<b/>кыл<s n="v"/><s n="tv"/></l><r>divorce<b/>revocably<s n="vblex"/></r></p></e>
     <e><p><l>талакы<b/>раҗигый<s n="n"/></l><r>revocable<b/>divorce<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>таләбә<b/>ит<s n="v"/><s n="tv"/></l><r>request<s n="vblex"/></r></p></e>
+    <e><p><l>таләп<b/>кыл<s n="v"/><s n="tv"/></l><r>request<s n="vblex"/></r></p></e>
     <e><p><l>тамга<b/>галәмәте<b/>куй<s n="v"/><s n="iv"/></l><r>put<b/>a<b/>mark<s n="vblex"/></r></p></e>    
     <e><p><l>тамга<b/>галәмәте<b/>сал<s n="v"/><s n="iv"/></l><r>put<b/>a<b/>mark<s n="vblex"/></r></p></e>
     <e><p><l>тамга<b/>сал<s n="v"/><s n="iv"/></l><r>put<b/>a<b/>mark<s n="vblex"/></r></p></e>
     <e><p><l>тамга<b/>сал<s n="v"/><s n="iv"/><s n="ifi"/><s n="p1"/><s n="sg"/></l><r>sign<s n="vblex"/><s n="past"/></r></p></e>
     <e><p><l>тамга<s n="n"/></l><r>mark<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тап<s n="v"/><s n="tv"/></l><r>give<b/>birth<b/>to<s n="vblex"/></r></p></e>
     <e><p><l>тараф<s n="n"/></l><r>side<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тарика<b/>хәлегъ<s n="n"/></l><r>manner<b/>of<b/>divorcing<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>тастымал<s n="n"/></l><r>hand<b/>towel<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>таш<s n="n"/></l><r>stone<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>тәбари<b/>гам<b/>кыл<s n="v"/><s n="iv"/></l><r>separate<s n="vblex"/></r></p></e>
+    <e><p><l>тәбари<b/>кыл<s n="v"/><s n="tv"/></l><r>relinquish<s n="vblex"/></r></p></e>
+    <e><p><l>тәгаен<b/>кыл<s n="v"/><s n="tv"/></l><r>determine<s n="vblex"/></r></p></e>
+    <e><p><l>тәҗдид<b/>кыл<s n="v"/><s n="tv"/></l><r>renew<s n="vblex"/></r></p></e>
+    <e><p><l>тәҗдид<s n="adj"/></l><r>new<s n="adj"/></r></p></e>
     <e><p><l>тәкабәл<s n="n"/></l><r>compensation<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тәмам<b/>кыл<s n="v"/><s n="tv"/></l><r>complete<s n="vblex"/></r></p></e>
+    <e><p><l>тәмам<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
+    <e><p><l>тәмам<s n="adv"/></l><r>completely<s n="adv"/></r></p></e>
+    <e><p><l>тәмамән<s n="adv"/></l><r>completely<s n="adv"/></r></p></e>
+    <e><p><l>тәмамән<s n="adv"/></l><r>in<b/>full<s n="adv"/></r></p></e>    
     <e><p><l>тәңкә<s n="n"/></l><r>coin<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>тәңкә<s n="n"/></l><r>ruble<s n="n"/><s n="pl"/></r></p></e>    
     <e><p><l>тәразый<s n="n"/></l><r>mutual<b/>consent<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тәрбия<b/>кыл<s n="v"/><s n="tv"/></l><r>raise<s n="vblex"/></r></p></e>
+    <e><p><l>тәсалих<s n="n"/></l><r>clemency<b/>(?)<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>тәсдыйк<b/>кыл<s n="v"/><s n="tv"/></l><r>confirm<s n="vblex"/></r></p></e>
+    <e><p><l>тәслим<b/>ит<s n="v"/><s n="tv"/></l><r>transfer<s n="vblex"/></r></p></e>
     <e><p><l>тәслим<b/>кыл<s n="v"/><s n="tv"/></l><r>transfer<s n="vblex"/></r></p></e>
+    <e><p><l>тәфрикъ<b/>кыл<s n="v"/><s n="tv"/></l><r>separate<s n="vblex"/></r></p></e>
+    <e><p><l>тәфтиш<b/>кыл<s n="v"/><s n="tv"/></l><r>investigate<s n="vblex"/></r></p></e>
     <e><p><l>тиен<s n="n"/></l><r>kopek<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>тиешле<s n="adj"/></l><r>appropriate<s n="adj"/></r></p></e>
     <e><p><l>тол<s n="adj"/></l><r>widowed<s n="adj"/></r></p></e>
@@ -470,19 +526,23 @@
     <e><p><l>фатир<s n="n"/></l><r>apartment<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>февраль<s n="n"/></l><r>February<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>фәрекать<s n="n"/></l><r>divorce<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>фәсех<b/>кыл<s n="v"/><s n="tv"/></l><r>cancel<s n="vblex"/></r></p></e>
     <e><p><l>хаҗи<s n="n"/></l><r>hajji<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хатыйп<s n="n"/></l><r>khatib<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хатын<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хатынлык<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хәлегъ<b/>әйлә<s n="v"/><s n="tv"/></l><r>divorce<s n="vblex"/></r></p></e>
-    <e><p><l>хәлегъ<b/>кыл<s n="v"/></l><r>divorce<s n="vblex"/></r></p></e>
+    <e><p><l>хәлегъ<b/>кыл<s n="v"/><s n="tv"/></l><r>divorce<s n="vblex"/></r></p></e>
     <e><p><l>хәлегъ<s n="n"/></l><r>divorce<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хәләл<b/>җефетлек<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хәләл<b/>җәмәгате<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>хәләл<s n="adj"/></l><r>halal<s n="adj"/></r></p></e>
     <e><p><l>хәмел<s n="n"/></l><r>baby<b/>(fetus)<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>хисап<b/>кыл<s n="v"/><s n="tv"/></l><r>count<s n="vblex"/></r></p></e>
+    <e><p><l>хитап<b/>кыл<s n="v"/><s n="iv"/></l><r>speak<s n="vblex"/></r></p></e>
     <e><p><l>хозур<s n="n"/></l><r>front<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хокук<s n="n"/></l><r>right<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>хөкем<b/>кыл<s n="v"/><s n="tv"/></l><r>judge<s n="vblex"/></r></p></e>
     <e><p><l>хөсне<b/>ихтыяр<s n="n"/></l><r>goodwill<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>хөсне<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
     <e><p><l>һәм<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
@@ -496,12 +556,14 @@
     <e><p><l>чәршәмбе<s n="n"/></l><r>Wednesday<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>читек<s n="n"/></l><r>çitek<b/>(a<b/>soft<b/>leather<b/>boot)<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>шарт<b/>кыл<s n="v"/><s n="tv"/></l><r>agree<s n="vblex"/></r></p></e>
+    <e><p><l>шарт<b/>кыл<s n="v"/><s n="tv"/></l><r>settle<s n="vblex"/></r></p></e>
     <e><p><l>шарт<s n="n"/></l><r>condition<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>шаһит<s n="n"/></l><r>witness<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>шәл<s n="n"/></l><r>shawl<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>шәһәр<s n="n"/></l><r>city<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>шик<s n="n"/></l><r>doubt<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>шимбә<s n="n"/></l><r>Saturday<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>шөбһә<b/>кыл<s n="v"/><s n="tv"/></l><r>doubt<s n="vblex"/></r></p></e>
     <e><p><l>ындырчы<s n="n"/></l><r>granary<b/>worker<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ышкул<s n="n"/></l><r>school<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>энҗе<s n="n"/></l><r>pearl<s n="n"/><s n="sg"/></r></p></e>        
@@ -511,6 +573,7 @@
     <e><p><l>юрган<s n="n"/></l><r>одеяло<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>ягъни<s n="cnjsub"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>яз<s n="v"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
+    <e><p><l>яки<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>якшәмбе<s n="n"/></l><r>Sunday<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>янә<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e><p><l>ястык<s n="n"/></l><r>cushion<s n="n"/><s n="sg"/></r></p></e>        
@@ -3212,6 +3275,7 @@
     <e><p><l>Мөхәммәдхәй<s n="np"/><s n="ant"/><s n="m"/></l><r>Möxämmädxäy<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Мөхәммәдхәким<s n="np"/><s n="ant"/><s n="m"/></l><r>Möxämmädxäkim<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Мөхәммәдхәлил<s n="np"/><s n="ant"/><s n="m"/></l><r>Möxämmädxälil<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Мөхәммәдхәләфи<s n="np"/><s n="ant"/><s n="m"/></l><r>Möxämmädxäläfi<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Мөхәммәдхәнәфи<s n="np"/><s n="ant"/><s n="m"/></l><r>Möxämmädxänäfi<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Мөхәммәдхәнәфия<s n="np"/><s n="ant"/><s n="m"/></l><r>Möxämmädxänäfiä<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Мөхәммәдхәсән<s n="np"/><s n="ant"/><s n="m"/></l><r>Möxämmädxäsän<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -8234,174 +8298,176 @@
     <e><p><l>Яшурма<s n="np"/><s n="top"/></l><r>Yaşurma<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Яшурмә<s n="np"/><s n="top"/></l><r>Yäşurmä<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
-    <e><p><l>бу<b/>гакыде<b/>никахка<b/>разый<b/>булып</l><r>as<b/>content<b/>with<b/>this<b/>marriage<b/>agreeement</r></p></e>
-    <e><p><l>вәкил<b/>булып</l><r>as<b/>envoy</r></p></e>
-    <e><p><l>гәваһ<b/>булып</l><r>as<b/>witness</r></p></e>
-    <e><p><l>кулым<b/>куйдым</l><r>has<b/>signed</r></p></e>
-    <e><p><l>личный<b/>почетный<b/>гражданин<s n="n"/></l><r>personal<b/>honorary<b/>citizen<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>ма<b/>бәкыйсе</l><r>the<b/>rest</r></p></e>
-    <e><p><l>никах<b/>иттем</l><r>conducted<b/>the<b/>ceremony</r></p></e>
-    <e><p><l>никах<b/>кылдым</l><r>conducted<b/>the<b/>ceremony</r></p></e>
-    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсе<b/>указной<b/>мөәдзин<b/>әдә<b/>кылгучы</l><r>serving<b/>as<b/>appointed<b/>muezzin<b/>in<b/>a<b/>third-level<b/>wooden<b/>mosque<b/>community</r></p></e>
-    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсендә<b/>ләвазем<b/>имамәтне<b/>әда<b/>кылгучы</l><r>serving<b/>as<b/>imam<b/>in<b/>a<b/>third<b/>level<b/>wooden<b/>mosque<b/>mahalla</r></p></e>
-    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсендә<b/>указной<b/>мөәдзин<b/>әдә<b/>кылгучы</l><r>serving<b/>as<b/>appointed<b/>muezzin<b/>in<b/>a<b/>third-level<b/>wooden<b/>mosque<b/>community</r></p></e>
-    <e><p><l>тамгам<b/>салдым</l><r>has<b/>marked</r></p></e>
-    <e><p><l>тиешле<b/>акчасын<b/>алып</l><r><b/>taking<b/>appropriate<b/>money</r></p></e>
-    <e><p><l>һәр<b/>икәвенең<b/>беренче<b/>никахлары</l><r>first<b/>marriage<b/>of<b/>both</r></p></e>
-    <e><p><l>үзендә</l><r>at<b/>home</r></p></e>
-    <e><p><l>измазано<b/>чернилой</l><r>smeared<b/>with<b/>ink</r></p></e>
-    <e><p><l>Куян<b/>Сабитта</l><r>at<b/>Rabbit<b/>Sabbit's</r></p></e>
-    <e><p><l>Фәрхи<b/>остабикәдә</l><r>at<b/>Färxi<b/>Mrs<b/>mullah's</r></p></e>
-    <e><p><l>Борчакларда</l><r>at<b/>Borçaqs'</r></p></e>
-    <e><p><l>дефект<b/>документа</l><r>document<b/>defect</r></p></e>
-    <e><p><l>не<b/>указана</l><r>not<b/>available</r></p></e>
-    <e><p><l>не<b/>указано</l><r>not<b/>available</r></p></e>
-    <e><p><l>язу<b/>белмәгән<b/>сәбәпле<b/>үтенүе<b/>буенча</l><r>on<b/>his<b/>request<b/>because<b/>of<b/>his<b/>illiteracy</r></p></e>
-    <e><p><l>картлык<b/>маризы<b/>белән</l><r>of<b/>old<b/>age</r></p></e>
-    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсе<b/>указной<b/>мөәдзин<b/>әдә<b/>кылгучы</l><r>serving<b/>as<b/>muezzin<b/>in<b/>a<b/>third<b/>level<b/>wooden<b/>mosque<b/>community</r></p></e>
-    <e><p><l>язу<b/>белмәгәннән<b/>тамга<b/>галәмәте<b/>куйды</l><r>has<b/>put<b/>a<b/>mark<b/>because<b/>of<b/>his<b/>illiteracy</r></p></e>
-    <e><p><l>язу<b/>белмәгәннән</l><r>because<b/>of<b/>his<b/>illiteracy</r></p></e>
-    <e><p><l>тамга<b/>куйды</l><r>has<b/>put<b/>a<b/>mark</r></p></e>
-    <e><p><l>һәр<b/>икесенең<b/>әүвәл<b/>никахы</l><r>first<b/>marriage<b/>of<b/>both</r></p></e>
-    <e><p><l>язды</l><r>has<b/>written</r></p></e>
-    <e><p><l>никахландырылды</l><r>was<b/>married<b/>(to)</r></p></e>
-    <e><p><l>укыдым</l><r>have<b/>conducted<b/>the<b/>ceremony</r></p></e>
-    <e><p><l>так<b/>в<b/>документе</l><r>so<b/>in<b/>the<b/>document</r></p></e>
-    <e><p><l>әүвәлге</l><r>first</r></p></e>
-    <e><p><l>бакирә</l><r>maiden</r></p></e>
-    <e><p><l>әһле<b/>зирагатьтән</l><r>granary<b/>workers</r></p></e>
-    <e><p><l>мәхәббәт<b/>юклыгыннан</l><r>because<b/>of<b/>the<b/>lack<b/>of<b/>love</r></p></e>
-    <e><p><l>арамызда<b/>мәхәббәт<b/>улмаганлык<b/>сәбәбеннән</l><r>because<b/>of<b/>the<b/>lack<b/>of<b/>love<b/>between<b/>spouses</r></p></e>
-    <e><p><l>бирмәк<b/>булдым</l><r>I<b/>committed<b/>to<b/>give</r></p></e>
-    <e><p><l>вирмәк<b/>булдым</l><r>I<b/>committed<b/>to<b/>give</r></p></e>
-    <e><p><l>хәлем<b/>тияр<b/>кадәр</l><r>to<b/>the<b/>extent<b/>possible</r></p></e>
-    <e><p><l>талакы<b/>баин<b/>кылдым</l><r>I<b/>have<b/>irreconcilablely<b/>divorced</r></p></e> 
-    <e><p><l>араларында</l><r>between<b/>them</r></p></e> 
-    <e><p><l>ошбу<b/>рәвешчә</l><r>in<b/>this<b/>manner</r></p></e>
-    <e><p><l>бу<b/>рәвешчә</l><r>in<b/>this<b/>manner</r></p></e>
-    <e><p><l>шул<b/>рәвешчә</l><r>in<b/>that<b/>manner</r></p></e>
-    <e><p><l>мәзкүр<b/>рәвешчә</l><r>in<b/>aforementioned<b/>manner</r></p></e>
-    <e><p><l>һич<b/>вәҗеһтән</l><r>for<b/>any<b/>reason</r></p></e>
-    <e><p><l>араларында<b/>һич<b/>вәҗеһтән<b/>дәгъва<b/>вә<b/>низаглары<b/>калмаенча</l><r>with<b/>no<b/>claims<b/>and<b/>conflicts<b/>for<b/>whatever<b/>reason<b/>left<b/>between<b/>them</r></p></e>
-    <e><p><l>араларында<b/>дәгъва<b/>калмаенча</l><r>with<b/>no<b/>claims<b/>left<b/>between<b/>them<b/></r></p></e>
-    <e><p><l>араларында<b/>һичбер<b/>дәгъва<b/>вә<b/>низаглары<b/>калмаенча</l><r>with<b/>no<b/>claims<b/>and<b/>conflicts<b/>whatsoever<b/>left<b/>between<b/>them</r></p></e>
-    <e><p><l>араларында<b/>һич<b/>вәҗеһтән<b/>дәгъвалары<b/>вә<b/>низаглары<b/>калмаенча</l><r>with<b/>no<b/>claims<b/>and<b/>conflicts<b/>for<b/>whatever<b/>reason<b/>left<b/>between<b/>them</r></p></e>
-    <e><p><l>ошбу<b/>тарика</l><r>in<b/>this<b/>manner</r></p></e>
-    <e><p><l>бу<b/>тарика</l><r>in<b/>this<b/>manner</r></p></e>
-    <e><p><l>шул<b/>тарика</l><r>in<b/>that<b/>manner</r></p></e>
-    <e><p><l>мәзкүр<b/>тарика</l><r>in<b/>aforementioned<b/>manner</r></p></e>
-    <e><p><l>мәзкүр<b/>тарика</l><r>in<b/>aforementioned<b/>manner</r></p></e>
-    <e><p><l>бар</l><r>there<b/>is</r></p></e>
-    <e><p><l>мөәнәсә</l><r>female</r></p></e>
-    <e><p><l>җәмигъ</l><r>all</r></p></e>
-    <e><p><l>тәмам</l><r>over</r></p></e>
-    <e><p><l>ир</l><r>male</r></p></e>
-    <e><p><l>мәнкүхә</l><r>married<b/>woman</r></p></e>
-    <e><p><l>айлык</l><r>months<b/>old</r></p></e>
-    <e><p><l>хазир</l><r>now</r></p></e>
-    <e><p><l>сорамаска</l><r>not<b/>to<b/>ask</r></p></e>
-    <e><p><l>тәрбия</l><r>parenting</r></p></e>
-    <e><p><l>юклыгы</l><r>the<b/>lack<b/>of</r></p></e>
-    <e><p><l>шулук</l><r>the<b/>same</r></p></e>
-    <e><p><l>берлә</l><r>with</r></p></e>
-    <e><p><l>бикер</l><r>maiden</r></p></e>
-    <e><p><l>кабыз</l><r>received</r></p></e>
-    <e><p><l>көллә</l><r>all<b/>of<b/>it</r></p></e>
-    <e><p><l>көлләсе</l><r>all<b/>of<b/>it</r></p></e>
-    <e><p><l>мәкъбуз</l><r>received</r></p></e>
-    <e><p><l>мөбашәрә</l><r><b/>begin<b/>(?)</r></p></e>
-    <e><p><l>мөгәҗҗәл</l><r>(to<b/>be<b/>paid)<b/>right<b/>away</r></p></e>
-    <e><p><l>мөәҗҗәл</l><r>deferred</r></p></e>
-    <e><p><l>мөҗәррәдләр</l><r>both<b/>maiden/bachelor</r></p></e>
-    <e><p><l>никах<b/>ителде</l><r>he<b/>got<b/>married<b/>to</r></p></e>
-    <e><p><l>ныйсыфы</l><r>half<b/>of<b/>it</r></p></e>
-    <e><p><l>салды</l><r>has<b/>put</r></p></e>
-    <e><p><l>сәйиб</l><r>widowed</r></p></e>
-    <e><p><l>сәйибә</l><r>widow</r></p></e>
-    <e><p><l>тәкрар</l><r>repeated</r></p></e>
-    <e><p><l>толлар</l><r>both<b/>widowed</r></p></e>
-    <e><p><l>улмакына</l><r>that<b/>it<b/>will<b/>be</r></p></e>
-    <e><p><l>һәр<b/>икәве<b/>бикер</l><r>both<b/>have<b/>never<b/>been<b/>married<b/>before</r></p></e>
-    <e><p><l>һәр<b/>икәве<b/>әһле<b/>зирагатьтән</l><r>both<b/>are<b/>granary<b/>workers</r></p></e>
     <e><p><l>айгача</l><r>month<b/>till<b/>pass(es)</r></p></e>
+    <e><p><l>айлык</l><r>months<b/>old</r></p></e>
+    <e><p><l>араларында<b/>дәгъва<b/>калмаенча</l><r>with<b/>no<b/>claims<b/>left<b/>between<b/>them<b/></r></p></e>
+    <e><p><l>араларында<b/>һич<b/>вәҗеһтән<b/>дәгъва<b/>вә<b/>низаглары<b/>калмаенча</l><r>with<b/>no<b/>claims<b/>and<b/>conflicts<b/>for<b/>whatever<b/>reason<b/>left<b/>between<b/>them</r></p></e>
+    <e><p><l>араларында<b/>һич<b/>вәҗеһтән<b/>дәгъвалары<b/>вә<b/>низаглары<b/>калмаенча</l><r>with<b/>no<b/>claims<b/>and<b/>conflicts<b/>for<b/>whatever<b/>reason<b/>left<b/>between<b/>them</r></p></e>
+    <e><p><l>араларында<b/>һичбер<b/>дәгъва<b/>вә<b/>низаглары<b/>калмаенча</l><r>with<b/>no<b/>claims<b/>and<b/>conflicts<b/>whatsoever<b/>left<b/>between<b/>them</r></p></e>
+    <e><p><l>араларында</l><r>between<b/>them</r></p></e> 
+    <e><p><l>арамызда<b/>мәхәббәт<b/>улмаганлык<b/>сәбәбеннән</l><r>because<b/>of<b/>the<b/>lack<b/>of<b/>love<b/>between<b/>spouses</r></p></e>
+    <e><p><l>бакирә</l><r>maiden</r></p></e>
+    <e><p><l>бар</l><r>there<b/>is</r></p></e>
     <e><p><l>бер<b/>талак<b/>баин<b/>кылды</l><r>finally<b/>divorced<b/>for<b/>the<b/>first<b/>time</r></p></e>
     <e><p><l>бер<b/>талак<b/>баин<b/>кылдым</l><r>finally<b/>divorced<b/>for<b/>the<b/>first<b/>time</r></p></e>
     <e><p><l>бер<b/>талакы<b/>баин<b/>кылды</l><r>finally<b/>divorced<b/>for<b/>the<b/>first<b/>time</r></p></e>
+    <e><p><l>берлә</l><r>with</r></p></e>
     <e><p><l>бикадри<b/>хәл</l><r>to<b/>the<b/>extent<b/>possible</r></p></e>
+    <e><p><l>бикер</l><r>maiden</r></p></e>
+    <e><p><l>билетный</l><r>reserve</r></p></e>    
+    <e><p><l>бирмәк<b/>булдым</l><r>I<b/>committed<b/>to<b/>give</r></p></e>
+    <e><p><l>Борчакларда</l><r>at<b/>Borçaqs'</r></p></e>
+    <e><p><l>бу<b/>гакыде<b/>никахка<b/>разый<b/>булып</l><r>as<b/>content<b/>with<b/>this<b/>marriage<b/>agreeement</r></p></e>
+    <e><p><l>бу<b/>рәвешчә</l><r>in<b/>this<b/>manner</r></p></e>
+    <e><p><l>бу<b/>тарика</l><r>in<b/>this<b/>manner</r></p></e>
     <e><p><l>булгучы</l><r>being</r></p></e>
-    <e><p><l>булса</l><r>if<b/>there<b/>is</r></p></e>
     <e><p><l>булса<b/>да</l><r>even<b/>if<b/>there<b/>is</r></p></e>
+    <e><p><l>булса</l><r>if<b/>there<b/>is</r></p></e>
     <e><p><l>вакыйг<b/>булды</l><r>took<b/>place</r></p></e>
     <e><p><l>вакыйг<b/>улды</l><r>took<b/>place</r></p></e>
     <e><p><l>вакыйг<b/>улмыш</l><r>took<b/>place</r></p></e>
+    <e><p><l>вәгъдәмдә</l><r>I pledge</r></p></e>
+    <e><p><l>вәкил<b/>булып</l><r>as<b/>envoy</r></p></e>
+    <e><p><l>вирмәк<b/>булдым</l><r>I<b/>committed<b/>to<b/>give</r></p></e>
     <e><p><l>гадәме</l><r>the<b/>lack<b/>of</r></p></e>
-    <e><p><l>гакыдел-хәлегъ<b/>кылыштылар</l><r>concluded<b/>a<b/>divorce<b/>agreement</r></p></e>
-    <e><p><l>гакыде<b/>хәлегъ<b/>кылыштылар</l><r>concluded<b/>a<b/>divorce<b/>agreement</r></p></e>
     <e><p><l>гакыд<b/>хәлегъ<b/>кылыштылар</l><r>concluded<b/>a<b/>divorce<b/>agreement</r></p></e>
+    <e><p><l>гакыде<b/>хәлегъ<b/>кылыштылар</l><r>concluded<b/>a<b/>divorce<b/>agreement</r></p></e>
+    <e><p><l>гакыдел-хәлегъ<b/>кылыштылар</l><r>concluded<b/>a<b/>divorce<b/>agreement</r></p></e>
+    <e><p><l>гәваһ<b/>булып</l><r>as<b/>witness</r></p></e>
+    <e><p><l>дефект<b/>документа</l><r>document<b/>defect</r></p></e>
+    <e><p><l>дәгъвәт<b/>кыл</l><r>[here]<b/>promise</r></p></e>
+    <e><p><l>әүвәлге</l><r>first</r></p></e>
+    <e><p><l>әһле<b/>зирагатьтән</l><r>granary<b/>workers</r></p></e>
+    <e><p><l>җәмигъ</l><r>all</r></p></e>
     <e><p><l>запасной</l><r>reserve</r></p></e>
-    <e><p><l>икән</l><r>they<b/>say</r></p></e>
+    <e><p><l>измазано<b/>чернилой</l><r>smeared<b/>with<b/>ink</r></p></e>
     <e><p><l>ике<b/>талак<b/>баин<b/>кылды</l><r>finally<b/>divorced<b/>for<b/>the<b/>second<b/>time</r></p></e>
     <e><p><l>ике<b/>талак<b/>баин<b/>кылдым</l><r>finally<b/>divorced<b/>for<b/>the<b/>second<b/>time</r></p></e>
     <e><p><l>ике<b/>талакы<b/>баин<b/>кылды</l><r>finally<b/>divorced<b/>for<b/>the<b/>second<b/>time</r></p></e>
     <e><p><l>ике<b/>талакы<b/>баин<b/>кылдым</l><r>finally<b/>divorced<b/>for<b/>the<b/>second<b/>time</r></p></e>
+    <e><p><l>икән</l><r>they<b/>say</r></p></e>
+    <e><p><l>инкыйзаи<b/>гыйддә<b/>бәгъдендә</l><r>after<b/>iddah<b/>period<b/>ends</r></p></e>
+    <e><p><l>ир</l><r>male</r></p></e>
+    <e><p><l>ирем</l><r>my<b/>husband</r></p></e>
+    <e><p><l>ишетеп</l><r>hearing</r></p></e>
+    <e><p><l>кабыз</l><r>received</r></p></e>
+    <e><p><l>кайтарып</l><r>returning</r></p></e>
+    <e><p><l>кайтарып бирергә</l><r>to return</r></p></e>
+    <e><p><l>кайтарып вирмәк</l><r>to return</r></p></e>
+    <e><p><l>кайтарып вирмәк булдым</l><r>committed to return</r></p></e>
+    <e><p><l>картлык<b/>маризы<b/>белән</l><r>of<b/>old<b/>age</r></p></e>
+    <e><p><l>кәнде<b/>никахында</l><r>in<b/>his<b/>marriage</r></p></e>
+    <e><p><l>кәнде никахында улган хатыны</l><r>his wedded wife</r></p></e>
+    <e><p><l>кисвә</l><r>clothing</r></p></e>
+    <e><p><l>корсагындагы</l><r>in her womb</r></p></e>
+    <e><p><l>көллә</l><r>all<b/>of<b/>it</r></p></e>
+    <e><p><l>көлләсе</l><r>all<b/>of<b/>it</r></p></e>
     <e><p><l>кул<b/>куя<b/>белмәгән<b/>өчен</l><r>because<b/>he<b/>does<b/>not<b/>know<b/>how<b/>to<b/>sign</r></p></e>
     <e><p><l>кул<b/>куя<b/>белмәгән<b/>сәбәпле</l><r>because<b/>he<b/>does<b/>not<b/>know<b/>how<b/>to<b/>sign</r></p></e>
+    <e><p><l>кулым<b/>куйдым</l><r>has<b/>signed</r></p></e>
+    <e><p><l>Куян<b/>Сабитта</l><r>at<b/>Rabbit<b/>Sabbit's</r></p></e>
+    <e><p><l>личный<b/>почетный<b/>гражданин<s n="n"/></l><r>personal<b/>honorary<b/>citizen<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ма<b/>бәендә</l><r>between<b/>them</r></p></e>
     <e><p><l>ма<b/>бәеннәрендә</l><r>between<b/>them</r></p></e>
     <e><p><l>ма<b/>бәеннәрендәге</l><r>between<b/>them</r></p></e>
     <e><p><l>ма<b/>бәйендә</l><r>between<b/>them</r></p></e>
     <e><p><l>ма<b/>бәйеннәрендә</l><r>between<b/>them</r></p></e>
     <e><p><l>ма<b/>бәйеннәрендәге</l><r>between<b/>them</r></p></e>
+    <e><p><l>ма<b/>бәкыйсе</l><r>the<b/>rest</r></p></e>
+    <e><p><l>мәзкүр<b/>рәвешчә</l><r>in<b/>aforementioned<b/>manner</r></p></e>
+    <e><p><l>мәзкүр<b/>тарика</l><r>in<b/>aforementioned<b/>manner</r></p></e>
+    <e><p><l>мәзкүр<b/>тарика</l><r>in<b/>aforementioned<b/>manner</r></p></e>
+    <e><p><l>мәкъбуз</l><r>received</r></p></e>
+    <e><p><l>мән<b/>бәгъде</l><r>afterwards</r></p></e>
+    <e><p><l>мәнкүхә</l><r>married<b/>woman</r></p></e>
+    <e><p><l>мәхәббәт<b/>юклыгыннан</l><r>because<b/>of<b/>the<b/>lack<b/>of<b/>love</r></p></e>
+    <e><p><l>мин<b/>бәгъде</l><r>afterwards</r></p></e>
     <e><p><l>моталлака</l><r>wife<b/>being<b/>divorced</r></p></e>
     <e><p><l>моталлик</l><r>man<b/>being<b/>divorced</r></p></e>
+    <e><p><l>мөбашәрә</l><r><b/>begin<b/>(?)</r></p></e>
+    <e><p><l>мөгәҗҗәл</l><r>(to<b/>be<b/>paid)<b/>right<b/>away</r></p></e>
+    <e><p><l>мөәҗҗәл</l><r>deferred</r></p></e>
+    <e><p><l>мөәнәсә</l><r>female</r></p></e>
+    <e><p><l>мөҗәррәдләр</l><r>both<b/>maiden/bachelor</r></p></e>
+    <e><p><l>Мөхәммәдхәләфи</l><r>Möxämmädxäläfi</r></p></e>
+    <e><p><l>муафыйк<b/>шәрг</l><r>according<b/>to<b/>the<b/>Islamic<b/>law</r></p></e>
+    <e><p><l>муафыйк шәрг</l><r>according to the Islamic law</r></p></e>
+    <e><p><l>не<b/>указана</l><r>not<b/>available</r></p></e>
+    <e><p><l>не<b/>указано</l><r>not<b/>available</r></p></e>
+    <e><p><l>низагсыз<b/>кайтарып<b/>вирмәк<b/>булдым</l><r>I<b/>committed<b/>to<b/>return<b/>without<b/>conflict</r></p></e>
+    <e><p><l>низагсыз</l><r>without<b/>conflict</r></p></e>
+    <e><p><l>низагсыз</l><r>without conflict</r></p></e>
+    <e><p><l>низаг сыз кайтарып вирмәк булдым</l><r>I committed to return without conflict</r></p></e>
+    <e><p><l>никах<b/>ителде</l><r>he<b/>got<b/>married<b/>to</r></p></e>
+    <e><p><l>никах<b/>иттем</l><r>conducted<b/>the<b/>ceremony</r></p></e>
+    <e><p><l>никах<b/>кылдым</l><r>conducted<b/>the<b/>ceremony</r></p></e>
+    <e><p><l>никахландырылды</l><r>was<b/>married<b/>(to)</r></p></e>
+    <e><p><l>ныйсыфы</l><r>half<b/>of<b/>it</r></p></e>
+    <e><p><l>ошбу<b/>рәвешчә</l><r>in<b/>this<b/>manner</r></p></e>
+    <e><p><l>ошбу<b/>тарика</l><r>in<b/>this<b/>manner</r></p></e>
+    <e><p><l>өст-башына</l><r>'s outerwear</r></p></e>
     <e><p><l>өч<b/>талак<b/>баин<b/>кылды</l><r>finally<b/>divorced<b/>for<b/>the<b/>third<b/>time</r></p></e>
     <e><p><l>өч<b/>талак<b/>баин<b/>кылдым</l><r>finally<b/>divorced<b/>for<b/>the<b/>third<b/>time</r></p></e>
     <e><p><l>өч<b/>талакы<b/>баин<b/>кылды</l><r>finally<b/>divorced<b/>for<b/>the<b/>third<b/>time</r></p></e>
     <e><p><l>өч<b/>талакы<b/>баин<b/>кылдым</l><r>finally<b/>divorced<b/>for<b/>the<b/>third<b/>time</r></p></e>
+    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсе<b/>указной<b/>мөәдзин<b/>әдә<b/>кылгучы</l><r>serving<b/>as<b/>appointed<b/>muezzin<b/>in<b/>a<b/>third-level<b/>wooden<b/>mosque<b/>community</r></p></e>
+    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсе<b/>указной<b/>мөәдзин<b/>әдә<b/>кылгучы</l><r>serving<b/>as<b/>muezzin<b/>in<b/>a<b/>third<b/>level<b/>wooden<b/>mosque<b/>community</r></p></e>
+    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсендә<b/>ләвазем<b/>имамәтне<b/>әда<b/>кылгучы</l><r>serving<b/>as<b/>imam<b/>in<b/>a<b/>third<b/>level<b/>wooden<b/>mosque<b/>mahalla</r></p></e>
+    <e><p><l>өченче<b/>дәрәҗәдә<b/>агач<b/>мәчет<b/>мәхәлләсендә<b/>указной<b/>мөәдзин<b/>әдә<b/>кылгучы</l><r>serving<b/>as<b/>appointed<b/>muezzin<b/>in<b/>a<b/>third-level<b/>wooden<b/>mosque<b/>community</r></p></e>
     <e><p><l>рядовой</l><r>private</r></p></e>
-    <e><p><l>билетный</l><r>reserve</r></p></e>    
+    <e><p><l>салды</l><r>has<b/>put</r></p></e>
     <e><p><l>сәбәбе<b/>фәрекат</l><r>the<b/>reason<b/>for<b/>divorce</r></p></e>
+    <e><p><l>сәйиб</l><r>widowed</r></p></e>
+    <e><p><l>сәйибә</l><r>widow</r></p></e>
     <e><p><l>сәни</l><r>the<b/>second</r></p></e>
     <e><p><l>солдат</l><r>soldier</r></p></e>
-    <e><p><l>тәхте<b/>никах</l><r>in<b/>lawful<b/>wedlock</r></p></e>
-    <e><p><l>һәрбер<b/>вәҗеһтән</l><r>for<b/>any<b/>reason</r></p></e>
-    <e><p><l>һәркаюсы</l><r>each<b/>of<b/>them</r></p></e>
-    <e><p><l>язу<b/>белмәгән<b/>өчен</l><r>because<b/>of<b/>his<b/>illiteracy</r></p></e>
-    <e><p><l>язу<b/>белмәгән<b/>сәбәпле</l><r>because<b/>of<b/>his<b/>illiteracy</r></p></e>
-    <e><p><l>язу<b/>белмәгәне<b/>өчен</l><r>because<b/>of<b/>his<b/>illiteracy</r></p></e>
-    <e><p><l>ирем</l><r>my<b/>husband</r></p></e>
-    <e><p><l>кайтарып</l><r>returning</r></p></e>
-    <e><p><l>кәнде<b/>никахында</l><r>in<b/>his<b/>marriage</r></p></e>
-    <e><p><l>муафыйк<b/>шәрг</l><r>according<b/>to<b/>the<b/>Islamic<b/>law</r></p></e>
-    <e><p><l>низагсыз</l><r>without<b/>conflict</r></p></e>
-    <e><p><l>низагсыз<b/>кайтарып<b/>вирмәк<b/>булдым</l><r>I<b/>committed<b/>to<b/>return<b/>without<b/>conflict</r></p></e>
     <e><p><l>сораганда</l><r>when<b/>request(s)</r></p></e>
+    <e><p><l>сораганда</l><r>when he/she will ask</r></p></e>
+    <e><p><l>сорамаска</l><r>not<b/>to<b/>ask</r></p></e>
+    <e><p><l>сүкнә</l><r>cloth<b/>(?)</r></p></e>
+    <e><p><l>сүкнә</l><r>cloth</r></p></e>
+    <e><p><l>так<b/>в<b/>документе</l><r>so<b/>in<b/>the<b/>document</r></p></e>
+    <e><p><l>талакы<b/>баин<b/>кылдым</l><r>I<b/>have<b/>irreconcilablely<b/>divorced</r></p></e> 
+    <e><p><l>тамга<b/>куйды</l><r>has<b/>put<b/>a<b/>mark</r></p></e>
+    <e><p><l>тамгам<b/>салдым</l><r>has<b/>marked</r></p></e>
+    <e><p><l>тапканчы</l><r>before she gives birth to</r></p></e>
+    <e><p><l>тәкрар</l><r>repeated</r></p></e>
+    <e><p><l>тәмам</l><r>over</r></p></e>
     <e><p><l>тәрбия<b/>кылырга</l><r>for<b/>parenting</r></p></e>
+    <e><p><l>тәрбия</l><r>parenting</r></p></e>
+    <e><p><l>тәрбия кылырга</l><r>for parenting</r></p></e>
+    <e><p><l>тәхте<b/>никах</l><r>in<b/>lawful<b/>wedlock</r></p></e>
+    <e><p><l>тиешле<b/>акчасын<b/>алып</l><r><b/>taking<b/>appropriate<b/>money</r></p></e>
+    <e><p><l>толлар</l><r>both<b/>widowed</r></p></e>
     <e><p><l>түбәндә<b/>исемләде<b/>язылмыш</l><r>the<b/>names<b/>of<b/>which<b/>are<b/>written<b/>below</r></p></e>
     <e><p><l>түбәндә<b/>исемләре<b/>язылмыш</l><r>the<b/>names<b/>of<b/>which<b/>are<b/>written<b/>below</r></p></e>
-    <e><p><l>улган</l><r>being</r></p></e>
-    <e><p><l>кисвә</l><r>clothing</r></p></e>
-    <e><p><l>түбәндә исемләре язылган</l><r>the name of which are written below</r></p></e>
     <e><p><l>түбәндә исемләде язылмыш</l><r>the names of which are written below</r></p></e>
-    <e><p><l>кәнде никахында улган хатыны</l><r>his wedded wife</r></p></e>
-    <e><p><l>кайтарып вирмәк булдым</l><r>committed to return</r></p></e>
-    <e><p><l>низагсыз</l><r>without conflict</r></p></e>
-    <e><p><l>низаг сыз кайтарып вирмәк булдым</l><r>I committed to return without conflict</r></p></e>
-    <e><p><l>кайтарып вирмәк</l><r>to return</r></p></e>
-    <e><p><l>кайтарып бирергә</l><r>to return</r></p></e>
-    <e><p><l>сораганда</l><r>when he/she will ask</r></p></e>
-    <e><p><l>тәрбия кылырга</l><r>for parenting</r></p></e>
-    <e><p><l>вәгъдәмдә</l><r>I pledge</r></p></e>
-    <e><p><l>сүкнә</l><r>cloth<b/>(?)</r></p></e>
-    <e><p><l>өст-башына</l><r>'s outerwear</r></p></e>
-    <e><p><l>тапканчы</l><r>before she gives birth to</r></p></e>
-    <e><p><l>корсагындагы</l><r>in her womb</r></p></e>
-    <e><p><l>cүкнә</l><r>cloth</r></p></e>
-    <e><p><l>Мөхәммәдхәләфи</l><r>Möxämmädxäläfi</r></p></e>
-    <e><p><l>ишетеп</l><r>hearing</r></p></e>
-    <e><p><l>муафыйк шәрг</l><r>according to the Islamic law</r></p></e>
-    <e><p><l>мәншүрле</l><r>appointed</r></p></e>
-    <e><p><l>таш</l><r>stone</r></p></e>
+    <e><p><l>түбәндә исемләре язылган</l><r>the name of which are written below</r></p></e>
+    <e><p><l>укыдым</l><r>have<b/>conducted<b/>the<b/>ceremony</r></p></e>
+    <e><p><l>улган</l><r>being</r></p></e>
+    <e><p><l>улмакына</l><r>that<b/>it<b/>will<b/>be</r></p></e>
+    <e><p><l>үзендә</l><r>at<b/>home</r></p></e>
+    <e><p><l>Фәрхи<b/>остабикәдә</l><r>at<b/>Färxi<b/>Mrs<b/>mullah's</r></p></e>
+    <e><p><l>хазир</l><r>now</r></p></e>
+    <e><p><l>хәлем<b/>тияр<b/>кадәр</l><r>to<b/>the<b/>extent<b/>possible</r></p></e>
+    <e><p><l>һәр<b/>икесенең<b/>әүвәл<b/>никахы</l><r>first<b/>marriage<b/>of<b/>both</r></p></e>
+    <e><p><l>һәр<b/>икәве<b/>бикер</l><r>both<b/>have<b/>never<b/>been<b/>married<b/>before</r></p></e>
+    <e><p><l>һәр<b/>икәве<b/>әһле<b/>зирагатьтән</l><r>both<b/>are<b/>granary<b/>workers</r></p></e>
+    <e><p><l>һәр<b/>икәвенең<b/>беренче<b/>никахлары</l><r>first<b/>marriage<b/>of<b/>both</r></p></e>
+    <e><p><l>һәрбер<b/>вәҗеһтән</l><r>for<b/>any<b/>reason</r></p></e>
+    <e><p><l>һәркаюсы</l><r>each<b/>of<b/>them</r></p></e>
+    <e><p><l>һич<b/>вәҗеһтән</l><r>for<b/>any<b/>reason</r></p></e>
+    <e><p><l>шул<b/>рәвешчә</l><r>in<b/>that<b/>manner</r></p></e>
+    <e><p><l>шул<b/>тарика</l><r>in<b/>that<b/>manner</r></p></e>
+    <e><p><l>шулук</l><r>the<b/>same</r></p></e>
+    <e><p><l>юклыгы</l><r>the<b/>lack<b/>of</r></p></e>
+    <e><p><l>язды</l><r>has<b/>written</r></p></e>
+    <e><p><l>язу<b/>белмәгән<b/>өчен</l><r>because<b/>of<b/>his<b/>illiteracy</r></p></e>
+    <e><p><l>язу<b/>белмәгән<b/>сәбәпле<b/>үтенүе<b/>буенча</l><r>on<b/>his<b/>request<b/>because<b/>of<b/>his<b/>illiteracy</r></p></e>
+    <e><p><l>язу<b/>белмәгән<b/>сәбәпле</l><r>because<b/>of<b/>his<b/>illiteracy</r></p></e>
+    <e><p><l>язу<b/>белмәгәне<b/>өчен</l><r>because<b/>of<b/>his<b/>illiteracy</r></p></e>
+    <e><p><l>язу<b/>белмәгәннән<b/>тамга<b/>галәмәте<b/>куйды</l><r>has<b/>put<b/>a<b/>mark<b/>because<b/>of<b/>his<b/>illiteracy</r></p></e>
+    <e><p><l>язу<b/>белмәгәннән</l><r>because<b/>of<b/>his<b/>illiteracy</r></p></e>
 
     <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><p><l>"^,<s n="cm"/></l><r>",<s n="cm"/></r></p></e>
