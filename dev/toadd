@@ -26,7 +26,7 @@ N1:хак:right
 ADV:фил-хәл:right away
 A4:фил-хакыйки:actual
 V-IV-IR:кил:come
-dix:һичбер<det><neg>:no<det><ind><sp>
+DIX:һичбер<det><neg>:no<det><ind><sp>
 LR:фәрекать%<n%>%<pl%>%<px3sp%>%<nom%>:фәрекатләре # ; ! "" Use/MT Dir/LR
 N1:вакыйга:event
 ph:вакыйг:took [place]
@@ -35,11 +35,13 @@ V-IV-IR:кит:go
 V-TV-IR:никаһ ит:marry (perform a marriage ceremony)
 LR:өяз%<n%>%<px3sp%>%<nom%>:яөзе # ; ! "" Dir/LR
 NP-COG-MF:әс-Салихи:äs-Salixi
-шул
-хакым
-тәкмил
-камил
-һәркаюсының
+NP-TOP:Вознесенский:Voznesenskiy
+DIX:шул<det><dem>:that<det><dem><sg>
+LR:хак%<n%>%<px1sg%>%<nom%>:хакым # ; ! "" Dir/LR
+ADV:тәкмил:fully
+A1:камил:full
+LR:һәркайсы%<prn%>%<qnt%>%<gen%>:һәркаюсының # ; ! "" Use/MT Dir/LR
+DIX:һәркайсы<prn><qnt>:each of them
 икърар
 булыр
 хәзер

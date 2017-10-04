@@ -25,6 +25,7 @@
     <sdef n="adj"             c="Adjective"/>
     <sdef n="prn"             c="Pronoun"/>
     <sdef n="cop"             c="Copula"/>
+    <sdef n="postadv"         c="Postadverb"/>
     
     <sdef n="attr"            c="Attributive"/>
     <sdef n="top"             c="Toponym"/>
@@ -206,6 +207,8 @@
     <e><p><l>гыйддә<s n="n"/></l><r>iddah<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гыйддәт<s n="n"/></l><r>iddah<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гыйнвар<s n="n"/></l><r>January<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l><s n="loc"/></l><r></r></p></e>
+    <e><p><l>да<s n="postadv"/></l><r>also<s n="n"/><s n="adv"/></r></p></e>
     <e><p><l>дамелла<s n="n"/></l><r>damella<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>дворянин<s n="n"/></l><r>nobleman<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>декабрь<s n="n"/></l><r>December<s n="n"/><s n="sg"/></r></p></e>
@@ -483,6 +486,7 @@
     <e><p><l>тәслим<b/>кыл<s n="v"/><s n="tv"/></l><r>transfer<s n="vblex"/></r></p></e>
     <e><p><l>тәфрикъ<b/>кыл<s n="v"/><s n="tv"/></l><r>separate<s n="vblex"/></r></p></e>
     <e><p><l>тәфтиш<b/>кыл<s n="v"/><s n="tv"/></l><r>investigate<s n="vblex"/></r></p></e>
+    <e><p><l>тәхте<s n="post"/></l><r>under<s n="post"/></r></p></e>
     <e><p><l>тиен<s n="n"/></l><r>kopek<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>тиешле<s n="adj"/></l><r>appropriate<s n="adj"/></r></p></e>
     <e><p><l>тол<s n="adj"/></l><r>widowed<s n="adj"/></r></p></e>
@@ -8436,7 +8440,6 @@
     <e><p><l>тәрбия<b/>кылырга</l><r>for<b/>parenting</r></p></e>
     <e><p><l>тәрбия</l><r>parenting</r></p></e>
     <e><p><l>тәрбия кылырга</l><r>for parenting</r></p></e>
-    <e><p><l>тәхте<b/>никах</l><r>in<b/>lawful<b/>wedlock</r></p></e>
     <e><p><l>тиешле<b/>акчасын<b/>алып</l><r><b/>taking<b/>appropriate<b/>money</r></p></e>
     <e><p><l>толлар</l><r>both<b/>widowed</r></p></e>
     <e><p><l>түбәндә<b/>исемләде<b/>язылмыш</l><r>the<b/>names<b/>of<b/>which<b/>are<b/>written<b/>below</r></p></e>
