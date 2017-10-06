@@ -42,10 +42,12 @@ ADV:тәкмил:fully
 A1:камил:full
 LR:һәркайсы%<prn%>%<qnt%>%<gen%>:һәркаюсының # ; ! "" Use/MT Dir/LR
 DIX:һәркайсы<prn><qnt>:each of them
-икърар
-булыр
-хәзер
-җәмиг
+N1:икърар:acknowledgement
+dix:бул<v><iv>:be<vbser>
+ADV:хәзер:now
+ADV:хәзергә:for now
+dix:җәмигъ<det><qnt>:all<det><qnt><pl>
+LR:җәмигъ:җәмиг DET-QNT ; ! "" Dir/LR Use/MT
 бәгъд
 бил
 дәхи
