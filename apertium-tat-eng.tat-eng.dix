@@ -140,6 +140,8 @@
     <e><p><l>ана<s n="n"/></l><r>mother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>апрель<s n="n"/></l><r>April<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ара<s n="n"/><s n="px3sp"/><s n="loc"/></l><r>between<s n="pr"/></r></p></e>
+    <e><p><l>ара<s n="n"/><s n="px3sp"/><s n="loc"/><s n="attr"/></l><r>between<s n="pr"/></r></p></e>
+    <e><p><l>ара<s n="n"/><s n="pl"/><s n="px3sp"/><s n="loc"/><s n="attr"/></l><r>between<s n="pr"/><j/>them</r></p></e>
     <e><p><l>асла<s n="adv"/></l><r>none<b/>at<b/>all/never<s n="adv"/></r></p></e>
     <e><p><l>ата<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>баин<b/>кыл<s n="v"/><s n="tv"/></l><r>complete<s n="vblex"/></r></p></e>
@@ -5846,9 +5848,109 @@
     <e><p><l>Әзимов<s n="np"/><s n="cog"/></l><r>Äzimov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әкбәров<s n="np"/><s n="cog"/></l><r>Äkbärov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әкмаев<s n="np"/><s n="cog"/></l><r>Äkmayev<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Айбаши<s n="np"/><s n="cog"/></l><r>äl-Aybaşi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Ансарый<s n="np"/><s n="cog"/></l><r>äl-Ansarıy<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Анчар<s n="np"/><s n="cog"/></l><r>äl-Ançar<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Апанай<s n="np"/><s n="cog"/></l><r>äl-Apanay<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Ашытый<s n="np"/><s n="cog"/></l><r>äl-Aşıtıy<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Багдани<s n="np"/><s n="cog"/></l><r>äl-Bagdani<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Балтаси<s n="np"/><s n="cog"/></l><r>äl-Baltasi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Балтачи<s n="np"/><s n="cog"/></l><r>äl-Baltaçi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Баруди<s n="np"/><s n="cog"/></l><r>äl-Barudi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Бәрәзәви<s n="np"/><s n="cog"/></l><r>äl-Bäräzäwi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Бәрәскәви<s n="np"/><s n="cog"/></l><r>äl-Bäräskäwi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Бәхтияри<s n="np"/><s n="cog"/></l><r>äl-Bäxtiäri<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Бәшири<s n="np"/><s n="cog"/></l><r>äl-Bäşiri<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Бикколый<s n="np"/><s n="cog"/></l><r>äl-Bikkolıy<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әлбин<s n="np"/><s n="cog"/></l><r>Älbin<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Богдадный<s n="np"/><s n="cog"/></l><r>äl-Boğdadnıy<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Бохари<s n="np"/><s n="cog"/></l><r>äl-Boxari<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Буави<s n="np"/><s n="cog"/></l><r>äl-Buawi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Вәлит<s n="np"/><s n="cog"/></l><r>äl-Wälit<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Вилдан<s n="np"/><s n="cog"/></l><r>äl-Vildan<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Газани<s n="np"/><s n="cog"/></l><r>äl-Ğazani<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Гибади<s n="np"/><s n="cog"/></l><r>äl-Gibadi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Гомәри<s n="np"/><s n="cog"/></l><r>äl-Ğömäri<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Гыйддәтәйн<s n="np"/><s n="cog"/></l><r>äl-Ğiddätäyn<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Гыйсмәти<s n="np"/><s n="cog"/></l><r>äl-Ğismäti<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әлдербишев<s n="np"/><s n="cog"/></l><r>Älderbişev<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Әгмә<s n="np"/><s n="cog"/></l><r>äl-Ägmä<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Әгъма<s n="np"/><s n="cog"/></l><r>äl-Äğma<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Әгъмә<s n="np"/><s n="cog"/></l><r>äl-Äğmä<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Әмирхани<s n="np"/><s n="cog"/></l><r>äl-Ämirxani<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Әнасария<s n="np"/><s n="cog"/></l><r>äl-Änasariä<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Әнсари<s n="np"/><s n="cog"/></l><r>äl-Änsari<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Әнсарый<s n="np"/><s n="cog"/></l><r>äl-Änsarıy<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Әнсарый<s n="np"/><s n="cog"/></l><r>äl-Änsarıy<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Җәләли<s n="np"/><s n="cog"/></l><r>äl-Cäläli<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Җәрәкси<s n="np"/><s n="cog"/></l><r>äl-Cäräksi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Җәркәси<s n="np"/><s n="cog"/></l><r>äl-Cärkäsi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Җиркәсе<s n="np"/><s n="cog"/></l><r>äl-Cirkäse<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Иманколый<s n="np"/><s n="cog"/></l><r>äl-İmankolıy<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Кавали<s n="np"/><s n="cog"/></l><r>äl-Qawali<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Кавалый<s n="np"/><s n="cog"/></l><r>äl-Qawalıy<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Казани<s n="np"/><s n="cog"/></l><r>äl-Qazani<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Кенәри<s n="np"/><s n="cog"/></l><r>äl-Kenäri<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Кәрими<s n="np"/><s n="cog"/></l><r>äl-Kärimi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Кәчәви<s n="np"/><s n="cog"/></l><r>äl-Käçäwi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Кирмәншаһи<s n="np"/><s n="cog"/></l><r>äl-Kirmänşahi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Кишети<s n="np"/><s n="cog"/></l><r>äl-Kişeti<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Корадагани<s n="np"/><s n="cog"/></l><r>äl-Qoradağäni<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Корткачыни<s n="np"/><s n="cog"/></l><r>äl-Qortqaçıni<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Курыкмаси<s n="np"/><s n="cog"/></l><r>äl-Qurıkmasi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Кушари<s n="np"/><s n="cog"/></l><r>äl-Quşari<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Кушлавичи<s n="np"/><s n="cog"/></l><r>äl-Quşlawiçi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Кушлавучи<s n="np"/><s n="cog"/></l><r>äl-Quşlawuçi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Кушлавычи<s n="np"/><s n="cog"/></l><r>äl-Quşlawıçi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Күлбаши<s n="np"/><s n="cog"/></l><r>äl-Külbaşi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Күлтәси<s n="np"/><s n="cog"/></l><r>äl-Kültäsi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Күстәрбай<s n="np"/><s n="cog"/></l><r>äl-Küstärbay<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Максуди<s n="np"/><s n="cog"/></l><r>äl-Maqsudi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Максутов<s n="np"/><s n="cog"/></l><r>äl-Maqsutov<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мәдинәтел<s n="np"/><s n="cog"/></l><r>äl-Mädinätel<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мәлик<s n="np"/><s n="cog"/></l><r>äl-Mälik<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мәнгәри<s n="np"/><s n="cog"/></l><r>äl-Mängäri<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мәраҗни<s n="np"/><s n="cog"/></l><r>äl-Märacni<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мәрҗани<s n="np"/><s n="cog"/></l><r>äl-Märcani<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мораги<s n="np"/><s n="cog"/></l><r>äl-Moragi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Морагый<s n="np"/><s n="cog"/></l><r>äl-Morağıy<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мортаза<s n="np"/><s n="cog"/></l><r>äl-Mortaza<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мортзый<s n="np"/><s n="cog"/></l><r>äl-Mortzıy<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мохтари<s n="np"/><s n="cog"/></l><r>äl-Moxtari<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мөәдзин<s n="np"/><s n="cog"/></l><r>äl-Möädzin<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мөәзин<s n="np"/><s n="cog"/></l><r>äl-Möäzin<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Мөәзин<s n="np"/><s n="cog"/></l><r>äl-Möäzin<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әлмөхәммәдов<s n="np"/><s n="cog"/></l><r>Älmöxämmädov<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Музин<s n="np"/><s n="cog"/></l><r>äl-Muzin<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Нәҗари<s n="np"/><s n="cog"/></l><r>äl-Näcari<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Өмми<s n="np"/><s n="cog"/></l><r>äl-Ömmi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Сабави<s n="np"/><s n="cog"/></l><r>äl-Sabawi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Сабаи<s n="np"/><s n="cog"/></l><r>äl-Sabai<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Сасмакый<s n="np"/><s n="cog"/></l><r>äl-Sasmaqıy<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Ташкичуви<s n="np"/><s n="cog"/></l><r>äl-Taşkiçuwi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Фарис<s n="np"/><s n="cog"/></l><r>äl-Faris<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Фарси<s n="np"/><s n="cog"/></l><r>äl-Farsi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Фарук<s n="np"/><s n="cog"/></l><r>äl-Faruq<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Фәрук<s n="np"/><s n="cog"/></l><r>äl-Färuk<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Хаҗи<s n="np"/><s n="cog"/></l><r>äl-Xaci<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Хаҗиев<s n="np"/><s n="cog"/></l><r>äl-Xaciev<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Халиди<s n="np"/><s n="cog"/></l><r>äl-Xalidi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Халит<s n="np"/><s n="cog"/></l><r>äl-Xalit<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Хафиз<s n="np"/><s n="cog"/></l><r>äl-Xafiz<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Хаффар<s n="np"/><s n="cog"/></l><r>äl-Xaffar<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Хәфаф<s n="np"/><s n="cog"/></l><r>äl-Xäfaf<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Хорәер<s n="np"/><s n="cog"/></l><r>äl-Xoräyer<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Хөррәмәйн<s n="np"/><s n="cog"/></l><r>äl-Xörrämäyn<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Хөс<s n="np"/><s n="cog"/></l><r>äl-Xös<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Хөсәен<s n="np"/><s n="cog"/></l><r>äl-Xösäyen<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Хөсәени<s n="np"/><s n="cog"/></l><r>äl-Xösäyeni<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Чиркәси<s n="np"/><s n="cog"/></l><r>äl-Çirkäsi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Чуашиле<s n="np"/><s n="cog"/></l><r>äl-Çuaşile<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Чуашили<s n="np"/><s n="cog"/></l><r>äl-Çuaşili<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Чулпычи<s n="np"/><s n="cog"/></l><r>äl-Çulpıçi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Энби<s n="np"/><s n="cog"/></l><r>äl-Enbi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Юртыши<s n="np"/><s n="cog"/></l><r>äl-Yurtışi<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әл-Яүм<s n="np"/><s n="cog"/></l><r>äl-Yäwm<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әмзин<s n="np"/><s n="cog"/></l><r>Ämzin<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әминов<s n="np"/><s n="cog"/></l><r>Äminov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әмиров<s n="np"/><s n="cog"/></l><r>Ämirov<s n="np"/><s n="cog"/></r></p></e>

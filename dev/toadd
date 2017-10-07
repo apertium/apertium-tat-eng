@@ -22,172 +22,165 @@
 шул ук:шул
 үзем:myself
 
-N1:хак:right
-ADV:фил-хәл:right away
-A4:фил-хакыйки:actual
-V-IV-IR:кил:come
-DIX:һичбер<det><neg>:no<det><ind><sp>
-LR:фәрекать%<n%>%<pl%>%<px3sp%>%<nom%>:фәрекатләре # ; ! "" Use/MT Dir/LR
-N1:вакыйга:event
-ph:вакыйг:took [place]
-ph:юк:there isn't
-V-IV-IR:кит:go
-V-TV-IR:никаһ ит:marry (perform a marriage ceremony)
-LR:өяз%<n%>%<px3sp%>%<nom%>:яөзе # ; ! "" Dir/LR
-NP-COG-MF:әс-Салихи:äs-Salixi
-NP-TOP:Вознесенский:Voznesenskiy
-DIX:шул<det><dem>:that<det><dem><sg>
-LR:хак%<n%>%<px1sg%>%<nom%>:хакым # ; ! "" Dir/LR
-ADV:тәкмил:fully
 A1:камил:full
-LR:һәркайсы%<prn%>%<qnt%>%<gen%>:һәркаюсының # ; ! "" Use/MT Dir/LR
-DIX:һәркайсы<prn><qnt>:each of them
-N1:икърар:acknowledgement
-dix:бул<v><iv>:be<vbser>
+A4:бессрочный:reserve
+A4:фил-хакыйки:actual
+ADV:тәкмил:fully
+ADV:фил-хәл:right away
 ADV:хәзер:now
 ADV:хәзергә:for now
-dix:җәмигъ<det><qnt>:all<det><qnt><pl>
+CNJSUB:әгәр:if
+DIX:бул<v><iv>:be<vbser>
+DIX:җәмигъ<det><qnt>:all<det><qnt><pl>
+DIX:һәркайсы<prn><qnt>:each of them
+DIX:һичбер<det><neg>:no<det><ind><sp>
+DIX:шул<det><dem>:that<det><dem><sg>
+LR:авыл%<n%>%<px3sp%>%<gen%>:авылыынң # ; ! "" Dir/LR err_orth
+LR:ара%<n%>%<pl%>%<px3sp%>%<loc%>:араларныда # ; ! "" Dir/LR err_orth
 LR:җәмигъ:җәмиг DET-QNT ; ! "" Dir/LR Use/MT
-бәгъд
-бил
-дәхи
-на
+LR:өяз%<n%>%<px3sp%>%<nom%>:яөзе # ; ! "" Dir/LR
+LR:фәрекать%<n%>%<pl%>%<px3sp%>%<nom%>:фәрекатләре # ; ! "" Use/MT Dir/LR
+LR:хак%<n%>%<px1sg%>%<nom%>:хакым # ; ! "" Dir/LR
+LR:һәркайсы%<prn%>%<qnt%>%<gen%>:һәркаюсының # ; ! "" Use/MT Dir/LR
+N1:вакыйга:event
+N1:дөнья:world
+N1:икърар:acknowledgement
+N1:хак:right
+NP-COG-MF:әс-Салихи:äs-Salixi
+NP-TOP:Вознесенский:Voznesenskiy
+ph:вакыйг:took [place]
+ph:на кириллице:in Cyrillic
+ph:написано:written
+ph:юк:there isn't
+V-IV-IR:кил:come
+V-IV-IR:кит:go
+V-TV-IR:бел:know
+V-TV-IR:никаһ ит:marry (perform a marriage ceremony)
+DIX:алд<n><px3sp><loc>:in front of<pr>
+A2:асыл:real
+N1:ахунд:akhund
+N1:ахыр:end
+N1:вакыйга:event
+N1:вакыт:time
+LR:зирагатьче:зирагәтьче N1 ; ! "" Dir/LR err_orth
+DIX:и<cop>:be<vbser>
+N1:җәһәт:reason
+ph:башка җәһәттән:on any other issue
+ph:һичбер җәһәттән:on any issue
+N1:ярым:half
+LR:ма% бәеннәрендә%<phrase%>:ма% бәеннәерндә # ; ! "" Use/MT Dir/LR err_orth
+V-IV-IR:тырыш:strive
+N1:кодрәт:power
+POST:кадәр:till
+POST:кадәрле:till
+V-TV-IR:сора:ask
+ADV:түбәндә:below
+N1:хосумәт:feud
+N1:хат:letter
+N1:хадана:age of 2.5 years
+LR:хәзер:хазер ADV-WITH-KI ; ! "" Dir/LR err_orth
+A4:хамилә:pregnant
+N1:хәтфә:velvet
+N1:эне:younger brother
+N1:хатыйб:khatib
+N1:юклык:lack
+N1:фәкыйрьлек:poverty
+ADV:соңра:later
+POST:соңра:after
+A4:бакыятән:remaining/deferred (?)
+LR:мин% бәгъде%<phrase%>:мин% бәгъд
+A4:бәкыятел:remaining/deferred (?)
+A4:бәкыяти:remaining/deferred (?)
+DIX:берсе<prn><ind>:one<prn><dem><mf><sg>
+N1:бил:waist
+A3:билетлы:reserve
+POST:бинаэн:according to
+ph:битәразый җанибәйн вә тәсалихы тарафәйн:with mutual consent and goodwill of the parties
+ph:җанибәйн:the parties
+A3:гайре:other<det><ind><mf><pl>
+DIX:гайре<adj><subst><pl>:others<prn><ind><mf><pl>
+LR:гакыд:гакыде N1 ; ! "" Use/MT Dir/LR
+LR:гакыд:гакыдел N1 ; ! "" Use/MT Dir/LR
+N1:гам:uncle
+LR:гам:гами N1 ; ! "" Dir/LR
+N1:гаммә:aunt
+LR:галәмәт:гәләмәт N1 ; ! "" Dir/LR err_orth
+N1:дәфга:time
+ADV:дәхи:also
+LR:ди%<v%>%<tv%>%<gna_perf%>:диеп # ; ! "" Dir/LR phon
+DIX:ди<v><tv><gna_perf>:say<vblex><ppprs>
 әл
-әгәр
-итеп
-берсеннән
-авылыынң
-кириллице
-ярым
-алдында
-хатыйб
-укыттылар
-диеп
-тарафәйн
-тулганча
-написано
-хосумәт
-гакыдел
-бакыятән
-икәве
-булганлыгына
-ахырда
-җанибәйн
-дәфга
-вакытында
-улып
-түбәндә
-катыг
-белмәгәне
-ның
-кич
-калмаенча
-иртифагы
-бәкыятел
-тәсалихы
-соңра
-салдылар
-саен
-битәразый
-үзерә
-энесе
-унтер
-калмадыгына
-гайре
-мендәр
-да
-улмак
-сорамас
-кичкәнлегенең
-белмәгәнлеге
-Әгәр
-хәлеген
-улан
-гәләмәт
-Олуг
-һәркайсы
-үземнең
 җәмгысе
-ма
-кәррә
-кадәр
-үзләрендә
-гакыде
-Араларындагы
-салган
-садир
-нам
-китереп
-дөньяга
-вакыйга
-хазер
-сәгать
-кылганча
-казан
-ителде
-гам
-Шул
-Хәйбулла
-яшьлек
-хадана
-улды
-рәвештә
-не
-мөэнәтә
-мәгълүм
-кайтып
-булмаган
-юклыктан
-шәргый
-хәтфә
-хамилә
-нең
-мәгашәрә
-мал
-кичкәнлегенә
-кадәрле
+икәве
 икәвенең
-рәвешчә
-мөэнәтәс
-мәрдүд
-бәеннәерндә
-белмәгәнлектән
-җәһәттән
-нәфәкалек
-нәфәкаи
-мәсмүг
-булганча
-берсендә
-Сәг
-Араларныда
-җәһәтеннән
-хәлегъкә
-фәкыйрьлегеннән
-улмадыгыннан
-сумлык
-сабит
-минем
-иде
-бәкыяти
-ярымлык
-хат
-фарыз
-улла
-улган
-зирагәтьче
-вакытта
-булуына
-ахунд
-асыл
-шәрган
-хәлегесенең
-хосуста
-фигл
-саир
-килсә
+иртифагы
+ителде
+итеп
+казан
+кайтып
+калмадыгына
+калмаенча
+катыг
+кәррә
 кечкенә
-булу
-булмас
-бинаэн
-бессрочный
-белмәү
+килсә
+китереп
+кич
+кичкәнлегенә
+кичкәнлегенең
+кылганча
+ма
+мал
+мәгашәрә
+мәгълүм
+мендәр
+мәрдүд
+мәсмүг
+минем
+мөэнәтә
+мөэнәтәс
+нам
+не
+нең
+нәфәкаи
+нәфәкалек
+ның
+Олуг
+рәвештә
+рәвешчә
+сабит
+садир
+саен
+саир
+салган
+салдылар
+Сәг
+сәгать
+сумлык
+тарафәйн
+тәсалихы
+тулганча
+үземнең
+үзерә
+үзләрендә
+укыттылар
+улан
+улган
+улды
+улла
+улмадыгыннан
+улмак
+улып
+унтер
+фарыз
+фигл
+хәлеген
+хәлегесенең
+хәлегъкә
+һәркайсы
+хосуста
+шәрган
+шәргый
+Шул
+ярымлык
+яшьлек
