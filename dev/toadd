@@ -23,138 +23,134 @@
 үзем:myself
 
 A1:камил:full
+A1:катыг:heavy
+A2:асыл:real
+A2:кечкенә:small
+A2:олуг:eldest
+A3:билетлы:reserve
+A3:гайре:other<det><ind><mf><pl>
+A3:мәгълүм:known
+A3:мәрдүд:reject<vblex><pp>
+A3:мәсмүг:hear<vblex><pp>
+A3:садир:appear<vblex><pprs>
+A4:бакыятән:remaining/deferred (?)
+A4:бәкыятел:remaining/deferred (?)
+A4:бәкыяти:remaining/deferred (?)
 A4:бессрочный:reserve
 A4:фил-хакыйки:actual
+A4:хамилә:pregnant
+ADV:дәхи:also
+ADV:җәмгысе:in total
+ADV:рәвешчә:manner
+ADV:соңра:later
 ADV:тәкмил:fully
+ADV:түбәндә:below
+ADV:фәкать:only
 ADV:фил-хәл:right away
 ADV:хәзер:now
 ADV:хәзергә:for now
+AFF:ның<gen>:of<pr>
 CNJSUB:әгәр:if
+DIX:алд<n><px3sp><loc>:in front of<pr>
+DIX:берсе<prn><ind>:one<prn><dem><mf><sg>
 DIX:бул<v><iv>:be<vbser>
+DIX:гайре<adj><subst><pl>:others<prn><ind><mf><pl>
+DIX:ди<v><tv><gna_perf>:say<vblex><ppprs>
 DIX:җәмигъ<det><qnt>:all<det><qnt><pl>
+DIX:и<cop>:be<vbser>
+DIX:мин<prn><pers><p1><sg><gen>:my<det><pos><sp>
+DIX:һәр икәве<prn><qnt>:each of them
 DIX:һәркайсы<prn><qnt>:each of them
 DIX:һичбер<det><neg>:no<det><ind><sp>
 DIX:шул<det><dem>:that<det><dem><sg>
 LR:авыл%<n%>%<px3sp%>%<gen%>:авылыынң # ; ! "" Dir/LR err_orth
 LR:ара%<n%>%<pl%>%<px3sp%>%<loc%>:араларныда # ; ! "" Dir/LR err_orth
-LR:җәмигъ:җәмиг DET-QNT ; ! "" Dir/LR Use/MT
-LR:өяз%<n%>%<px3sp%>%<nom%>:яөзе # ; ! "" Dir/LR
-LR:фәрекать%<n%>%<pl%>%<px3sp%>%<nom%>:фәрекатләре # ; ! "" Use/MT Dir/LR
-LR:хак%<n%>%<px1sg%>%<nom%>:хакым # ; ! "" Dir/LR
-LR:һәркайсы%<prn%>%<qnt%>%<gen%>:һәркаюсының # ; ! "" Use/MT Dir/LR
-N1:вакыйга:event
-N1:дөнья:world
-N1:икърар:acknowledgement
-N1:хак:right
-NP-COG-MF:әс-Салихи:äs-Salixi
-NP-TOP:Вознесенский:Voznesenskiy
-ph:вакыйг:took [place]
-ph:на кириллице:in Cyrillic
-ph:написано:written
-ph:юк:there isn't
-V-IV-IR:кил:come
-V-IV-IR:кит:go
-V-TV-IR:бел:know
-V-TV-IR:никаһ ит:marry (perform a marriage ceremony)
-DIX:алд<n><px3sp><loc>:in front of<pr>
-A2:асыл:real
-N1:ахунд:akhund
-N1:ахыр:end
-N1:вакыйга:event
-N1:вакыт:time
-LR:зирагатьче:зирагәтьче N1 ; ! "" Dir/LR err_orth
-DIX:и<cop>:be<vbser>
-N1:җәһәт:reason
-ph:башка җәһәттән:on any other issue
-ph:һичбер җәһәттән:on any issue
-N1:ярым:half
-LR:ма% бәеннәрендә%<phrase%>:ма% бәеннәерндә # ; ! "" Use/MT Dir/LR err_orth
-V-IV-IR:тырыш:strive
-N1:кодрәт:power
-POST:кадәр:till
-POST:кадәрле:till
-V-TV-IR:сора:ask
-ADV:түбәндә:below
-N1:хосумәт:feud
-N1:хат:letter
-N1:хадана:age of 2.5 years
-LR:хәзер:хазер ADV-WITH-KI ; ! "" Dir/LR err_orth
-A4:хамилә:pregnant
-N1:хәтфә:velvet
-N1:эне:younger brother
-N1:хатыйб:khatib
-N1:юклык:lack
-N1:фәкыйрьлек:poverty
-ADV:соңра:later
-POST:соңра:after
-A4:бакыятән:remaining/deferred (?)
-LR:мин% бәгъде%<phrase%>:мин% бәгъд
-A4:бәкыятел:remaining/deferred (?)
-A4:бәкыяти:remaining/deferred (?)
-DIX:берсе<prn><ind>:one<prn><dem><mf><sg>
-N1:бил:waist
-A3:билетлы:reserve
-POST:бинаэн:according to
-ph:битәразый җанибәйн вә тәсалихы тарафәйн:with mutual consent and goodwill of the parties
-ph:җанибәйн:the parties
-A3:гайре:other<det><ind><mf><pl>
-DIX:гайре<adj><subst><pl>:others<prn><ind><mf><pl>
 LR:гакыд:гакыде N1 ; ! "" Use/MT Dir/LR
 LR:гакыд:гакыдел N1 ; ! "" Use/MT Dir/LR
-N1:гам:uncle
-LR:гам:гами N1 ; ! "" Dir/LR
-N1:гаммә:aunt
 LR:галәмәт:гәләмәт N1 ; ! "" Dir/LR err_orth
-N1:дәфга:time
-ADV:дәхи:also
+LR:гам:гами N1 ; ! "" Dir/LR
 LR:ди%<v%>%<tv%>%<gna_perf%>:диеп # ; ! "" Dir/LR phon
-DIX:ди<v><tv><gna_perf>:say<vblex><ppprs>
-N1:сәгать:hour
-N1:сәгать:clock
-N1:сәгатьче:watchmaker
-ADV:җәмгысе:in total
-DIX:мин<prn><pers><p1><sg><gen>:my<det><pos><sp>
-DIX:һәр икәве<prn><qnt>:each of them
-N1:иртифак:(here, probably erroneously) lack of
-V-IR-TV:кайт:return
-A2:кечкенә:small
-A3:мәгълүм:known
-N1:мендәр:pillow
-V-TV-AR:тәзәүвеҗ ит:marry
-LR:тәзәүвеҗ% ит:тәзәввеҗ% ит V-TV-AR ; ! "" Use/MT Dir/LR
-LR:тәзәүвеҗ% ит:тәҗәввеҗ% ит V-TV-AR ; ! "" Use/MT Dir/LR
-LR:тәзәүвеҗ% ит:тәзәвваеҗ% ит V-TV-AR ; ! "" Use/MT Dir/LR
+LR:җәмигъ:җәмиг DET-QNT ; ! "" Dir/LR Use/MT
+LR:зирагатьче:зирагәтьче N1 ; ! "" Dir/LR err_orth
 LR:Казан:казан NP-TOP ; ! "" Dir/LR
 LR:кал%<v%>%<iv%>%<neg%>%<ger_past%>%<px3sp%>%<dat%>:калмадыгына # ; ! "" Dir/LR
 LR:кал%<v%>%<iv%>%<neg%>%<gna_perf%>:калмаенча # ; ! "" Dir/LR
-A1:катыг:heavy
+LR:ма% бәеннәрендә%<phrase%>:ма% бәеннәерндә # ; ! "" Use/MT Dir/LR err_orth
+LR:мин% бәгъде%<phrase%>:мин% бәгъд
+LR:ның%<gen%>:нең # ; ! "" Dir/LR Use/MT
+LR:өяз%<n%>%<px3sp%>%<nom%>:яөзе # ; ! "" Dir/LR
+LR:тәзәүвеҗ% ит:тәҗәввеҗ% ит V-TV-AR ; ! "" Use/MT Dir/LR
+LR:тәзәүвеҗ% ит:тәзәвваеҗ% ит V-TV-AR ; ! "" Use/MT Dir/LR
+LR:тәзәүвеҗ% ит:тәзәввеҗ% ит V-TV-AR ; ! "" Use/MT Dir/LR
+LR:фәрекать%<n%>%<pl%>%<px3sp%>%<nom%>:фәрекатләре # ; ! "" Use/MT Dir/LR
+LR:хак%<n%>%<px1sg%>%<nom%>:хакым # ; ! "" Dir/LR
+LR:хәзер:хазер ADV-WITH-KI ; ! "" Dir/LR err_orth
+LR:һәркайсы%<prn%>%<qnt%>%<gen%>:һәркаюсының # ; ! "" Use/MT Dir/LR
+N1:ахунд:akhund
+N1:ахыр:end
+N1:бил:waist
+N1:вакыйга:event
+N1:вакыйга:event
+N1:вакыт:time
+N1:гам:uncle
+N1:гаммә:aunt
+N1:дәфга:time
+N1:дөнья:world
+N1:җәһәт:reason
+N1:икърар:acknowledgement
+N1:иртифак:(here, probably erroneously) lack of
 N1:кәррә:time
-ADV:фәкать:only
-V-TV-IR:китер:bring
+N1:кодрәт:power
+N1:мал:property
+N1:мәгашәрә:communication
+N1:мендәр:pillow
+N1:нам:named<adj>
+N1:нәфәкаи гыйддә:iddah alimony
+N1:нәфәкалек:iddah alimony
+N1:рәвеш:manner
+N1:сәгать:clock
+N1:сәгать:hour
+N1:сәгатьче:watchmaker
+N1:фәкыйрьлек:poverty
+N1:хадана:age of 2.5 years
+N1:хак:right
+N1:ханә:home
+N1:хат:letter
+N1:хатыйб:khatib
+N1:хәтфә:velvet
+N1:хосумәт:feud
+N1:эне:younger brother
+N1:юклык:lack
+N1:ярым:half
+NP-COG-MF:әс-Салихи:äs-Salixi
+NP-TOP:Вознесенский:Voznesenskiy
+ph:башка җәһәттән:on any other issue
+ph:битәразый җанибәйн вә тәсалихы тарафәйн:with mutual consent and goodwill of the parties
+ph:вакыйг:took [place]
+ph:җанибәйн:the parties
+ph:на кириллице:in Cyrillic
+ph:написано:written
+ph:не написано:not written
+ph:не указан:not specified
+ph:һичбер җәһәттән:on any issue
+ph:юк:there isn't
+POST:бинаэн:according to
+POST:кадәр:till
+POST:кадәрле:till
+POST:соңра:after
+V-IR-TV:кайт:return
+V-IV-IR:кил:come
+V-IV-IR:кит:go
+V-IV-IR:садир бул:appear
+V-IV-IR:тырыш:strive
 V-TV-AR:кич:renounce
+V-TV-AR:тәзәүвеҗ ит:marry
+V-TV-IR:бел:know
+V-TV-IR:китер:bring
 V-TV-IR:кичер:renounce
-кылганча:кылганча CNJADV ; ! "" 
+V-TV-IR:никаһ ит:marry (perform a marriage ceremony)
+V-TV-IR:сора:ask
 
-
-кылганча
-ма
-мал
-мәгашәрә
-мәрдүд
-мәсмүг
-мөэнәтә
-мөэнәтәс
-нам
-не
-нең
-нәфәкаи
-нәфәкалек
-ның
-Олуг
-рәвештә
-рәвешчә
-сабит
-садир
 саен
 саир
 салган
