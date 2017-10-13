@@ -150,27 +150,26 @@ V-TV-IR:китер:bring
 V-TV-IR:кичер:renounce
 V-TV-IR:никаһ ит:marry (perform a marriage ceremony)
 V-TV-IR:сора:ask
+DIX:саен<post>:every<det><ind><sg>
+DIX:саир<adj>:other<det><ind><sp>
+V-TV-IR:яса:make
+V-TV-IR:сал:put
+A3:сумлык:rubles worth
+N1:тарафәйн:both parties
+LR:тарафәйн:тарафаен N1 ; ! "" Use/MT
+V-IV-IR:тул:turn
+DIX:шул<det><det>:that<det><dem><sg>
+DIX:шул<prn><dem>:that<prn><dem><mf><sg>
+POST:үзерә:with
+V-IV-IR:никах укыт:get married
+LR:бул%<v%>%<iv%>%<gpr_past%>:улан # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<gpr_past%>:улган # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<ifi%>%<p1%>%<sg%>:улдым # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<ifi%>%<p3%>%<sg%>:улды # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<neg%>%<ger_perf%>%<abl%>:улмадыгыннан # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<ger%>%<nom%>:улмак # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<gna_perf%>:булып # ; ! "" Use/MT Dir/LR
 
-саен
-саир
-салган
-салдылар
-Сәг
-сумлык
-тарафәйн
-тәсалихы
-тулганча
-үземнең
-үзерә
-үзләрендә
-укыттылар
-улан
-улган
-улды
-улла
-улмадыгыннан
-улмак
-улып
 унтер
 фарыз
 фигл
@@ -180,6 +179,7 @@ V-TV-IR:сора:ask
 һәркайсы
 хосуста
 шәрган
+
 шәргый
 Шул
 ярымлык

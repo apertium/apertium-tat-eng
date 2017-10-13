@@ -107,7 +107,12 @@
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
 
     <sdef n="px1sg"             c=""/>
+    <sdef n="px2sg"             c=""/>
     <sdef n="px3sp"             c=""/>
+    <sdef n="px3sg"             c=""/>    
+    <sdef n="px1pl"             c=""/>
+    <sdef n="px2pl"             c=""/>
+    <sdef n="px3pl"             c=""/>    
     <sdef n="dat"             c=""/>    
     <sdef n="loc"             c=""/>
     <sdef n="post"             c=""/>
@@ -526,7 +531,12 @@
     <e><p><l>урам<s n="n"/></l><r>street<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>утыз<s n="num"/></l><r>thirty<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>үз<s n="det"/><s n="ref"/></l><r>own<s n="adj"/></r></p></e>
-    <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px1sg"/><s n="nom"/></l><r>myself<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px1sg"/></l><r>myself<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px2sg"/></l><r>yourself<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px3sg"/></l><r>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px1pl"/></l><r>ourselves<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px2pl"/></l><r>yourselves<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px3pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px3sp"/><s n="dat"/></l><r>for<b/>herself</r></p></e>
     <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px3sp"/><s n="gen"/></l><r>his<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
     <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px3sp"/><s n="nom"/></l><r>him/herself</r></p></e>
@@ -8261,7 +8271,6 @@
     <e><p><l>Танай<s n="np"/><s n="top"/></l><r>Tanay<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Тангыр<s n="np"/><s n="top"/></l><r>Tanğır<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Тарайлы<s n="np"/><s n="top"/></l><r>Taraylı<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Тарафәйн<s n="np"/><s n="top"/></l><r>Tarafäyn<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Тарлавы<s n="np"/><s n="top"/></l><r>Tarlawı<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Тарлау<s n="np"/><s n="top"/></l><r>Tarlaw<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Тарсук<s n="np"/><s n="top"/></l><r>Tarsuq<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
