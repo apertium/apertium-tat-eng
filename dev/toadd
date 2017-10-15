@@ -33,12 +33,17 @@ A3:мәгълүм:known
 A3:мәрдүд:reject<vblex><pp>
 A3:мәсмүг:hear<vblex><pp>
 A3:садир:appear<vblex><pprs>
+A3:сумлык:rubles worth
+A3:шәргый:lawful
+A3:ярымлык:half old
+A3:яшьлек:years old
 A4:бакыятән:remaining/deferred (?)
+A4:бессрочный:reserve
 A4:бәкыятел:remaining/deferred (?)
 A4:бәкыяти:remaining/deferred (?)
-A4:бессрочный:reserve
 A4:фил-хакыйки:actual
 A4:хамилә:pregnant
+ADV:билфигыль:indeed
 ADV:дәхи:also
 ADV:җәмгысе:in total
 ADV:рәвешчә:manner
@@ -49,6 +54,7 @@ ADV:фәкать:only
 ADV:фил-хәл:right away
 ADV:хәзер:now
 ADV:хәзергә:for now
+ADV:шәрган:according to the Islamic law
 AFF:ның<gen>:of<pr>
 CNJSUB:әгәр:if
 DIX:алд<n><px3sp><loc>:in front of<pr>
@@ -59,12 +65,26 @@ DIX:ди<v><tv><gna_perf>:say<vblex><ppprs>
 DIX:җәмигъ<det><qnt>:all<det><qnt><pl>
 DIX:и<cop>:be<vbser>
 DIX:мин<prn><pers><p1><sg><gen>:my<det><pos><sp>
+DIX:саен<post>:every<det><ind><sg>
+DIX:саир<adj>:other<det><ind><sp>
 DIX:һәр икәве<prn><qnt>:each of them
 DIX:һәркайсы<prn><qnt>:each of them
+DIX:һәркайсы<prn><qnt>:each<prn><ind><mf><sg>
 DIX:һичбер<det><neg>:no<det><ind><sp>
 DIX:шул<det><dem>:that<det><dem><sg>
+DIX:шул<det><det>:that<det><dem><sg>
+DIX:шул<prn><dem>:that<prn><dem><mf><sg>
 LR:авыл%<n%>%<px3sp%>%<gen%>:авылыынң # ; ! "" Dir/LR err_orth
 LR:ара%<n%>%<pl%>%<px3sp%>%<loc%>:араларныда # ; ! "" Dir/LR err_orth
+LR:билфигыль:бил фигл ADV ; ! "" Dir/LR
+LR:билфигыль:бил-фигл ; ! "" Dir/LR
+LR:бул%<v%>%<iv%>%<ger%>%<nom%>:улмак # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<gna_perf%>:булып # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<gpr_past%>:улан # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<gpr_past%>:улган # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<ifi%>%<p1%>%<sg%>:улдым # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<ifi%>%<p3%>%<sg%>:улды # ; ! "" Use/MT Dir/LR
+LR:бул%<v%>%<iv%>%<neg%>%<ger_perf%>%<abl%>:улмадыгыннан # ; ! "" Use/MT Dir/LR
 LR:гакыд:гакыде N1 ; ! "" Use/MT Dir/LR
 LR:гакыд:гакыдел N1 ; ! "" Use/MT Dir/LR
 LR:галәмәт:гәләмәт N1 ; ! "" Dir/LR err_orth
@@ -79,12 +99,18 @@ LR:ма% бәеннәрендә%<phrase%>:ма% бәеннәерндә # ; ! "" 
 LR:мин% бәгъде%<phrase%>:мин% бәгъд
 LR:ның%<gen%>:нең # ; ! "" Dir/LR Use/MT
 LR:өяз%<n%>%<px3sp%>%<nom%>:яөзе # ; ! "" Dir/LR
+LR:тарафәйн:тарафаен N1 ; ! "" Use/MT
 LR:тәзәүвеҗ% ит:тәҗәввеҗ% ит V-TV-AR ; ! "" Use/MT Dir/LR
 LR:тәзәүвеҗ% ит:тәзәвваеҗ% ит V-TV-AR ; ! "" Use/MT Dir/LR
 LR:тәзәүвеҗ% ит:тәзәввеҗ% ит V-TV-AR ; ! "" Use/MT Dir/LR
+LR:унтер%-офицер:унтер N1 ; ! "" Dir/LR
+LR:унтер%-офицер:унтер% офицер N1 ; ! "" Dir/LR
 LR:фәрекать%<n%>%<pl%>%<px3sp%>%<nom%>:фәрекатләре # ; ! "" Use/MT Dir/LR
 LR:хак%<n%>%<px1sg%>%<nom%>:хакым # ; ! "" Dir/LR
 LR:хәзер:хазер ADV-WITH-KI ; ! "" Dir/LR err_orth
+LR:хәлегъ%<n%>%<dat%>:хәлегъкә # ; ! "" Use/MT Dir/LR
+LR:хәлегъ%<n%>%<px3sp%>%<acc%>:хәлеген # ; ! "" Use/MT Dir/LR
+LR:хәлегъ%<n%>%<px3sp%>%<gen%>:хәлегесенең # ; ! "" Use/MT Dir/LR
 LR:һәркайсы%<prn%>%<qnt%>%<gen%>:һәркаюсының # ; ! "" Use/MT Dir/LR
 N1:ахунд:akhund
 N1:ахыр:end
@@ -102,8 +128,8 @@ N1:иртифак:(here, probably erroneously) lack of
 N1:кәррә:time
 N1:кодрәт:power
 N1:мал:property
-N1:мәгашәрә:communication
 N1:мендәр:pillow
+N1:мәгашәрә:communication
 N1:нам:named<adj>
 N1:нәфәкаи гыйддә:iddah alimony
 N1:нәфәкалек:iddah alimony
@@ -111,6 +137,9 @@ N1:рәвеш:manner
 N1:сәгать:clock
 N1:сәгать:hour
 N1:сәгатьче:watchmaker
+N1:тарафәйн:both parties
+N1:унтер-офицер:sub-officer
+N1:фарыз:fard
 N1:фәкыйрьлек:poverty
 N1:хадана:age of 2.5 years
 N1:хак:right
@@ -119,6 +148,7 @@ N1:хат:letter
 N1:хатыйб:khatib
 N1:хәтфә:velvet
 N1:хосумәт:feud
+N1:хосус:regard
 N1:эне:younger brother
 N1:юклык:lack
 N1:ярым:half
@@ -138,10 +168,13 @@ POST:бинаэн:according to
 POST:кадәр:till
 POST:кадәрле:till
 POST:соңра:after
+POST:үзерә:with
 V-IR-TV:кайт:return
 V-IV-IR:кил:come
 V-IV-IR:кит:go
+V-IV-IR:никах укыт:get married
 V-IV-IR:садир бул:appear
+V-IV-IR:тул:turn
 V-IV-IR:тырыш:strive
 V-TV-AR:кич:renounce
 V-TV-AR:тәзәүвеҗ ит:marry
@@ -149,38 +182,6 @@ V-TV-IR:бел:know
 V-TV-IR:китер:bring
 V-TV-IR:кичер:renounce
 V-TV-IR:никаһ ит:marry (perform a marriage ceremony)
-V-TV-IR:сора:ask
-DIX:саен<post>:every<det><ind><sg>
-DIX:саир<adj>:other<det><ind><sp>
-V-TV-IR:яса:make
 V-TV-IR:сал:put
-A3:сумлык:rubles worth
-N1:тарафәйн:both parties
-LR:тарафәйн:тарафаен N1 ; ! "" Use/MT
-V-IV-IR:тул:turn
-DIX:шул<det><det>:that<det><dem><sg>
-DIX:шул<prn><dem>:that<prn><dem><mf><sg>
-POST:үзерә:with
-V-IV-IR:никах укыт:get married
-LR:бул%<v%>%<iv%>%<gpr_past%>:улан # ; ! "" Use/MT Dir/LR
-LR:бул%<v%>%<iv%>%<gpr_past%>:улган # ; ! "" Use/MT Dir/LR
-LR:бул%<v%>%<iv%>%<ifi%>%<p1%>%<sg%>:улдым # ; ! "" Use/MT Dir/LR
-LR:бул%<v%>%<iv%>%<ifi%>%<p3%>%<sg%>:улды # ; ! "" Use/MT Dir/LR
-LR:бул%<v%>%<iv%>%<neg%>%<ger_perf%>%<abl%>:улмадыгыннан # ; ! "" Use/MT Dir/LR
-LR:бул%<v%>%<iv%>%<ger%>%<nom%>:улмак # ; ! "" Use/MT Dir/LR
-LR:бул%<v%>%<iv%>%<gna_perf%>:булып # ; ! "" Use/MT Dir/LR
-
-унтер
-фарыз
-фигл
-хәлеген
-хәлегесенең
-хәлегъкә
-һәркайсы
-хосуста
-шәрган
-
-шәргый
-Шул
-ярымлык
-яшьлек
+V-TV-IR:сора:ask
+V-TV-IR:яса:make
