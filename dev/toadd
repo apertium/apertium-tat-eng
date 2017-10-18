@@ -21,3 +21,151 @@
 3 нче дәрәҗәдә агач мәчет мәхәлләсендә ләвазем имамәтне әда кылгучы:serving as imam in a third level wooden mosque community
 шул ук:шул
 үзем:myself
+
+N1:вафат:death
+V-IV-IR:вафат бул:die
+V-IV-AR:вафат ит:die
+A4:вафат:die<vblex><past>
+N1:чахотка:tuberculosis
+N1:авыру:disease
+LR:ютәл:җүтәл N1 ; ! "" Dir/LR
+N1:ютәл:cough
+N1:зыяндаш:epilepsy
+LR:зыяндаш:зәяндәш N1 ; ! "" Use/<T
+N1:дәфен:burial
+ph:дәфен:was buried
+V-TV-AR:дәфен ит:bury
+V-IV-IR:дәфен бул:be# buried
+N1:чәчәк:smallpox
+N1:зәхмәт:disease
+N1:кызамык:measles
+A4:көнлек:days old
+N1:картлык:old age
+N1:шеш:tumor (?)
+ph:мәдфүн:was buried
+LR:картлык:карилык N1 ; ! "" Dir/LR err_orth
+N-COMPOUND-PX:күкрәк авыруы:tuberculosis
+N-COMPOUND-PX:күкрәк зәхмәте:tuberculosis
+N-COMPOUND-PX:күкрәк маризы:tuberculosis
+N-COMPOUND-PX:күкрәк хастасы:tuberculosis
+N-COMPOUND-PX:күкрәк рәнҗүе:tuberculosis
+N-COMPOUND-PX:маризы күкрәк:tuberculosis
+N-COMPOUND-PX:тир авыруы:typhus
+N-COMPOUND-PX:тир зәхмәте:typhus
+N-COMPOUND-PX:тир маризы:typhus
+N-COMPOUND-PX:тир хастасы:typhus
+N-COMPOUND-PX:тир рәнҗүе:typhus
+N-COMPOUND-PX:маризы тир:typhus
+N1:тир:typhus
+N1:рәнҗү:disease
+N-COMPOUND-PX:җеназа намазы:salat al-janazah
+N-COMPOUND-PX:намазы җеназа:salat al-janazah
+N1:җеназа:salat al-janazah
+LR:бала%<n%>%<pl%>сыбьян # ; ! ""
+N-COMPOUND-PX:гөмбә маризы:ringworm (?)
+V-IV-IR:авырт:ache
+N1:бизгәк:malaria
+NP-TOP:Мещанский:Meşçanskiy
+N1:тамак:thhroat
+N1:мещанка:urban commoner
+V-IV-AR:салкын ти:catch a cold
+V-IV-AR:суык ти:catch a cold
+ph:күз тиеп:from evil eye
+A4:атналык:weeks old
+N1:ярты:half
+N1:йөрәк:heart
+V-TV-IR:укы:read
+N1:фалич:paralysis
+N1:воспаление:inflammation
+N1:аяк:leg
+N1:намаз:prayer
+N1:кызылча:rubella
+N1:күз:eye
+NP-TOP:Малый Мещан:Maliy Meşçan
+NP-TOP:Малый Мещанский:Maliy Meşçanskiy
+N1:таифә:class
+A1:озак:long
+NP-COG-OB:Козлов:Kozlov
+NP-COG-OB:Сәйдәшев:Säydäşev
+LR:Казан%<np%>%<top%>%<loc%>:Казандә
+NP-COG-OB:Еникиев:Yenikiev
+NP-COG-OB:Якупов:Yaqupov
+NP-COG-OB:Сәгыйтов:Säğitov
+NP-COG-OB:Госманов:Ğosmanov
+NP-COG-OB:Гаффаров:Gaffarov
+NP-COG-OB:Зөбәеров:Zöbäyerov
+NP-COG-OB:Биккиниев:Bikkiniev
+NP-COG-OB:Әҗмитов:Äcmitov
+NP-COG-OB:Хөсәенов:Xösäyenov
+NP-COG-OB:Бикшиев:Bikşiev
+NP-COG-OB:Баязитов:Bayazitov
+NP-COG-OB:Кашаев:Qaşayev
+NP-COG-OB:Җәләлетдинов:Cäläletdinov
+NP-COG-OB:Максутов:Maqsutov
+NP-COG-OB:Таһиров:Tahirov
+NP-COG-OB:Арысланов:Arıslanov
+NP-COG-OB:Мөхетдинов:Möxetdinov
+NP-COG-OB:Бәширов:Bäşirov
+NP-COG-OB:Сабитов:Sabitov
+NP-COG-OB:Ишанбаев:İşanbayev
+
+тудырмактан
+мәкъбәрендә
+гөнбә
+бума
+тиф
+йөткереп
+имә
+салкын
+пересыльный
+мәнфүн
+легких
+бүрекче
+ристан
+бүсер
+зәгыйфь
+зәхмәтеннән
+авырып
+шешеп
+катудан
+вакыф
+белән
+мичче
+кызамыктан
+Курмыш
+чир
+сары
+суга
+скарлатин
+мәдрәсә
+мактүл
+авыртуы
+Шакирда
+Уфа
+тию
+күмәчче
+һәфтәлек
+рак
+хут
+кокшай
+гарык
+временный
+ваба
+Туйкич
+Троицкий
+җайманда
+саратан
+ристанд
+приютында
+панос
+хаҗидә
+буе
+Сар
+Галанда
+үпкә
+шеше
+учитель
+сабынчы
+мәдрәсәи
+бәвел
+авыруыннан
