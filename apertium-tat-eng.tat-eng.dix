@@ -132,6 +132,9 @@
     <e><p><l>абый<s n="n"/></l><r>brother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>август<s n="n"/></l><r>August<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>авыл<s n="n"/></l><r>village<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>авыр<s n="v"/><s n="iv"/></l><r>be<b/>ill<s n="vblex"/></r></p></e>
+    <e><p><l>авырт<s n="v"/><s n="iv"/></l><r>ache<s n="vblex"/></r></p></e>
+    <e><p><l>авыру<s n="n"/></l><r>disease<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ага<s n="n"/></l><r>elder<b/>brother<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>агач<s n="n"/></l><r>wood<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>агач<s n="n"/><s n="attr"/></l><r>wooden<s n="adj"/>></r></p></e>
@@ -152,8 +155,10 @@
     <e><p><l>асла<s n="adv"/></l><r>none<b/>at<b/>all/never<s n="adv"/></r></p></e>
     <e><p><l>асыл<s n="adj"/></l><r>real<s n="adj"/></r></p></e>
     <e><p><l>ата<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>атналык<s n="adj"/></l><r>weeks<b/>old<s n="adj"/></r></p></e>
     <e><p><l>ахунд<s n="n"/></l><r>akhund<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ахыр<s n="n"/></l><r>end<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>аяк<s n="n"/></l><r>leg<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>баин<b/>кыл<s n="v"/><s n="tv"/></l><r>complete<s n="vblex"/></r></p></e>
     <e><p><l>бакирә<s n="n"/></l><r>maiden<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бакыр<s n="n"/></l><r>copper<s n="n"/><s n="sg"/></r></p></e>        
@@ -162,14 +167,16 @@
     <e><p><l>баш<s n="n"/></l><r>beginning<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>башка<s n="adj"/></l><r>other<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>    
     <e><p><l>бел<s n="v"/><s n="tv"/></l><r>know<s n="vblex"/></r></p></e>
+    <e><p><l>белән<s n="post"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>бер<s n="num"/></l><r>one<s n="num"/><s n="sg"/></r></p></e>
-    <e><p><l>берлән<s n="post"/></l><r>with<s n="pr"/></r></p></e>
+    <e><p><l>берлән<s n="post"/></l><r>with<s n="pr"/></r></p></e>    
     <e><p><l>берсе<s n="prn"/><s n="ind"/></l><r>one<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>берсе<s n="prn"/><s n="ind"/><s n="nom"/></l><r>one<b/>of<b/>them</r></p></e>
     <e><p><l>бертуган<b/>ага<s n="n"/></l><r>elder<b/>brother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бертуган<b/>эне<s n="n"/></l><r>younger<b/>brother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бессрочный<b/>солдат<s n="n"/></l><r>reserve<b/>soldier<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бессрочный<s n="adj"/></l><r>reserve<s n="adj"/></r></p></e>
+    <e><p><l>бәвел<s n="n"/></l><r>urine<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бәгъдендә<s n="post"/></l><r>after<s n="pr"/></r></p></e>
     <e><p><l>бәдәл<s n="n"/></l><r>compensation<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бәдәле<b/>хәлегъ<s n="n"/></l><r>divorce<b/>compensation<s n="n"/><s n="sg"/></r></p></e>    
@@ -179,6 +186,7 @@
     <e><p><l>бәкыяти<s n="adj"/></l><r>remaining/deferred<b/>(?)<s n="adj"/></r></p></e>
     <e><p><l>бәрабәренә<s n="post"/></l><r>for<s n="pr"/></r></p></e>
     <e><p><l>бәян<b/>кыл<s n="v"/><s n="tv"/></l><r>tell<s n="vblex"/></r></p></e>
+    <e><p><l>бизгәк<s n="n"/></l><r>malaria<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бил<s n="n"/></l><r>waist<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>билетлы<s n="adj"/></l><r>reserve<s n="adj"/></r></p></e>
     <e><p><l>билетный<b/>солдат<s n="n"/></l><r>reserve<b/>soldier<s n="n"/><s n="sg"/></r></p></e>
@@ -187,24 +195,33 @@
     <e><p><l>бинаэн<s n="post"/></l><r>according<b/>to<s n="pr"/></r></p></e>
     <e><p><l>бине<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бинт<s n="n"/></l><r>daughter<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>бир<s n="v"/><s n="tv"/></l><r>give<s n="vblex"/></r></p></e>    
+    <e><p><l>бир<s n="v"/><s n="tv"/></l><r>give<s n="vblex"/></r></p></e>
     <e><p><l>бистә<s n="n"/></l><r>settlement<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>биш<s n="num"/></l><r>five<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>биш<s n="num"/><s n="ord"/></l><r>fifth<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>бу<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
     <e><p><l>бу<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>буенча<s n="post"/></l><r>by<s n="pr"/></r></p></e>
+    <e><p><l>буй<s n="n"/><s n="px3sp"/></l><r>at<s n="pr"/></r></p></e>
     <e><p><l>бул<s n="v"/><s n="iv"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="gna_perf"/></l><r>as<s n="adv"/></r></p></e>
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="ifi"/></l><r>be<s n="vbser"/><s n="past"/></r></p></e>
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="past"/></l><r>be<s n="vbser"/><s n="past"/></r></p></e>    
+    <e><p><l>бума<b/>ютәл<s n="n"/></l><r>whooping<b/>cough<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>бүрекче<s n="n"/></l><r>capper<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>бүсер<s n="n"/></l><r>hernia<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>ваба<s n="n"/></l><r>cholera<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вадыйг<b/>кыл<s n="v"/><s n="tv"/></l><r>give<b/>birth<s n="vblex"/></r></p></e>
     <e><p><l>вадыйге<b/>хәмел<b/>кыл<s n="v"/><s n="iv"/></l><r>give<b/>birth<b/>to<b/>the<b/>child<s n="vblex"/></r></p></e>
     <e><p><l>вакыйг<b/>бул<s n="v"/><s n="iv"/></l><r>take<b/>place<s n="vblex"/></r></p></e>
     <e><p><l>вакыйг<b/>ул<s n="v"/><s n="iv"/></l><r>take<b/>place<s n="vblex"/></r></p></e>    
     <e><p><l>вакыйга<s n="n"/></l><r>event<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>вакыйга<s n="n"/></l><r>event<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вакыт<s n="n"/></l><r>time<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>вакыф<s n="n"/></l><r>fund<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>вафат<b/>бул<s n="v"/><s n="iv"/></l><r>die<s n="vblex"/></r></p></e>
+    <e><p><l>вафат<b/>ит<s n="v"/><s n="iv"/></l><r>die<s n="vblex"/></r></p></e>
+    <e><p><l>вафат<s n="adj"/></l><r>die<s n="vblex"/><s n="pp"/></r></p></e>
+    <e><p><l>вафат<s n="n"/></l><r>death<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вә<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>вәгъдә<b/>кыл<s n="v"/><s n="tv"/></l><r>promise<s n="vblex"/></r></p></e>
     <e><p><l>вәгъдә<s n="n"/></l><r>pledge<s n="n"/><s n="sg"/></r></p></e>
@@ -215,6 +232,8 @@
     <e><p><l>вәли<b/>вәкил<s n="n"/></l><r>wali<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вәли<s n="n"/></l><r>wali<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>волость<s n="n"/></l><r>volost<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>воспаление<s n="n"/></l><r>inflammation<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>временный<s n="adj"/></l><r>temporary<s n="adj"/></r></p></e>
     <e><p><l>второй<b/>гильдии<b/>купец<s n="n"/></l><r>merchant<b/>of<b/>the<b/>second<b/>guild<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>второй<b/>гильдий<b/>купес<s n="n"/></l><r>merchant<b/>of<b/>the<b/>second<b/>guild<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гайре<s n="adj"/></l><r>other<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -226,13 +245,14 @@
     <e><p><l>галәмәт<s n="n"/></l><r>mark<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гам<s n="n"/></l><r>uncle<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гаммә<s n="n"/></l><r>aunt<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>гарык<b/>бул<s n="v"/><s n="iv"/></l><r>drown<s n="vblex"/></r></p></e>
     <e><p><l>гаһед<b/>ит<s n="v"/><s n="tv"/></l><r>promise<s n="vblex"/></r></p></e>
     <e><p><l>гаһед<b/>кыл<s n="v"/><s n="tv"/></l><r>pledge<s n="vblex"/></r></p></e>
     <e><p><l>гәваһ<s n="n"/></l><r>witness<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>гөмбә<b/>маризы<s n="n"/></l><r>ringworm<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гражданин<s n="n"/></l><r>citizen<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>губерна<s n="n"/></l><r>governorate<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>губернский<b/>секретарь<s n="n"/></l><r>governorate<b/>secretary<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>гыйддә<b/>нәфәкасе<s n="n"/></l><r>iddah<b/>alimony<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гыйддә<b/>нәфәкасе<s n="n"/></l><r>iddah<b/>alimony<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гыйддә<s n="n"/></l><r>iddah<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гыйддәт<s n="n"/></l><r>iddah<s n="n"/><s n="sg"/></r></p></e>
@@ -246,6 +266,9 @@
     <e><p><l>дәгъва<s n="n"/></l><r>claim<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>дәрәҗә<s n="n"/></l><r>degree<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>дәфга<s n="n"/></l><r>time<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>дәфен<b/>бул<s n="v"/><s n="iv"/></l><r>be#<b/>buried<s n="vblex"/></r></p></e>
+    <e><p><l>дәфен<b/>ит<s n="v"/><s n="tv"/></l><r>bury<s n="vblex"/></r></p></e>
+    <e><p><l>дәфен<s n="n"/></l><r>burial<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>дәфтәр<s n="n"/></l><r>notebook<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>дәхи<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e><p><l>ди<s n="v"/><s n="tv"/><s n="gna_perf"/></l><r>say<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -268,8 +291,9 @@
     <e><p><l>әткә<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>әүвәл<s n="adj"/></l><r>first<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>әһле<b/>зирагать<s n="n"/></l><r>granary<b/>worker<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>әһле<b/>зирагать<s n="n"/></l><r>granary<b/>worker<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>әһле<b/>зирәгәть<s n="n"/></l><r>granary<b/>worker<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>җеназа<b/>намазы<s n="n"/></l><r>salat<b/>al-janazah<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>җеназа<s n="n"/></l><r>salat<b/>al-janazah<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>җәмгысе<s n="adv"/></l><r>in<b/>total<s n="adv"/></r></p></e>
     <e><p><l>җәмәгать<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>җәмигъ<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
@@ -278,19 +302,21 @@
     <e><p><l>җиде<s n="num"/><s n="ord"/></l><r>seventh<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>җитмеш<s n="num"/></l><r>seventy<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>җомга<s n="n"/></l><r>Friday<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>зәгыйфь<s n="adj"/></l><r>weak<s n="adj"/></r></p></e>
     <e><p><l>зәнҗал<b/>кыл<s n="v"/><s n="iv"/></l><r>make<b/>a<b/>quarrel<s n="vblex"/></r></p></e>
     <e><p><l>зәүҗ<s n="n"/></l><r>husband<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зәүҗә<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зәүҗәен<s n="n"/></l><r>couple<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зәүҗәен<s n="n"/></l><r>husband<b/>and<b/>wife<s n="n"/></r></p></e>
     <e><p><l>зәүҗиять<s n="n"/></l><r>marriage<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>зәхмәт<s n="n"/></l><r>disease<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зикер<b/>ит<s n="v"/><s n="tv"/></l><r>mention<s n="vblex"/></r></p></e>
     <e><p><l>зикер<b/>кыл<s n="v"/><s n="tv"/></l><r>mention<s n="vblex"/></r></p></e>
     <e><p><l>зиммә<s n="n"/></l><r>responsibility<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зирагать<s n="n"/></l><r>agriculture<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зирагатьче<s n="n"/></l><r>farmer<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>зирагатьче<s n="n"/></l><r>farmer<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>зирәгатьче<s n="n"/></l><r>farmer<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>зыяндаш<s n="n"/></l><r>epilepsy<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>и<s n="cop"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>и<s n="cop"/><s n="aor"/><s n="p3"/><s n="sg"/></l><r>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e><p><l>ибн<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
@@ -335,18 +361,21 @@
     <e><p><l>йон<s n="n"/></l><r>wool<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>йорт<s n="n"/></l><r>home<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>йөз<s n="num"/></l><r>hundred<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>йөрәк<s n="n"/></l><r>heart<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>йөткер<s n="v"/><s n="tv"/></l><r>cough<s n="vblex"/></r></p></e>
     <e><p><l>кабул<b/>ит<s n="v"/><s n="tv"/></l><r>accept<s n="vblex"/></r></p></e>
-    <e><p><l>кабул<b/>кыл<s n="v"/><s n="tv"/></l><r>accept<s n="vblex"/></r></p></e>
     <e><p><l>кабул<b/>кыл<s n="v"/><s n="tv"/></l><r>accept<s n="vblex"/></r></p></e>
     <e><p><l>кабыз<b/>кыл<s n="v"/><s n="tv"/></l><r>receive<s n="vblex"/></r></p></e>
     <e><p><l>кадәр<s n="post"/></l><r>till<s n="pr"/></r></p></e>
     <e><p><l>кадәрле<s n="post"/></l><r>till<s n="pr"/></r></p></e>
     <e><p><l>кайт<s n="v"/><s n="iv"/></l><r>return<s n="vblex"/></r></p></e>
     <e><p><l>кал<s n="v"/><s n="iv"/></l><r>remain<s n="vblex"/></r></p></e>    
+    <e><p><l>калпакчы<s n="n"/></l><r>hatter<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>калфак<s n="n"/></l><r>qalfaq<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>камзул<s n="n"/></l><r>jacket<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>камил<s n="adj"/></l><r>full<s n="adj"/></r></p></e>
     <e><p><l>кари<s n="n"/></l><r>qari<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>картлык<s n="n"/></l><r>old<b/>age<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>карья<s n="n"/></l><r>village<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>катг<b/>низаг<b/>кыл<s n="v"/><s n="tv"/></l><r>cease<b/>the<b/>conflict<s n="vblex"/></r></p></e>
     <e><p><l>катыг<b/>кыл<s n="v"/><s n="tv"/></l><r>abort<s n="vblex"/></r></p></e>
@@ -369,6 +398,7 @@
     <e><p><l>көзге<s n="n"/></l><r>mirror<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>көмеш<s n="n"/></l><r>silver<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>көн<s n="n"/></l><r>day<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>көнлек<s n="adj"/></l><r>days<b/>old<s n="adj"/></r></p></e>
     <e><p><l>крестьян<s n="n"/></l><r>peasant<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>крестьян<s n="n"/></l><r>peasant<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>крестьянин<s n="n"/></l><r>peasant<s n="n"/><s n="sg"/></r></p></e>
@@ -377,10 +407,19 @@
     <e><p><l>кул<s n="n"/></l><r>sign<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>купес<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>купец<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>купец<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>куян<s n="n"/></l><r>rabbit<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>күз<s n="n"/></l><r>eye<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>күкрәк<b/>авыруы<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>күкрәк<b/>зәхмәте<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>күкрәк<b/>маризы<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>күкрәк<b/>рәнҗүе<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>күкрәк<b/>хастасы<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>күл<s n="n"/></l><r>lake<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>күлмәк<s n="n"/></l><r>dress<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>күмәчче<s n="n"/></l><r>baker<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кыз<s n="n"/></l><r>daughter<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>кызамык<s n="n"/></l><r>measles<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>кызылча<s n="n"/></l><r>rubella<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кыйд<b/>кыл<s n="v"/><s n="tv"/></l><r>record<s n="vblex"/></r></p></e>
     <e><p><l>кыл<s n="v"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
     <e><p><l>кыл<s n="v"/><s n="tv"/><s n="coop"/><s n="ifi"/><s n="p3"/><s n="pl"/></l><r>[missing<b/>main<b/>verb]<b/>each<b/>other</r></p></e>
@@ -388,23 +427,30 @@
     <e><p><l>кырык<s n="num"/></l><r>forty<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>лафыз<s n="n"/></l><r>word<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>май<s n="n"/></l><r>May<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мактүл<s n="adj"/></l><r>kill<s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>мал<s n="n"/></l><r>property<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мариз<s n="n"/></l><r>disease<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>маризы<b/>күкрәк<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>маризы<b/>тир<s n="n"/></l><r>typhus<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>март<s n="n"/></l><r>March<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мелла<s n="n"/></l><r>mullah<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мендәр<s n="n"/></l><r>pillow<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мең<s n="num"/></l><r>thousand<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>мещан<s n="n"/></l><r>urban<b/>commoner<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мещанка<s n="n"/></l><r>urban<b/>commoner<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәгашәрә<s n="n"/></l><r>communication<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәгълүм<b/>ит<s n="v"/><s n="tv"/></l><r>declare<s n="vblex"/></r></p></e>
     <e><p><l>мәгълүм<s n="adj"/></l><r>known<s n="adj"/></r></p></e>
     <e><p><l>мәгълюм<b/>кыл<s n="v"/><s n="tv"/></l><r>make<b/>known<s n="vblex"/></r></p></e>
     <e><p><l>мәгыйшәт<s n="n"/></l><r>life<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мәдрәсә<s n="n"/></l><r>medrese<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>мәдрәсәи<s n="n"/></l><r>madrasa<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәҗлес<s n="n"/></l><r>congregation<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәҗлесе<b/>гакыд<s n="n"/></l><r>agreement<b/>meeting<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәҗлесе<b/>хәлегъ<s n="n"/></l><r>divorce<b/>settlement<b/>conference<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәзкүр<s n="adj"/></l><r>aforementioned<s n="adj"/></r></p></e>
     <e><p><l>мәзкүрә<s n="adj"/></l><r>aforementioned<b/>female<s n="adj"/></r></p></e>
+    <e><p><l>мәкъбәр<s n="n"/></l><r>cemetery<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәнигъ<b/>кыл<s n="v"/><s n="tv"/></l><r>prevent<s n="vblex"/></r></p></e>
     <e><p><l>мәнкүхә<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>мәншүрле<s n="adj"/></l><r>appointed<s n="adj"/></r></p></e>
@@ -417,7 +463,6 @@
     <e><p><l>мәһәр<b/>мөсәмма<s n="n"/></l><r>mahr<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәһәр<s n="n"/></l><r>mahr<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәһәре<b/>мөсәмма<s n="n"/></l><r>mahr<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>мәһәре<b/>мөсәмма<s n="n"/></l><r>mahr<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәһәре<b/>нәкыд<s n="n"/></l><r>mahr<b/>money<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мәчет<s n="n"/></l><r>mosque<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>микъдар<s n="n"/></l><r>amount<s n="n"/><s n="sg"/></r></p></e>
@@ -426,6 +471,7 @@
     <e><p><l>мин<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="gen"/></l><r>my<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
     <e><p><l>мин<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="nom"/></l><r>I<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>минкатг<s n="adj"/></l><r>ceased<s n="adj"/></r></p></e>
+    <e><p><l>мичче<s n="n"/></l><r>stovemaker<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>морза<s n="n"/></l><r>morza<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мөддәт<s n="n"/></l><r>period<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мөдәррис<s n="n"/></l><r>teacher<s n="n"/><s n="sg"/></r></p></e>
@@ -438,6 +484,8 @@
     <e><p><l>муен<b/>мендәре<s n="n"/></l><r>neck<b/>pillow<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>мулла<s n="n"/></l><r>mullah<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>нам<s n="n"/></l><r>named<s n="adj"/></r></p></e>
+    <e><p><l>намаз<s n="n"/></l><r>prayer<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>намазы<b/>җеназа<s n="n"/></l><r>salat<b/>al-janazah<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>народный<b/>учитель<s n="n"/></l><r>national<b/>teacher<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>нәкыд<s n="n"/></l><r>cash<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>нәрсә<s n="prn"/><s n="itg"/></l><r>thing<s n="n"/><s n="sg"/></r></p></e>
@@ -459,6 +507,7 @@
     <e><p><l>ноябрь<s n="n"/></l><r>November<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>нөсхә<s n="n"/></l><r>copy<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ның<s n="gen"/></l><r>of<s n="pr"/></r></p></e>
+    <e><p><l>озак<s n="adj"/></l><r>long<s n="adj"/></r></p></e>
     <e><p><l>октябрь<s n="n"/></l><r>October<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>олуг<s n="adj"/></l><r>eldest<s n="adj"/></r></p></e>
     <e><p><l>отставной<s n="adj"/></l><r>resign<s n="vblex"/><s n="pp"/></r></p></e>
@@ -473,7 +522,9 @@
     <e><p><l>өч<s n="num"/><s n="ord"/></l><r>third<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>өчен<s n="post"/></l><r>for<s n="pr"/></r></p></e>
     <e><p><l>өяз<s n="n"/></l><r>county<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>панос<s n="n"/></l><r>diarrhea<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>паспорт<s n="n"/></l><r>passport<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>пересыльный<s n="adj"/></l><r>transit<s n="adj"/></r></p></e>
     <e><p><l>пәнҗешәмбе<s n="n"/></l><r>Thursday<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>подданный<s n="n"/></l><r>citizen<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>подполковник<s n="n"/></l><r>lieutenant-colonel<s n="n"/><s n="sg"/></r></p></e>
@@ -483,22 +534,29 @@
     <e><p><l>почетный<b/>гражданин<s n="n"/></l><r>honorary<b/>citizen<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>почетный<s n="adj"/></l><r>honorary<s n="adj"/></r></p></e>
     <e><p><l>почтавой<s n="n"/></l><r>postman<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>почтавой<s n="n"/></l><r>postman<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>почтовой<s n="n"/></l><r>postman<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>почтовой<s n="n"/></l><r>postman<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>приют<s n="n"/></l><r>orphanage<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>разый<s n="adj"/></l><r>content<s n="adj"/></r></p></e>    
     <e><p><l>разыя<s n="adj"/></l><r>content<s n="adj"/></r></p></e>    
     <e><p><l>растлык<s n="n"/></l><r>correctness<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>рәвеш<s n="n"/></l><r>manner<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>рәвешчә<s n="adv"/></l><r>in<b/>the<b/>manner<s n="adv"/></r></p></e>
+    <e><p><l>рәнҗү<s n="n"/></l><r>disease<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>риза<b/>бул<s n="v"/><s n="iv"/></l><r>agree<s n="vblex"/></r></p></e>
     <e><p><l>ризалык<s n="n"/></l><r>consent<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>ристан<s n="n"/></l><r>prisoner<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>ристанка<s n="n"/></l><r>prisoner<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>сабынчы<s n="n"/></l><r>soap<b/>maker<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>садир<b/>бул<s n="v"/><s n="iv"/></l><r>appear<s n="vblex"/></r></p></e>
     <e><p><l>саен<s n="post"/></l><r>every<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
     <e><p><l>саир<s n="adj"/></l><r>other<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
     <e><p><l>сал<s n="v"/><s n="tv"/></l><r>put<s n="vblex"/></r></p></e>
+    <e><p><l>салкын<b/>ти<s n="v"/><s n="iv"/></l><r>catch<b/>a<b/>cold<s n="vblex"/></r></p></e>
     <e><p><l>самавыр<s n="n"/></l><r>samovar<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>сандык<s n="n"/></l><r>chest<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>саратан<s n="n"/></l><r>cancer<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>саратан<s n="n"/></l><r>June<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>сары<s n="n"/></l><r>jaundice<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сарыф<b/>кыл<s n="v"/><s n="tv"/></l><r>spend<s n="vblex"/></r></p></e>
     <e><p><l>сентябрь<s n="n"/></l><r>September<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сәбәп<s n="n"/></l><r>reason<s n="n"/><s n="sg"/></r></p></e>
@@ -516,6 +574,7 @@
     <e><p><l>син<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>ситца<s n="n"/></l><r>chintz<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>сишәмбе<s n="n"/></l><r>Tuesday<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>скарлатин<s n="n"/></l><r>scarlatina<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>солдат<s n="n"/></l><r>soldier<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>солых<b/>кыл<s n="v"/><s n="iv"/></l><r>make<b/>peace<s n="vblex"/></r></p></e>
     <e><p><l>солых<s n="n"/></l><r>peace<s n="n"/><s n="sg"/></r></p></e>
@@ -523,9 +582,12 @@
     <e><p><l>соңра<s n="adv"/></l><r>later<s n="adv"/></r></p></e>
     <e><p><l>соңра<s n="post"/></l><r>after<s n="pr"/></r></p></e>
     <e><p><l>сора<s n="v"/><s n="tv"/></l><r>ask<s n="vblex"/></r></p></e>
+    <e><p><l>су<s n="n"/></l><r>water<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сум<s n="n"/></l><r>ruble<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сумлык<s n="adj"/></l><r>rubles<b/>worth<s n="adj"/></r></p></e>
+    <e><p><l>суык<b/>ти<s n="v"/><s n="iv"/></l><r>catch<b/>a<b/>cold<s n="vblex"/></r></p></e>
     <e><p><l>сүкнә<s n="n"/></l><r>cloth<b/>(?)<s n="n"/><s n="sg"/></r></p></e>    
+    <e><p><l>таифә<s n="n"/></l><r>class<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>талак<b/>әйлә<s n="v"/><s n="tv"/></l><r>divorce<s n="vblex"/></r></p></e>
     <e><p><l>талак<b/>кыл<s n="v"/><s n="tv"/></l><r>divorce<s n="vblex"/></r></p></e>
     <e><p><l>талак<s n="n"/></l><r>divorce<s n="n"/><s n="sg"/></r></p></e>
@@ -537,6 +599,7 @@
     <e><p><l>талакы<b/>раҗигый<s n="n"/></l><r>revocable<b/>divorce<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>таләбә<b/>ит<s n="v"/><s n="tv"/></l><r>request<s n="vblex"/></r></p></e>
     <e><p><l>таләп<b/>кыл<s n="v"/><s n="tv"/></l><r>request<s n="vblex"/></r></p></e>
+    <e><p><l>тамак<s n="n"/></l><r>thhroat<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>тамга<b/>галәмәте<b/>куй<s n="v"/><s n="iv"/></l><r>put<b/>a<b/>mark<s n="vblex"/></r></p></e>    
     <e><p><l>тамга<b/>галәмәте<b/>сал<s n="v"/><s n="iv"/></l><r>put<b/>a<b/>mark<s n="vblex"/></r></p></e>
     <e><p><l>тамга<b/>сал<s n="v"/><s n="iv"/></l><r>put<b/>a<b/>mark<s n="vblex"/></r></p></e>
@@ -574,17 +637,27 @@
     <e><p><l>тәхте<s n="post"/></l><r>under<s n="post"/></r></p></e>
     <e><p><l>тиен<s n="n"/></l><r>kopek<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>тиешле<s n="adj"/></l><r>appropriate<s n="adj"/></r></p></e>
+    <e><p><l>тир<b/>авыруы<s n="n"/></l><r>typhus<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тир<b/>зәхмәте<s n="n"/></l><r>typhus<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тир<b/>маризы<s n="n"/></l><r>typhus<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тир<b/>рәнҗүе<s n="n"/></l><r>typhus<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тир<b/>хастасы<s n="n"/></l><r>typhus<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тир<s n="n"/></l><r>typhus<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>тиф<s n="n"/></l><r>typhus<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>тол<s n="adj"/></l><r>widowed<s n="adj"/></r></p></e>
     <e><p><l>тор<s n="v"/><s n="iv"/><s n="gpr_pot"/><s n="subst"/><s n="nom"/></l><r>live<s n="vblex"/><s n="pprs"/></r></p></e>
+    <e><p><l>төш<s n="v"/><s n="iv"/></l><r>fall<s n="vblex"/></r></p></e>
     <e><p><l>ту<s n="v"/><s n="iv"/></l><r>born<s n="adj"/></r></p></e>    
     <e><p><l>тугыз<s n="num"/></l><r>nine<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>тугыз<s n="num"/><s n="ord"/></l><r>ninth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>тудыр<s n="v"/><s n="tv"/></l><r>give<b/>birth<s n="vblex"/></r></p></e>
     <e><p><l>туксан<s n="num"/></l><r>ninety<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>тул<s n="v"/><s n="iv"/></l><r>turn<s n="vblex"/></r></p></e>
     <e><p><l>түбәндә<s n="adv"/></l><r>below<s n="adv"/></r></p></e>
     <e><p><l>түшәк<s n="n"/></l><r>featherbed<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>тырыш<s n="v"/><s n="iv"/></l><r>strive<s n="vblex"/></r></p></e>    
     <e><p><l>указной<s n="adj"/></l><r>appoint<s n="vblex"/><s n="pp"/></r></p></e>
+    <e><p><l>укы<s n="v"/><s n="tv"/></l><r>read<s n="vblex"/></r></p></e>    
     <e><p><l>ул<s n="n"/></l><r>son<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ул<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="gen"/></l><r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>ун<s n="num"/></l><r>ten<s n="num"/><s n="sg"/></r></p></e>
@@ -610,6 +683,7 @@
     <e><p><l>унтугыз<s n="num"/><s n="ord"/></l><r>nineteenth<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>урам<s n="n"/></l><r>street<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>утыз<s n="num"/></l><r>thirty<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>учитель<s n="n"/></l><r>teacher<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>үз<s n="det"/><s n="ref"/></l><r>own<s n="adj"/></r></p></e>
     <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px1pl"/></l><r>ourselves<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px1sg"/></l><r>myself<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -621,7 +695,9 @@
     <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px3sp"/><s n="gen"/></l><r>his<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
     <e><p><l>үз<s n="prn"/><s n="ref"/><s n="px3sp"/><s n="nom"/></l><r>him/herself</r></p></e>
     <e><p><l>үзерә<s n="post"/></l><r>with<s n="pr"/></r></p></e>
+    <e><p><l>үпкә<s n="n"/></l><r>lung<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>үтенү<s n="n"/></l><r>request<s n="n"/><s n="sg"/></r></p></e>    
+    <e><p><l>фалич<s n="n"/></l><r>paralysis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>фарыз<s n="n"/></l><r>fard<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>фатир<s n="n"/></l><r>apartment<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>февраль<s n="n"/></l><r>February<s n="n"/><s n="sg"/></r></p></e>
@@ -660,6 +736,7 @@
     <e><p><l>хөкем<b/>кыл<s n="v"/><s n="tv"/></l><r>judge<s n="vblex"/></r></p></e>
     <e><p><l>хөсне<b/>ихтыяр<s n="n"/></l><r>goodwill<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>хөсне<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
+    <e><p><l>хут<s n="n"/></l><r>February<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>һәм<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>һәр<b/>икесе<s n="prn"/><s n="qnt"/></l><r>both<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>һәр<b/>икәве<s n="prn"/><s n="qnt"/></l><r>both<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -669,15 +746,20 @@
     <e><p><l>һәр икәве<s n="prn"/><s n="qnt"/></l><r>each<b/>of<b/>them</r></p></e>
     <e><p><l>һәркайсы<s n="prn"/><s n="qnt"/></l><r>each<b/>of<b/>them</r></p></e>
     <e><p><l>һәркайсы<s n="prn"/><s n="qnt"/></l><r>each<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>һәфтәлек<s n="adj"/></l><r>weeks<b/>old<s n="adj"/></r></p></e>
     <e><p><l>һич<s n="adv"/></l><r>at<b/>all<s n="adv"/></r></p></e>
     <e><p><l>һичбер<s n="det"/><s n="neg"/></l><r>no<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
     <e><p><l>чаршау<s n="n"/></l><r>curtain<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>чахотка<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>чәршәмбе<s n="n"/></l><r>Wednesday<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>чәчәк<s n="n"/></l><r>smallpox<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>читек<s n="n"/></l><r>çitek<b/>(a<b/>soft<b/>leather<b/>boot)<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>шарт<b/>кыл<s n="v"/><s n="tv"/></l><r>agree<s n="vblex"/></r></p></e>
     <e><p><l>шарт<b/>кыл<s n="v"/><s n="tv"/></l><r>settle<s n="vblex"/></r></p></e>
     <e><p><l>шарт<s n="n"/></l><r>condition<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>шаһит<s n="n"/></l><r>witness<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>шеш<s n="n"/></l><r>tumor<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>шеш<s n="v"/><s n="iv"/></l><r>swel<s n="vblex"/></r></p></e>
     <e><p><l>шәл<s n="n"/></l><r>shawl<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>шәрган<s n="adv"/></l><r>according<b/>to<b/>the<b/>Islamic<b/>law<s n="adv"/></r></p></e>
     <e><p><l>шәргый<s n="adj"/></l><r>lawful<s n="adj"/></r></p></e>
@@ -696,11 +778,13 @@
     <e><p><l>юклык<s n="n"/></l><r>lack<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>юклык<s n="n"/><s n="px3sp"/><s n="abl"/></l><r>for<b/>the<b/>lack<b/>of</r></p></e>
     <e><p><l>юрган<s n="n"/></l><r>одеяло<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>ютәл<s n="n"/></l><r>cough<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ягъни<s n="cnjsub"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>яз<s n="v"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
     <e><p><l>яки<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>якшәмбе<s n="n"/></l><r>Sunday<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>янә<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+    <e><p><l>ярты<s n="n"/></l><r>half<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ярым<s n="n"/></l><r>half<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ярымлык<s n="adj"/></l><r>half<b/>old<s n="adj"/></r></p></e>
     <e><p><l>яса<s n="v"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
@@ -708,7 +792,7 @@
     <e><p><l>яшь<s n="n"/></l><r>age<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>яшь<s n="n"/><s n="px3sp"/><s n="loc"/></l><r>years<b/>old</r></p></e>
     <e><p><l>яшьлек<s n="adj"/></l><r>years<b/>old<s n="adj"/></r></p></e>
-    
+
     <e><p><l>Абай<s n="np"/><s n="ant"/><s n="m"/></l><r>Abay<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Абайжан<s n="np"/><s n="ant"/><s n="m"/></l><r>Abayjan<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Абат<s n="np"/><s n="ant"/><s n="m"/></l><r>Abat<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -6004,7 +6088,6 @@
     <e><p><l>әл-Әнасария<s n="np"/><s n="cog"/></l><r>äl-Änasariä<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>әл-Әнсари<s n="np"/><s n="cog"/></l><r>äl-Änsari<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>әл-Әнсарый<s n="np"/><s n="cog"/></l><r>äl-Änsarıy<s n="np"/><s n="cog"/></r></p></e>
-    <e><p><l>әл-Әнсарый<s n="np"/><s n="cog"/></l><r>äl-Änsarıy<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>әл-Җәләли<s n="np"/><s n="cog"/></l><r>äl-Cäläli<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>әл-Җәрәкси<s n="np"/><s n="cog"/></l><r>äl-Cäräksi<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>әл-Җәркәси<s n="np"/><s n="cog"/></l><r>äl-Cärkäsi<s n="np"/><s n="cog"/></r></p></e>
@@ -6041,7 +6124,6 @@
     <e><p><l>әл-Мортзый<s n="np"/><s n="cog"/></l><r>äl-Mortzıy<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>әл-Мохтари<s n="np"/><s n="cog"/></l><r>äl-Moxtari<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>әл-Мөәдзин<s n="np"/><s n="cog"/></l><r>äl-Möädzin<s n="np"/><s n="cog"/></r></p></e>
-    <e><p><l>әл-Мөәзин<s n="np"/><s n="cog"/></l><r>äl-Möäzin<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>әл-Мөәзин<s n="np"/><s n="cog"/></l><r>äl-Möäzin<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әлмөхәммәдов<s n="np"/><s n="cog"/></l><r>Älmöxämmädov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>әл-Музин<s n="np"/><s n="cog"/></l><r>äl-Muzin<s n="np"/><s n="cog"/></r></p></e>
@@ -6081,6 +6163,7 @@
     <e><p><l>Әпиков<s n="np"/><s n="cog"/></l><r>Äpikov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әптикәев<s n="np"/><s n="cog"/></l><r>Äptikäyev<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әптикиев<s n="np"/><s n="cog"/></l><r>Äptikiev<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>әс-Салихи<s n="np"/><s n="cog"/></l><r>äs-Salixi<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әсфәндияров<s n="np"/><s n="cog"/></l><r>Äsfändiyarow<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әүхәдиев<s n="np"/><s n="cog"/></l><r>Äwxädiev<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Әхметов<s n="np"/><s n="cog"/></l><r>Äxmetov<s n="np"/><s n="cog"/></r></p></e>
@@ -6219,6 +6302,7 @@
     <e><p><l>Кнәгин<s n="np"/><s n="cog"/></l><r>Knägin<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Княгин<s n="np"/><s n="cog"/></l><r>Knyagin<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Ковәтлин<s n="np"/><s n="cog"/></l><r>Kovätlin<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Козлов<s n="np"/><s n="cog"/></l><r>Kozlov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Козлов<s n="np"/><s n="cog"/></l><r>Qozlov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Кокшин<s n="np"/><s n="cog"/></l><r>Qökşin<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Корбанаев<s n="np"/><s n="cog"/></l><r>Qorbanayev<s n="np"/><s n="cog"/></r></p></e>
@@ -6492,6 +6576,7 @@
     <e><p><l>Тинишев<s n="np"/><s n="cog"/></l><r>Tinişev<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Төхфәтуллин<s n="np"/><s n="cog"/></l><r>Töxfätullin<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Туйкин<s n="np"/><s n="cog"/></l><r>Tuykin<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Туйкич<s n="np"/><s n="cog"/></l><r>Tuykich<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Туктаров<s n="np"/><s n="cog"/></l><r>Tuqtarov<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Тылмачев<s n="np"/><s n="cog"/></l><r>Tılmaçev<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Укмасов<s n="np"/><s n="cog"/></l><r>Uqmasov<s n="np"/><s n="cog"/></r></p></e>
@@ -6617,7 +6702,6 @@
     <e><p><l>Яушев<s n="np"/><s n="cog"/></l><r>Yauşev<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Яушиев<s n="np"/><s n="cog"/></l><r>Yäuşiev<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Яхъин<s n="np"/><s n="cog"/></l><r>Yäxin<s n="np"/><s n="cog"/></r></p></e>
-    <e><p><l>әс-Салихи<s n="np"/><s n="cog"/></l><r>äs-Salixi<s n="np"/><s n="cog"/></r></p></e>
 
     <e><p><l>Аан<s n="np"/><s n="top"/></l><r>Aan<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Абалач<s n="np"/><s n="top"/></l><r>Abalaç<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -6927,6 +7011,7 @@
     <e><p><l>Воронцов<s n="np"/><s n="top"/></l><r>Vorontsov<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Второй<b/>Чыты<s n="np"/><s n="top"/></l><r>Vtoroy<b/>Çıtı<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Вятка<s n="np"/><s n="top"/></l><r>Vyatqa<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Галан<s n="np"/><s n="top"/></l><r>Galan<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Гәвам<s n="np"/><s n="top"/></l><r>Gäwam<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Гобай<s n="np"/><s n="top"/></l><r>Ğobay<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Горелый<b/>Куюк<s n="np"/><s n="top"/></l><r>Gorelıy<b/>Quyuq<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7409,7 +7494,6 @@
     <e><p><l>Карлаңга<s n="np"/><s n="top"/></l><r>Qarlañğa<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Кармалы<s n="np"/><s n="top"/></l><r>Qarmalı<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Кармыш<s n="np"/><s n="top"/></l><r>Qarmış<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Кармыш<s n="np"/><s n="top"/></l><r>Qarmış<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Кармышский<s n="np"/><s n="top"/></l><r>Karmışskiy<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Карновар<s n="np"/><s n="top"/></l><r>Karnovar<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Картапа<s n="np"/><s n="top"/></l><r>Qartapa<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7657,6 +7741,7 @@
     <e><p><l>Купхатынка<s n="np"/><s n="top"/></l><r>Qupxatınqa<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Курабаян<s n="np"/><s n="top"/></l><r>Qurabayan<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Курин<s n="np"/><s n="top"/></l><r>Qurin<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Курмыш<s n="np"/><s n="top"/></l><r>Kurmysh<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Курса<b/>Почмагы<s n="np"/><s n="top"/></l><r>Kursa<b/>Poçmağı<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Курса<b/>Почмак<s n="np"/><s n="top"/></l><r>Kursa<b/>Poçmaq<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Курса<s n="np"/><s n="top"/></l><r>Kursa<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7810,6 +7895,8 @@
     <e><p><l>Малый<b/>Кирмән<s n="np"/><s n="top"/></l><r>Malıy<b/>Kirmän<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Малый<b/>Көек<s n="np"/><s n="top"/></l><r>Malıy<b/>Köyek<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Малый<b/>Меретяк<s n="np"/><s n="top"/></l><r>Malıy<b/>Meretyak<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Малый<b/>Мещан<s n="np"/><s n="top"/></l><r>Maliy<b/>Meşçan<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Малый<b/>Мещанский<s n="np"/><s n="top"/></l><r>Maliy<b/>Meşçanskiy<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Малый<b/>Мәтәскә<s n="np"/><s n="top"/></l><r>Malıy<b/>Mätäskä<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Малый<b/>му<s n="np"/><s n="top"/></l><r>Malıy<b/>mu<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Малый<b/>Муй<s n="np"/><s n="top"/></l><r>Malıy<b/>Muy<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -7839,6 +7926,7 @@
     <e><p><l>Мастяк<s n="np"/><s n="top"/></l><r>Mastyak<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Матак<s n="np"/><s n="top"/></l><r>Mataq<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Мерәле<s n="np"/><s n="top"/></l><r>Meräle<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Мещанский<s n="np"/><s n="top"/></l><r>Meşçanskiy<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Мещереков<s n="np"/><s n="top"/></l><r>Meşçerekov<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Мәвәлид<b/>Гандар<s n="np"/><s n="top"/></l><r>Mäwälid<b/>Ğandar<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Мәдәнә<s n="np"/><s n="top"/></l><r>Mädänä<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -8245,7 +8333,7 @@
     <e><p><l>Саралан<s n="np"/><s n="top"/></l><r>Saralan<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Сарапул<s n="np"/><s n="top"/></l><r>Sarapul<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Саратан<s n="np"/><s n="top"/></l><r>Saratan<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Саркокшай<s n="np"/><s n="top"/></l><r>Sarkokşay<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Саркокшай<s n="np"/><s n="top"/></l><r>Tsarevokokshaysk<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Сарлы<s n="np"/><s n="top"/></l><r>Sarlı<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Сарсаз<s n="np"/><s n="top"/></l><r>Sarsaz<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Сарт<b/>Чишмә<s n="np"/><s n="top"/></l><r>Sart<b/>Çişmä<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -8534,6 +8622,7 @@
     <e><p><l>Төрнәле<s n="np"/><s n="top"/></l><r>Törnäle<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Трви<s n="np"/><s n="top"/></l><r>Trvi<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Троицки<s n="np"/><s n="top"/></l><r>Troitski<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Троицкий<s n="np"/><s n="top"/></l><r>Troizkiy<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Тугаев<s n="np"/><s n="top"/></l><r>Tuğayev<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Туйкә<s n="np"/><s n="top"/></l><r>Tuykä<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Туйкилде<s n="np"/><s n="top"/></l><r>Tuykilde<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -8728,6 +8817,7 @@
     <e><p><l>Утыз<b/>Имән<s n="np"/><s n="top"/></l><r>Utız<b/>İmän<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Утырмас<s n="np"/><s n="top"/></l><r>Utırmas<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Уфа<b/>губернасы<s n="np"/><s n="top"/></l><r>Ufa<b/>gubernası<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Уфа<s n="np"/><s n="top"/></l><r>Ufa<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Училе<s n="np"/><s n="top"/></l><r>Uçile<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Уша<s n="np"/><s n="top"/></l><r>Uşa<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Ушабаш<s n="np"/><s n="top"/></l><r>Uşabaş<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -9299,7 +9389,6 @@
     <e><p><l>Яңа<b/>Юзи<s n="np"/><s n="top"/></l><r>Yaña<b/>Yüzi<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Яңа<b/>Юлби<s n="np"/><s n="top"/></l><r>Yaña<b/>Yülbi<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Яңа<b/>Юри<s n="np"/><s n="top"/></l><r>Yaña<b/>Yüri<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Яңа<b/>Юри<s n="np"/><s n="top"/></l><r>Yaña<b/>Yüri<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Яңа<b/>Ялтан<s n="np"/><s n="top"/></l><r>Yaña<b/>Yaltan<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Яңа<s n="np"/><s n="top"/></l><r>Yaña<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Яңавыл<s n="np"/><s n="top"/></l><r>Yañawıl<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -9372,6 +9461,7 @@
     <e><p><l>гәваһ<b/>булып</l><r>as<b/>witness</r></p></e>
     <e><p><l>дефект<b/>документа</l><r>document<b/>defect</r></p></e>
     <e><p><l>дәгъвәт<b/>кыл</l><r>[here]<b/>promise</r></p></e>
+    <e><p><l>дәфен</l><r>was<b/>buried</r></p></e>
     <e><p><l>әүвәлге</l><r>first</r></p></e>
     <e><p><l>әһле<b/>зирагатьтән</l><r>granary<b/>workers</r></p></e>
     <e><p><l>җанибәйн</l><r>the<b/>parties</r></p></e>
@@ -9403,6 +9493,8 @@
     <e><p><l>кул<b/>куя<b/>белмәгән<b/>сәбәпле</l><r>because<b/>he<b/>does<b/>not<b/>know<b/>how<b/>to<b/>sign</r></p></e>
     <e><p><l>кулым<b/>куйдым</l><r>has<b/>signed</r></p></e>
     <e><p><l>Куян<b/>Сабитта</l><r>at<b/>Rabbit<b/>Sabbit's</r></p></e>
+    <e><p><l>күз<b/>тиеп</l><r>from<b/>evil<b/>eye</r></p></e>
+    <e><p><l>легких</l><r>of<b/>the<b/>lungs</r></p></e>
     <e><p><l>личный<b/>почетный<b/>гражданин<s n="n"/></l><r>personal<b/>honorary<b/>citizen<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ма<b/>бәендә</l><r>between<b/>them</r></p></e>
     <e><p><l>ма<b/>бәеннәрендә</l><r>between<b/>them</r></p></e>
@@ -9411,12 +9503,13 @@
     <e><p><l>ма<b/>бәйеннәрендә</l><r>between<b/>them</r></p></e>
     <e><p><l>ма<b/>бәйеннәрендәге</l><r>between<b/>them</r></p></e>
     <e><p><l>ма<b/>бәкыйсе</l><r>the<b/>rest</r></p></e>
+    <e><p><l>мәдфүн</l><r>was<b/>buried</r></p></e>
     <e><p><l>мәзкүр<b/>рәвешчә</l><r>in<b/>aforementioned<b/>manner</r></p></e>
-    <e><p><l>мәзкүр<b/>тарика</l><r>in<b/>aforementioned<b/>manner</r></p></e>
     <e><p><l>мәзкүр<b/>тарика</l><r>in<b/>aforementioned<b/>manner</r></p></e>
     <e><p><l>мәкъбуз</l><r>received</r></p></e>
     <e><p><l>мән<b/>бәгъде</l><r>afterwards</r></p></e>
     <e><p><l>мәнкүхә</l><r>married<b/>woman</r></p></e>
+    <e><p><l>мәнфүн</l><r>was<b/>buried</r></p></e>
     <e><p><l>мәхәббәт<b/>юклыгыннан</l><r>because<b/>of<b/>the<b/>lack<b/>of<b/>love</r></p></e>
     <e><p><l>мин<b/>бәгъде</l><r>afterwards</r></p></e>
     <e><p><l>моталлака</l><r>wife<b/>being<b/>divorced</r></p></e>
