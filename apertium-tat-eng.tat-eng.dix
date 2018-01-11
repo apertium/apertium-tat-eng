@@ -344,16 +344,21 @@
     <e><p><l>илле<s n="num"/></l><r>fifty<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>илтизам<b/>ит<s n="v"/><s n="tv"/></l><r>commit<b/>to<s n="vblex"/></r></p></e>
     <e><p><l>илтизам<b/>кыл<s n="v"/><s n="tv"/></l><r>commit<b/>to<s n="vblex"/></r></p></e>
+    <e><p><l>им<s n="v"/><s n="tv"/></l><r>suck<s n="vblex"/></r></p></e>
+    <e><p><l>имез<s n="v"/><s n="tv"/></l><r>breastfeed<s n="vblex"/></r></p></e>    
     <e><p><l>имам<b/>җамигъ<s n="n"/></l><r>imam<b/>at<b/>a<b/>congregational<b/>mosque<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>имам<s n="n"/></l><r>imam<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>имза<b/>ит<s n="v"/><s n="tv"/></l><r>sign<s n="vblex"/></r></p></e>
     <e><p><l>имза<b/>кыл<s n="v"/><s n="iv"/></l><r>sign<s n="vblex"/></r></p></e>
+    <e><p><l>имчәк<s n="n"/></l><r>breast<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>инкяр<b/>кыл<s n="v"/><s n="iv"/></l><r>decline<s n="vblex"/></r></p></e>
     <e><p><l>иртифак<s n="n"/></l><r>(here,<b/>probably<b/>erroneously)<b/>lack<b/>of<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>исбат<b/>кыл<s n="v"/><s n="tv"/></l><r>prove<s n="vblex"/></r></p></e>
     <e><p><l>исем<s n="n"/></l><r>name<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>исәп<s n="n"/></l><r>count<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>искат<b/>кыл<s n="v"/><s n="tv"/><s n="coop"/></l><r>free<b/>each<b/>other<b/>from<b/>obligations<s n="vblex"/></r></p></e>
+    <e><p><l>ит<s n="v"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
+    <e><p><l>ит<s n="vaux"/></l><r>make<s n="vblex"/></r></p></e>    
     <e><p><l>итче<s n="n"/></l><r>butcher<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ихтыяр<s n="n"/></l><r>will<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>июль<s n="n"/></l><r>July<s n="n"/><s n="sg"/></r></p></e>
@@ -727,6 +732,7 @@
     <e><p><l>хәләл<s n="adj"/></l><r>halal<s n="adj"/></r></p></e>
     <e><p><l>хәмел<s n="n"/></l><r>baby<b/>(fetus)<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>хәтфә<s n="n"/></l><r>velvet<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>хезмәт<b/>ит<s n="v"/><s n="iv"/></l><r>serve<s n="vblex"/></r></p></e>
     <e><p><l>хисап<b/>кыл<s n="v"/><s n="tv"/></l><r>count<s n="vblex"/></r></p></e>
     <e><p><l>хитап<b/>кыл<s n="v"/><s n="iv"/></l><r>speak<s n="vblex"/></r></p></e>
     <e><p><l>хозур<s n="n"/></l><r>front<s n="n"/><s n="sg"/></r></p></e>
