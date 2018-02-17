@@ -199,6 +199,8 @@
     <e><p><l>бистә<s n="n"/></l><r>settlement<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>биш<s n="num"/></l><r>five<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>биш<s n="num"/><s n="ord"/></l><r>fifth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>больница<s n="n"/></l><r>hospital<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>бульнис<s n="n"/></l><r>hospital<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>бу<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
     <e><p><l>бу<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>буенча<s n="post"/></l><r>by<s n="pr"/></r></p></e>
@@ -208,6 +210,7 @@
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="ifi"/></l><r>be<s n="vbser"/><s n="past"/></r></p></e>
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="past"/></l><r>be<s n="vbser"/><s n="past"/></r></p></e>    
     <e><p><l>бума<b/>ютәл<s n="n"/></l><r>whooping<b/>cough<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>бүлнис<s n="n"/></l><r>hospital<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>бүрекче<s n="n"/></l><r>capper<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бүсер<s n="n"/></l><r>hernia<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ваба<s n="n"/></l><r>cholera<s n="n"/><s n="sg"/></r></p></e>
@@ -249,7 +252,8 @@
     <e><p><l>гаһед<b/>ит<s n="v"/><s n="tv"/></l><r>promise<s n="vblex"/></r></p></e>
     <e><p><l>гаһед<b/>кыл<s n="v"/><s n="tv"/></l><r>pledge<s n="vblex"/></r></p></e>
     <e><p><l>гәваһ<s n="n"/></l><r>witness<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>гөмбә<b/>маризы<s n="n"/></l><r>ringworm<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>гөмбә<b/>авыруы<s n="n"/></l><r>candidiasis<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>гөмбә<b/>маризы<s n="n"/></l><r>candidiasis<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гражданин<s n="n"/></l><r>citizen<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>губерна<s n="n"/></l><r>governorate<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>губернский<b/>секретарь<s n="n"/></l><r>governorate<b/>secretary<s n="n"/><s n="sg"/></r></p></e>
@@ -414,6 +418,7 @@
     <e><p><l>купец<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>куян<s n="n"/></l><r>rabbit<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>күз<s n="n"/></l><r>eye<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>күкрәк<s n="n"/></l><r>chest<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>күкрәк<b/>авыруы<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>күкрәк<b/>зәхмәте<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>күкрәк<b/>маризы<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
@@ -436,6 +441,7 @@
     <e><p><l>мал<s n="n"/></l><r>property<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мариз<s n="n"/></l><r>disease<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>маризы<b/>күкрәк<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>маризы<b/>гөмбә<b/><s n="n"/></l><r>candidiasis<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>маризы<b/>тир<s n="n"/></l><r>typhus<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>март<s n="n"/></l><r>March<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мелла<s n="n"/></l><r>mullah<s n="n"/><s n="sg"/></r></p></e>
@@ -576,8 +582,9 @@
     <e><p><l>сигез<s n="num"/></l><r>eight<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>сигез<s n="num"/><s n="ord"/></l><r>eighth<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>сиксән<s n="num"/></l><r>eighty<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>сил<s n="n"/></l><r>lung<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>син<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e><p><l>ситца<s n="n"/></l><r>chintz<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>ситца<s n="n"/></l><r>chintz<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сишәмбе<s n="n"/></l><r>Tuesday<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>скарлатин<s n="n"/></l><r>scarlatina<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>солдат<s n="n"/></l><r>soldier<s n="n"/><s n="sg"/></r></p></e>
@@ -651,6 +658,7 @@
     <e><p><l>тиф<s n="n"/></l><r>typhus<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>тол<s n="adj"/></l><r>widowed<s n="adj"/></r></p></e>
     <e><p><l>тор<s n="v"/><s n="iv"/><s n="gpr_pot"/><s n="subst"/><s n="nom"/></l><r>live<s n="vblex"/><s n="pprs"/></r></p></e>
+    <e><p><l>төрмә<s n="n"/></l><r>prison<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>төш<s n="v"/><s n="iv"/></l><r>fall<s n="vblex"/></r></p></e>
     <e><p><l>ту<s n="v"/><s n="iv"/></l><r>born<s n="adj"/></r></p></e>    
     <e><p><l>тугыз<s n="num"/></l><r>nine<s n="num"/><s n="sg"/></r></p></e>
