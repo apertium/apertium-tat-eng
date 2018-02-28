@@ -143,22 +143,27 @@
     <e><p><l>ал<s n="v"/><s n="tv"/></l><r>take<s n="vblex"/></r></p></e>
     <e><p><l>ал<s n="v"/><s n="tv"/><s n="pass"/><s n="ifi"/><s n="p3"/><s n="sg"/></l><r>take<s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>алд<s n="n"/><s n="px3sp"/><s n="loc"/></l><r>in<b/>front<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>аллергия<s n="n"/></l><r>allergy<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>алтмыш<s n="num"/></l><r>sixty<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>алты<s n="num"/></l><r>six<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>алты<s n="num"/><s n="ord"/></l><r>sixth<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>алтынчы<s n="n"/></l><r>goldsmith<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ана<s n="n"/></l><r>mother<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>ангина<s n="n"/></l><r>angina<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>аппендицит<s n="n"/></l><r>appendicitis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>апрель<s n="n"/></l><r>April<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ара<s n="n"/><s n="pl"/><s n="px3sp"/><s n="loc"/><s n="attr"/></l><r>between<s n="pr"/><j/>them</r></p></e>
     <e><p><l>ара<s n="n"/><s n="px3sp"/><s n="loc"/></l><r>between<s n="pr"/></r></p></e>
     <e><p><l>ара<s n="n"/><s n="px3sp"/><s n="loc"/><s n="attr"/></l><r>between<s n="pr"/></r></p></e>
     <e><p><l>асла<s n="adv"/></l><r>none<b/>at<b/>all/never<s n="adv"/></r></p></e>
+    <e><p><l>астма<s n="n"/></l><r>asthma<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>асыл<s n="adj"/></l><r>real<s n="adj"/></r></p></e>
     <e><p><l>ата<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>атналык<s n="adj"/></l><r>weeks<b/>old<s n="adj"/></r></p></e>
     <e><p><l>ахунд<s n="n"/></l><r>akhund<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ахыр<s n="n"/></l><r>end<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>аяк<s n="n"/></l><r>leg<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>бабай<s n="n"/></l><r>grandfather<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>баин<b/>кыл<s n="v"/><s n="tv"/></l><r>complete<s n="vblex"/></r></p></e>
     <e><p><l>бакирә<s n="n"/></l><r>maiden<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бакыр<s n="n"/></l><r>copper<s n="n"/><s n="sg"/></r></p></e>        
@@ -186,6 +191,7 @@
     <e><p><l>бәкыяти<s n="adj"/></l><r>remaining/deferred<b/>(?)<s n="adj"/></r></p></e>
     <e><p><l>бәрабәренә<s n="post"/></l><r>for<s n="pr"/></r></p></e>
     <e><p><l>бәян<b/>кыл<s n="v"/><s n="tv"/></l><r>tell<s n="vblex"/></r></p></e>
+    <e><p><l>бизгәк<s n="n"/></l><r>fever<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бизгәк<s n="n"/></l><r>malaria<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бил<s n="n"/></l><r>waist<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>билетлы<s n="adj"/></l><r>reserve<s n="adj"/></r></p></e>
@@ -200,7 +206,7 @@
     <e><p><l>биш<s n="num"/></l><r>five<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>биш<s n="num"/><s n="ord"/></l><r>fifth<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>больница<s n="n"/></l><r>hospital<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>бульнис<s n="n"/></l><r>hospital<s n="n"/><s n="sg"/></r></p></e>    
+    <e><p><l>бронхит<s n="n"/></l><r>bronchitus<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бу<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
     <e><p><l>бу<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>буенча<s n="post"/></l><r>by<s n="pr"/></r></p></e>
@@ -209,6 +215,7 @@
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="gna_perf"/></l><r>as<s n="adv"/></r></p></e>
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="ifi"/></l><r>be<s n="vbser"/><s n="past"/></r></p></e>
     <e><p><l>бул<s n="v"/><s n="iv"/><s n="past"/></l><r>be<s n="vbser"/><s n="past"/></r></p></e>    
+    <e><p><l>бульнис<s n="n"/></l><r>hospital<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>бума<b/>ютәл<s n="n"/></l><r>whooping<b/>cough<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>бүлнис<s n="n"/></l><r>hospital<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>бүрекче<s n="n"/></l><r>capper<s n="n"/><s n="sg"/></r></p></e>
@@ -234,6 +241,7 @@
     <e><p><l>вәләд<s n="n"/></l><r>child<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вәли<b/>вәкил<s n="n"/></l><r>wali<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>вәли<s n="n"/></l><r>wali<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>вирус<s n="n"/></l><r>virus<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>волость<s n="n"/></l><r>volost<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>воспаление<s n="n"/></l><r>inflammation<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>временный<s n="adj"/></l><r>temporary<s n="adj"/></r></p></e>
@@ -249,12 +257,16 @@
     <e><p><l>гам<s n="n"/></l><r>uncle<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гаммә<s n="n"/></l><r>aunt<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гарык<b/>бул<s n="v"/><s n="iv"/></l><r>drown<s n="vblex"/></r></p></e>
+    <e><p><l>гастрит<s n="n"/></l><r>gastritis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гаһед<b/>ит<s n="v"/><s n="tv"/></l><r>promise<s n="vblex"/></r></p></e>
     <e><p><l>гаһед<b/>кыл<s n="v"/><s n="tv"/></l><r>pledge<s n="vblex"/></r></p></e>
     <e><p><l>гәваһ<s n="n"/></l><r>witness<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>гипертония<s n="n"/></l><r>hypertension<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>гипотония<s n="n"/></l><r>hypotension<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гөмбә<b/>авыруы<s n="n"/></l><r>candidiasis<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гөмбә<b/>маризы<s n="n"/></l><r>candidiasis<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гражданин<s n="n"/></l><r>citizen<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>грипп<s n="n"/></l><r>flu<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>губерна<s n="n"/></l><r>governorate<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>губернский<b/>секретарь<s n="n"/></l><r>governorate<b/>secretary<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гыйддә<b/>нәфәкасе<s n="n"/></l><r>iddah<b/>alimony<s n="n"/><s n="sg"/></r></p></e>
@@ -278,6 +290,9 @@
     <e><p><l>ди<s n="v"/><s n="tv"/><s n="gna_perf"/></l><r>say<s n="vblex"/><s n="pprs"/></r></p></e>
     <e><p><l>ди<s n="v"/><s n="tv"/><s n="gna_perf"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e><p><l>ди<s n="v"/><s n="tv"/><s n="ifi"/><s n="p3"/><s n="sg"/></l><r>say<s n="vblex"/><s n="past"/></r></p></e>
+    <e><p><l>диабет<s n="n"/></l><r>diabetes<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>дизентерия<s n="n"/></l><r>disentery<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>дифтерия<s n="n"/></l><r>diphtheria<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>дөнья<s n="n"/></l><r>world<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>дүрт<s n="num"/></l><r>four<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>дүрт<s n="num"/><s n="ord"/></l><r>fourth<s n="adj"/><s n="ord"/></r></p></e>
@@ -286,12 +301,15 @@
     <e><p><l>егерме<s n="num"/><s n="ord"/></l><r>twentieth<s n="adj"/><s n="ord"/></r></p></e>    
     <e><p><l>егет<s n="n"/></l><r>groom<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ел<s n="n"/></l><r>year<s n="n"/><s n="sg"/></r></p></e>        
+    <e><p><l>әби<s n="n"/></l><r>grandmother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>әгәр<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>    
     <e><p><l>әгъраз<b/>кыл<s n="v"/><s n="tv"/></l><r>request<s n="vblex"/></r></p></e>
     <e><p><l>әда<b/>кыл<s n="v"/><s n="tv"/></l><r>pay<s n="vblex"/></r></p></e>
     <e><p><l>әйт<s n="v"/><s n="tv"/></l><r>say<s n="vblex"/></r></p></e>
+    <e><p><l>әни<s n="n"/></l><r>mother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>әнкә<s n="n"/></l><r>mother<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>әрҗәче<s n="n"/></l><r>basketweaver<s n="n"/><s n="sg"/></r></p></e>    
+    <e><p><l>әти<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>әткә<s n="n"/></l><r>father<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>әүвәл<s n="adj"/></l><r>first<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>әһле<b/>зирагать<s n="n"/></l><r>granary<b/>worker<s n="n"/><s n="sg"/></r></p></e>
@@ -301,6 +319,7 @@
     <e><p><l>җәмгысе<s n="adv"/></l><r>in<b/>total<s n="adv"/></r></p></e>
     <e><p><l>җәмәгать<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>җәмигъ<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
+    <e><p><l>җәрәхәт<s n="n"/></l><r>injury<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>җәһәт<s n="n"/></l><r>reason<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>җиде<s n="num"/></l><r>seven<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>җиде<s n="num"/><s n="ord"/></l><r>seventh<s n="adj"/><s n="ord"/></r></p></e>
@@ -349,24 +368,28 @@
     <e><p><l>илтизам<b/>ит<s n="v"/><s n="tv"/></l><r>commit<b/>to<s n="vblex"/></r></p></e>
     <e><p><l>илтизам<b/>кыл<s n="v"/><s n="tv"/></l><r>commit<b/>to<s n="vblex"/></r></p></e>
     <e><p><l>им<s n="v"/><s n="tv"/></l><r>suck<s n="vblex"/></r></p></e>
-    <e><p><l>имез<s n="v"/><s n="tv"/></l><r>breastfeed<s n="vblex"/></r></p></e>    
     <e><p><l>имам<b/>җамигъ<s n="n"/></l><r>imam<b/>at<b/>a<b/>congregational<b/>mosque<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>имам<s n="n"/></l><r>imam<s n="n"/><s n="sg"/></r></p></e>    
+    <e><p><l>имез<s n="v"/><s n="tv"/></l><r>breastfeed<s n="vblex"/></r></p></e>    
     <e><p><l>имза<b/>ит<s n="v"/><s n="tv"/></l><r>sign<s n="vblex"/></r></p></e>
     <e><p><l>имза<b/>кыл<s n="v"/><s n="iv"/></l><r>sign<s n="vblex"/></r></p></e>
     <e><p><l>имчәк<s n="n"/></l><r>breast<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>инкяр<b/>кыл<s n="v"/><s n="iv"/></l><r>decline<s n="vblex"/></r></p></e>
+    <e><p><l>инсульт<s n="n"/></l><r>stroke<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>инфаркт<s n="n"/></l><r>heart<b/>attack<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>ир-ат<s n="n"/></l><r>male<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>иртифак<s n="n"/></l><r>(here,<b/>probably<b/>erroneously)<b/>lack<b/>of<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>исбат<b/>кыл<s n="v"/><s n="tv"/></l><r>prove<s n="vblex"/></r></p></e>
     <e><p><l>исем<s n="n"/></l><r>name<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>исәп<s n="n"/></l><r>count<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>искат<b/>кыл<s n="v"/><s n="tv"/><s n="coop"/></l><r>free<b/>each<b/>other<b/>from<b/>obligations<s n="vblex"/></r></p></e>
-    <e><p><l>ит<s n="v"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
     <e><p><l>ит<s n="vaux"/></l><r>make<s n="vblex"/></r></p></e>    
+    <e><p><l>ит<s n="v"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
     <e><p><l>итче<s n="n"/></l><r>butcher<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ихтыяр<s n="n"/></l><r>will<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>июль<s n="n"/></l><r>July<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>июнь<s n="n"/></l><r>June<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>йокысызлык<s n="n"/></l><r>insomnia<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>йон<s n="n"/></l><r>wool<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>йорт<s n="n"/></l><r>home<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>йөз<s n="num"/></l><r>hundred<s n="num"/><s n="sg"/></r></p></e>
@@ -379,6 +402,7 @@
     <e><p><l>кадәрле<s n="post"/></l><r>till<s n="pr"/></r></p></e>
     <e><p><l>кайт<s n="v"/><s n="iv"/></l><r>return<s n="vblex"/></r></p></e>
     <e><p><l>кал<s n="v"/><s n="iv"/></l><r>remain<s n="vblex"/></r></p></e>    
+    <e><p><l>кала<s n="n"/></l><r>city<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>калпакчы<s n="n"/></l><r>hatter<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>калфак<s n="n"/></l><r>qalfaq<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>камзул<s n="n"/></l><r>jacket<s n="n"/><s n="sg"/></r></p></e>        
@@ -418,16 +442,17 @@
     <e><p><l>купец<s n="n"/></l><r>merchant<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>куян<s n="n"/></l><r>rabbit<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>күз<s n="n"/></l><r>eye<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>күкрәк<s n="n"/></l><r>chest<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>күкрәк<b/>авыруы<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>күкрәк<b/>зәхмәте<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>күкрәк<b/>маризы<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>күкрәк<b/>рәнҗүе<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>күкрәк<b/>хастасы<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>күкрәк<s n="n"/></l><r>chest<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>күл<s n="n"/></l><r>lake<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>күлмәк<s n="n"/></l><r>dress<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>күмәчче<s n="n"/></l><r>baker<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кыз<s n="n"/></l><r>daughter<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>кыз<s n="n"/></l><r>girl<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кызамык<s n="n"/></l><r>measles<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кызылча<s n="n"/></l><r>rubella<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кыйд<b/>кыл<s n="v"/><s n="tv"/></l><r>record<s n="vblex"/></r></p></e>
@@ -439,9 +464,11 @@
     <e><p><l>май<s n="n"/></l><r>May<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мактүл<s n="adj"/></l><r>kill<s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>мал<s n="n"/></l><r>property<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>малай<s n="n"/></l><r>boy<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>малярия<s n="n"/></l><r>malaria<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мариз<s n="n"/></l><r>disease<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>маризы<b/>күкрәк<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>маризы<b/>гөмбә<b/><s n="n"/></l><r>candidiasis<b/>(?)<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>маризы<b/>күкрәк<s n="n"/></l><r>tuberculosis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>маризы<b/>тир<s n="n"/></l><r>typhus<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>март<s n="n"/></l><r>March<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>мелла<s n="n"/></l><r>mullah<s n="n"/><s n="sg"/></r></p></e>
@@ -534,6 +561,7 @@
     <e><p><l>өчен<s n="post"/></l><r>for<s n="pr"/></r></p></e>
     <e><p><l>өяз<s n="n"/></l><r>county<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>панос<s n="n"/></l><r>diarrhea<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>паралич<s n="n"/></l><r>paralysis<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>паспорт<s n="n"/></l><r>passport<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>пересыльный<s n="adj"/></l><r>transit<s n="adj"/></r></p></e>
     <e><p><l>пәнҗешәмбе<s n="n"/></l><r>Thursday<s n="n"/><s n="sg"/></r></p></e>
@@ -562,6 +590,7 @@
     <e><p><l>саен<s n="post"/></l><r>every<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
     <e><p><l>саир<s n="adj"/></l><r>other<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
     <e><p><l>сал<s n="v"/><s n="tv"/></l><r>put<s n="vblex"/></r></p></e>
+    <e><p><l>сала<s n="n"/></l><r>village<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>салкын<b/>ти<s n="v"/><s n="iv"/></l><r>catch<b/>a<b/>cold<s n="vblex"/></r></p></e>
     <e><p><l>самавыр<s n="n"/></l><r>samovar<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>сандык<s n="n"/></l><r>chest<s n="n"/><s n="sg"/></r></p></e>        
@@ -570,6 +599,7 @@
     <e><p><l>сары<s n="n"/></l><r>jaundice<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сарыф<b/>кыл<s n="v"/><s n="tv"/></l><r>spend<s n="vblex"/></r></p></e>
     <e><p><l>сентябрь<s n="n"/></l><r>September<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>сеңел<s n="n"/></l><r>sister<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сәбәп<s n="n"/></l><r>reason<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>сәбит<b/>ит<s n="v"/><s n="tv"/></l><r>register<s n="vblex"/></r></p></e>
     <e><p><l>сәбит<b/>кыл<s n="v"/><s n="tv"/></l><r>register<s n="vblex"/></r></p></e>
@@ -729,7 +759,9 @@
     <e><p><l>хатыйб<s n="n"/></l><r>khatib<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хатыйп<s n="n"/></l><r>khatib<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хатын<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>хатын-кыз<s n="n"/></l><r>female<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>хатынлык<s n="n"/></l><r>wife<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>хезмәт<b/>ит<s n="v"/><s n="iv"/></l><r>serve<s n="vblex"/></r></p></e>
     <e><p><l>хәзер<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
     <e><p><l>хәзергә<s n="adv"/></l><r>for<b/>now<s n="adv"/></r></p></e>
     <e><p><l>хәлегъ<b/>әйлә<s n="v"/><s n="tv"/></l><r>divorce<s n="vblex"/></r></p></e>
@@ -740,7 +772,6 @@
     <e><p><l>хәләл<s n="adj"/></l><r>halal<s n="adj"/></r></p></e>
     <e><p><l>хәмел<s n="n"/></l><r>baby<b/>(fetus)<s n="n"/><s n="sg"/></r></p></e>        
     <e><p><l>хәтфә<s n="n"/></l><r>velvet<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>хезмәт<b/>ит<s n="v"/><s n="iv"/></l><r>serve<s n="vblex"/></r></p></e>
     <e><p><l>хисап<b/>кыл<s n="v"/><s n="tv"/></l><r>count<s n="vblex"/></r></p></e>
     <e><p><l>хитап<b/>кыл<s n="v"/><s n="iv"/></l><r>speak<s n="vblex"/></r></p></e>
     <e><p><l>хозур<s n="n"/></l><r>front<s n="n"/><s n="sg"/></r></p></e>
