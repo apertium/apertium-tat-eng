@@ -15,6 +15,7 @@
 /configure.ac -text
 dev/toadd -text
 dev/tocomment -text
+/explode_ambig.py -text
 /line -text
 /modes.xml -text
 t/README.org -text
