@@ -97,9 +97,6 @@
       <program name="lt-proc -b">
         <file name="tat-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
-        <file name="tat-eng.autolex.bin"/>
-      </program>
       <program name="apertium-transfer -b">
         <file name="apertium-tat-eng.tat-eng.t1x"/>
         <file name="tat-eng.t1x.bin"/>
@@ -142,8 +139,8 @@
       <program name="lt-proc -b">
         <file name="tat-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
-        <file name="tat-eng.autolex.bin"/>
+      <program name="python3">
+	<file name="explode_ambig.py"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-tat-eng.tat-eng.t1x"/>
