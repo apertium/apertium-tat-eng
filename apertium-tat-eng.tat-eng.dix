@@ -37,6 +37,7 @@
     <sdef n="pers"            c="Personal pronoun"/>
     <sdef n="ref"             c="Reflexive pronoun"/>
     <sdef n="res"             c="Reciprocal pronoun"/>
+    <sdef n="dem"             c="Demonstrative pronoun"/>
 
     <sdef n="det"             c="Determiner"/>
     <sdef n="pos"             c="Possessive"/>
