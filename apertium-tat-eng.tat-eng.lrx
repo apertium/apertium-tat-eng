@@ -17,6 +17,14 @@
     </match>
   </rule>
 
+<!-- Metrical books project related rules -->
+
+  <rule>
+    <match lemma="кыз" tags="n.*">
+      <select lemma="daughter" tags="n.*"/>
+    </match>
+  </rule>
+
 </rules>
 
 <!-- 
