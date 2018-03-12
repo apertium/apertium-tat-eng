@@ -85,8 +85,8 @@ $(PREFIX1).zhfst: .deps/acceptor.default.hfst .deps/errmodel.default.hfst
 .deps/anystar.hfst: .deps/.d
 	echo "?*;" | hfst-regexp2fst -S -o $@
 
-.deps/acceptor.default.hfst: $(AP_SRC1)/$(LANG1).autogen.hfst .deps/.d
-	cat $< | hfst-fst2fst -t | hfst-project  --project=lower | hfst-minimise | hfst-fst2fst  -f olw  -o $@
+.deps/acceptor.default.hfst: .deps/tat-eng.automorf.trimmed .deps/.d
+	cat $< | hfst-invert | hfst-fst2fst -t | hfst-project  --project=lower | hfst-minimise | hfst-fst2fst  -f olw  -o $@
 
 ###############################################################################
 ## Tagger models
