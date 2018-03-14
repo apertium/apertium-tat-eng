@@ -1,6 +1,3 @@
 [submodule "streamparser"]
 	path = streamparser
 	url = https://github.com/apertium/streamparser.git
-[submodule "texts"]
-	path = texts
-	url = https://gitlab.com/selimcan/tat-eng-texts.git

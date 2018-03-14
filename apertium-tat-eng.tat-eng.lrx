@@ -25,6 +25,67 @@
     </match>
   </rule>
 
+  <rule>
+    <match lemma="май" tags="n.*">
+      <select lemma="May" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule>
+    <match lemma="бала" tags="n.*">
+      <select lemma="child" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule>
+    <match lemma="авыру" tags="n.*">
+      <select lemma="disease" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule>
+    <match lemma="ил" tags="n.*">
+      <select lemma="village" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule>
+    <match lemma="егет" tags="n.*">
+      <select lemma="groom" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule>
+    <match lemma="чәчәк" tags="n.*">
+      <select lemma="smallpox" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule>
+    <match lemma="ай" tags="n.*">
+      <select lemma="month" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule>
+    <match lemma="егет" tags="n.*">
+      <select lemma="groom" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule>
+    <match lemma="кул" tags="n.*">
+      <select lemma="sign" tags="n.*"/>
+    </match>
+    <match lemma="куй" tags="v.*"/>
+  </rule>
+
+  <rule>
+    <match lemma="чир" tags="n.*">
+      <select lemma="dise" tags="n.*"/>
+    </match>
+  </rule>
+
 </rules>
 
 <!-- 
