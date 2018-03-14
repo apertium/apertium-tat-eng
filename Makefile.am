@@ -13,13 +13,15 @@ TARGETS_COMMON =		\
 	$(PREFIX1).automorf.bin	\
 	$(PREFIX1).prob		\
 	$(PREFIX1).rlx.bin	\
+	$(PREFIX1).mb.rlx.bin	\
 	$(PREFIX1).autobil.bin	\
 	$(PREFIX1).autolex.bin	\
 	$(PREFIX1).autogen.bin	\
 	$(PREFIX1).autopgen.bin	\
 	$(PREFIX1).t1x.bin	\
 	$(PREFIX1).t2x.bin	\
-	$(PREFIX1).t3x.bin
+	$(PREFIX1).t3x.bin	\
+	$(PREFIX1).zhfst
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
 @ap_include@
@@ -100,6 +102,9 @@ $(PREFIX1).prob: $(AP_SRC1)/$(LANG1).prob
 ###############################################################################
 
 $(PREFIX1).rlx.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).rlx
+	cg-comp $< $@
+
+$(PREFIX1).mb.rlx.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).mb.rlx
 	cg-comp $< $@
 
 ###############################################################################

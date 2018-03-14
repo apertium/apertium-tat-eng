@@ -11,6 +11,9 @@
       <program name="cg-proc -w">
         <file name="tat-eng.rlx.bin"/>
       </program>
+      <program name="cg-proc -w">
+        <file name="tat-eng.mb.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -u 2 -g $2">
         <file name="tat-eng.prob"/>
       </program>
@@ -48,6 +51,9 @@
     <pipeline>
       <program name="cg-proc -w">
         <file name="tat-eng.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="tat-eng.mb.rlx.bin"/>
       </program>
       <program name="apertium-tagger -u 2 -g $2">
         <file name="tat-eng.prob"/>
@@ -90,6 +96,9 @@
       </program>
       <program name="cg-proc -w">
         <file name="tat-eng.rlx.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="tat-eng.mb.rlx.bin"/>
       </program>
       <program name="apertium-tagger -u 2 -g $2">
         <file name="tat-eng.prob"/>
