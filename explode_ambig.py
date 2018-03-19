@@ -1,8 +1,8 @@
 # git clone https://github.com/goavki/streamparser.git streamparser
 
-from streamparser.streamparser import parse_file, readingToString
+from streamparser.streamparser import parse_file, reading_to_string
 import sys
-for blank, lu in parse_file(sys.stdin, withText=True):
+for blank, lu in parse_file(sys.stdin, with_text=True):
     print(blank+" ".join("^{}/{}$".format(lu.wordform, readingToString(r))
                          for r in lu.readings),
           end="")
