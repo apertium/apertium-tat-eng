@@ -20,8 +20,7 @@ TARGETS_COMMON =		\
 	$(PREFIX1).autopgen.bin	\
 	$(PREFIX1).t1x.bin	\
 	$(PREFIX1).t2x.bin	\
-	$(PREFIX1).t3x.bin	\
-	$(PREFIX1).zhfst
+	$(PREFIX1).t3x.bin
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
 @ap_include@
