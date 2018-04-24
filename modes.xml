@@ -45,48 +45,10 @@
     </pipeline>
   </mode>
 
-  <!-- TODO: generate the following and the like automaticaly -->
-
-  <mode name="tat-eng-without-morph" install="yes" gendebug="no">
-    <pipeline>
-      <program name="cg-proc -w">
-        <file name="tat-eng.rlx.bin"/>
-      </program>
-      <program name="cg-proc -w">
-        <file name="tat-eng.mb.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -u 2 -g $2">
-        <file name="tat-eng.prob"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="tat-eng.autobil.bin"/>
-      </program>
-      <program name="apertium-transfer -b">
-        <file name="apertium-tat-eng.tat-eng.t1x"/>
-        <file name="tat-eng.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-tat-eng.tat-eng.t2x"/>
-        <file name="tat-eng.t2x.bin"/>
-      </program>
-      <program name="apertium-postchunk">
-        <file name="apertium-tat-eng.tat-eng.t3x"/>
-        <file name="tat-eng.t3x.bin"/>
-      </program>
-      <program name="lt-proc -g">
-        <file name="tat-eng.autogen.bin"/>
-      </program>
-      <program name="lt-proc -p">
-        <file name="tat-eng.autopgen.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
   <!-- tat-eng-explode-ambig: turn lexical units with ambiguous readings into
        multiple unambiguous lexical units and translate -->
 
-  <mode name="tat-eng-explode-ambig" install="yes" gendebug="no">
+  <mode name="tat-eng-explode-ambig" install="no" gendebug="no">
     <pipeline>
       <program name="lt-proc -w">
         <file name="tat-eng.automorf.bin"/>
