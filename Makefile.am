@@ -150,7 +150,7 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 
 $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
-	lt-comp lr $< $@
+	lt-comp rl $< $@
 
 ###############################################################################
 ## Lexical selection rules
