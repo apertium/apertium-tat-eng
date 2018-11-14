@@ -1599,7 +1599,7 @@
     <e><p><l>гыйфрит<s n="n"/></l><r>monster<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гыйффәт<s n="n"/></l><r>innocence<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>гыйшык<s n="n"/></l><r>love<s n="n"/><s n="sg"/></r></p></e>
-    <e><p><l>да<s n="loc"/></l><r></r></p></e>
+    <e><p><l>да<s n="loc"/></l><r>-</r></p></e>
     <e><p><l>да<s n="postadv"/></l><r>also<s n="n"/><s n="adv"/></r></p></e>
     <e><p><l>давыл<s n="n"/></l><r>storm<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>дага<s n="n"/></l><r>horseshoe<s n="n"/><s n="sg"/></r></p></e>
@@ -15021,7 +15021,7 @@
     <e><p><l>мин<b/>бәгъде</l><r>afterwards</r></p></e>
     <e><p><l>моталлака</l><r>wife<b/>being<b/>divorced</r></p></e>
     <e><p><l>моталлик</l><r>man<b/>being<b/>divorced</r></p></e>
-    <e><p><l>мөбашәрә</l><r><b/>begin<b/>(?)</r></p></e>
+    <e><p><l>мөбашәрә</l><r>begin<b/>(?)</r></p></e>
     <e><p><l>мөгәҗҗәл</l><r>(to<b/>be<b/>paid)<b/>right<b/>away</r></p></e>
     <e><p><l>мөәҗҗәл</l><r>deferred</r></p></e>
     <e><p><l>мөәнәсә</l><r>female</r></p></e>
@@ -15077,7 +15077,7 @@
     <e><p><l>тәрбия<b/>кылырга</l><r>for<b/>parenting</r></p></e>
     <e><p><l>тәрбия</l><r>parenting</r></p></e>
     <e><p><l>тәрбия кылырга</l><r>for parenting</r></p></e>
-    <e><p><l>тиешле<b/>акчасын<b/>алып</l><r><b/>taking<b/>appropriate<b/>money</r></p></e>
+    <e><p><l>тиешле<b/>акчасын<b/>алып</l><r>taking<b/>appropriate<b/>money</r></p></e>
     <e><p><l>толлар</l><r>both<b/>widowed</r></p></e>
     <e><p><l>түбәндә<b/>исемләде<b/>язылмыш</l><r>the<b/>names<b/>of<b/>which<b/>are<b/>written<b/>below</r></p></e>
     <e><p><l>түбәндә<b/>исемләре<b/>язылмыш</l><r>the<b/>names<b/>of<b/>which<b/>are<b/>written<b/>below</r></p></e>
