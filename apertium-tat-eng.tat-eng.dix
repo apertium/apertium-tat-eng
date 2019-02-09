@@ -2800,6 +2800,7 @@
     <e><p><l>кесәл<s n="n"/></l><r>jelly<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кефир<s n="n"/></l><r>kefir<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кечкенә<s n="adj"/></l><r>small<s n="adj"/></r></p></e>
+    <e><p><l>кечкенә<s n="adj"/></l><r>little<s n="adj"/></r></p></e>    
     <e><p><l>кеш<s n="n"/></l><r>sable<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кеше<s n="n"/></l><r>person<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>кешелек<s n="n"/></l><r>humaneness<s n="n"/><s n="sg"/></r></p></e>
@@ -5501,6 +5502,7 @@
     <e><p><l>хамилә<s n="adj"/></l><r>pregnant<s n="adj"/></r></p></e>
     <e><p><l>хан<s n="n"/></l><r>khan<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ханә<s n="n"/></l><r>home<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>ханзадә<s n="n"/></l><r>prince<s n="n"/><s n="sg"/></r></p></e>    
     <e><p><l>ханлык<s n="n"/></l><r>khanate<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ханым<s n="n"/></l><r>Mrs<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>хаос<s n="n"/></l><r>chaos<s n="n"/><s n="sg"/></r></p></e>
@@ -13119,7 +13121,6 @@
     <e><p><l>Кечкенә<b/>Шыңар<s n="np"/><s n="top"/></l><r>Keçkenä<b/>Şıñar<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Кечкенә<b/>Шырдан<s n="np"/><s n="top"/></l><r>Keçkenä<b/>Şırdan<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Кечкенә<b/>Эшкәтә<s n="np"/><s n="top"/></l><r>Keçkenä<b/>Eşkätä<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Кечкенә<s n="np"/><s n="top"/></l><r>Keçkenä<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Кечкенәш<s n="np"/><s n="top"/></l><r>Keçkenäş<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Кечкәү<s n="np"/><s n="top"/></l><r>Keçkäw<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Кечкәч<s n="np"/><s n="top"/></l><r>Keçkäç<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
