@@ -20,11 +20,11 @@
 
 (define A-TAT-ENG './)
 (define A-TAT-ENG-BIL (symbol-append A-TAT-ENG 'tat-eng.autobil.bin))
-(define A-TAT-ENG-T1X (symbol-append A-TAT-ENG 'apertium-eng-kaz.tat-eng.t1x))
+(define A-TAT-ENG-T1X (symbol-append A-TAT-ENG 'apertium-tat-eng.tat-eng.t1x))
 (define A-TAT-ENG-T1X-BIN (symbol-append A-TAT-ENG 'tat-eng.t1x.bin))
-(define A-TAT-ENG-T2X (symbol-append A-TAT-ENG 'apertium-eng-kaz.tat-eng.t2x))
+(define A-TAT-ENG-T2X (symbol-append A-TAT-ENG 'apertium-tat-eng.tat-eng.t2x))
 (define A-TAT-ENG-T2X-BIN (symbol-append A-TAT-ENG 'tat-eng.t2x.bin))
-(define A-TAT-ENG-T3X (symbol-append A-TAT-ENG 'apertium-eng-kaz.tat-eng.t3x))
+(define A-TAT-ENG-T3X (symbol-append A-TAT-ENG 'apertium-tat-eng.tat-eng.t3x))
 (define A-TAT-ENG-T3X-BIN (symbol-append A-TAT-ENG 'tat-eng.t3x.bin))
 (define A-TAT-ENG-GEN (symbol-append A-TAT-ENG 'tat-eng.autogen.bin))
 
