@@ -13,4 +13,4 @@ else
     testToRun=$1.test
 fi
 
-bash "t/$testToRun" "$2"
+bash "test/$testToRun" "$2"

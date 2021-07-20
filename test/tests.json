@@ -1,0 +1,10 @@
+{
+    "t1x": {
+        "input": null,
+        "command": "test/qa.sh t1x"
+    },
+    "t2x": {
+        "input": null,
+        "command": "test/qa.sh t2x"
+    }
+}

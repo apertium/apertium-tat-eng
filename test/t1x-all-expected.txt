@@ -1,0 +1,75 @@
+[47DEQpj8HBSa#0] 632 PASS: ^буенча<post>/by<pr>$ ->
+            ^post<P>{^by<pr>$}$
+
+  655 PASS: ^Мамадыш<np><top><attr>/Mamadış<np><top><sg><attr>$ ^өяз<n><px3sp><nom>/county<n><sg><px3sp><nom>$ ^Измә<np><top><attr>/İzmä<np><top><sg><attr>$ ^авыл<n><px3sp><gen>/village<n><sg><px3sp><gen>$ ->
+            ^np_n_np_n<PP>{^from<pr>$ ^İzmä<np><top><sg>$ ^village<n><sg>$ ^in<pr>$ ^Mamadış<np><top><sg>$ ^county<n><sg>$}$
+
+  710 PASS: ^Гали<np><ant><m><loc>/Ğäli<np><ant><m><sg><loc>$ ->
+            ^np<PP>{^at<pr>$ ^Ğäli<np><ant><m><sg>$^'s<gen>$}$
+
+  744 PASS: ^ата<n><px3sp><nom>/father<n><sg><px3sp><nom>$ ->
+            ^n<NP><nom>{^his<det><pos><sp>$ ^father<n><sg>$}$
+
+  861 PASS: ^ибн<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ^Максут<np><ant><m><nom>/Maqsut<np><ant><m><sg><nom>$ ->
+            ^n_np<NP>{^son<n><sg>$ ^of<pr>$ ^Maqsut<np><ant><m><sg>$}$
+
+  902 PASS: ^Казан<np><top><attr>/Kazan<np><top><sg><attr>$ ^мещан<n><px3sp><nom>/urban commoner<n><sg><px3sp><nom>$ ->
+            ^n_n<NP>{^urban commoner<n><sg>$ ^of<pr>$ ^Kazan<np><top><sg>$}$
+
+  945 PASS: ^Тәмти<np><ant><m><nom>/Tämti<np><ant><m><sg><nom>$ ^Гали<np><ant><m><loc>/Ğäli<np><ant><m><sg><loc>$ ->
+            ^np_np<PP>{^at<pr>$ ^Tämti<np><ant><m><sg>$ ^Ğäli<np><ant><m><sg>$^'s<gen>$}$
+
+  987 PASS: ^и<cop><aor><p3><sg>/be<vbser><p3><sg>$ ->
+            ^cop-pres<VBSER>{^be<vbser><pres><p3><sg>$}$
+
+ 1017 PASS: ^Казан<np><top><attr>/Kazan<np><top><sg><attr>$ ^өяз<n><px3sp><nom>/county<n><sg><px3sp><nom>$ ^Әлдермеш<np><top><gen>/Äldermeş<np><top><sg><gen>$ ->
+            ^np_n_np<PP>{^from<pr>$ ^Äldermeş<np><top><sg>$ ^in<pr>$ ^Kazan<np><top><sg>$ ^county<n><sg>$}$
+
+ 1065 PASS: ^Сембер<np><top><attr>/Sember<np><top><sg><attr>$ ^губерна<n><px3sp><nom>/governorate<n><sg><px3sp><nom>$ ^Буа<np><top><attr>/Bua<np><top><sg><attr>$ ^өяз<n><px3sp><nom>/county<n><sg><px3sp><nom>$ ^Чокалы<np><top><gen>/Çoqalı<np><top><sg><gen>$ ->
+            ^np_n_np_n_np<PP>{^from<pr>$ ^Çoqalı<np><top><sg>$ ^in<pr>$ ^Bua<np><top><sg>$ ^county<n><sg>$ ^in<pr>$ ^Sember<np><top><sg>$ ^governorate<n><sg>$}$
+
+ 1132 PASS: ^үз<det><ref>/own<adj>$ ^йорт<n><px3sp><loc>/home<n><sg><px3sp><loc>$ ->
+            ^det_n<PP>{^at<pr>$ ^his<det><pos><sp>$ ^own<adj>$ ^home<n><sg>$}$
+
+ 1194 PASS: ^мулла<n><nom>/mullah<n><sg><nom>$ ^Исхак<np><ant><m><nom>/İsxaq<np><ant><m><sg><nom>$ ^ул<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ->
+            ^n_np_n<NP>{^son<n><sg>$ ^of<pr>$ ^mullah<n><sg>$ ^İsxaq<np><ant><m><sg>$}$
+
+ 1196 PASS: ^хаҗи<n><nom>/hajji<n><sg><nom>$ ^Дәмин<np><ant><m><nom>/Dämin<np><ant><m><sg><nom>$ ^кыз<n><px3sp><nom>/daughter<n><sg><px3sp><nom>$ ->
+            ^n_np_n<NP>{^daughter<n><sg>$ ^of<pr>$ ^hajji<n><sg>$ ^Dämin<np><ant><m><sg>$}$
+
+ 1247 FAIL: ^Шаһиәхмәт<np><ant><m><nom>/Şahiäxmät<np><ant><m><sg><nom>$ ^Әхмән<np><ant><m><nom>/Äxmän<np><ant><m><sg><nom>$ ^ул<n><px3sp><gen>/son<n><sg><px3sp><gen>$ ->
+-(^np_np_n<NP>{^Şahiäxmät<np><ant><m><sg>$ ^son<n><sg>$ ^of<pr>$ ^Äxmän<np><ant><m><sg>$}$)
++(^np_np_n<NP>{^Şahiäxmät<np><ant><m><sg>$ ^son<n><sg>$ ^of<pr>$ ^Äxmän<np><ant><m>$}$)
+
+ 1296 PASS: ^Максут<np><ant><m><nom>/Maqsut<np><ant><m><sg><nom>$ ^вәләд<n><px3sp><nom>/child<n><sg><nom>$ ^Гали<np><ant><m><nom>/Ğäli<np><ant><m><sg><nom>$ ->
+            ^n_np<NP>{^Maqsut<np><ant><m><sg>$ ^child<n><sg>$ ^of<pr>$ ^Ğäli<np><ant><m><sg>$}$
+
+ 1298 PASS: ^Максут<np><ant><m><nom>/Maqsut<np><ant><m><sg>$ ^бин<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ^Максут<np><ant><m><nom>/Maqsut<np><ant><m><sg><nom>$ ->
+            ^n_np<NP>{^Maqsut<np><ant><m><sg>$ ^son<n><sg>$ ^of<pr>$ ^Maqsut<np><ant><m><sg>$}$
+
+ 1300 PASS: ^Фатыйма<np><ant><f><nom>/Fatıyma<np><ant><f><sg><nom>$ ^бинт<n><px3sp><nom>/daughter<n><sg><px3sp>$ ^Шәрәфетдин<np><ant><m><nom>/Şäräfetdin<np><ant><m><sg><nom>$ ->
+            ^n_np<NP>{^Fatıyma<np><ant><f><sg>$ ^daughter<n><sg>$ ^of<pr>$ ^Şäräfetdin<np><ant><m><sg>$}$
+
+ 1349 PASS: ^вәләд<n><px3sp><nom>/child<n><sg><nom>$ ^Гали<np><ant><m><nom>/Ğäli<np><ant><m><sg><nom>$ ->
+            ^n_np<NP>{^child<n><sg>$ ^of<pr>$ ^Ğäli<np><ant><m><sg>$}$
+
+ 1351 PASS: ^бин<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ^Максут<np><ant><m><nom>/Maqsut<np><ant><m><sg><nom>$ ->
+            ^n_np<NP>{^son<n><sg>$ ^of<pr>$ ^Maqsut<np><ant><m><sg>$}$
+
+ 1353 PASS: ^бинт<n><px3sp><nom>/daughter<n><sg><px3sp>$ ^Шәрәфетдин<np><ant><m><nom>/Şäräfetdin<np><ant><m><sg><nom>$ ->
+            ^n_np<NP>{^daughter<n><sg>$ ^of<pr>$ ^Şäräfetdin<np><ant><m><sg>$}$
+
+ 1394 PASS: ^Габделкадыйр<np><ant><m><nom>/Ğabdelqadıyr<np><ant><m><sg><nom>$ ^Мөхәммәдвәли<np><ant><m><nom>/Möxämmädwäli<np><ant><m><sg><nom>$ ^ул<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ^Заманов<np><cog><m><nom>/Zamanov<np><cog><m><nom>$ ->
+            ^np_np_n_np<NP>{^Ğabdelqadıyr<np><ant><m><sg>$ ^son<n><sg>$ ^of<pr>$ ^Möxämmädwäli<np><ant><m><sg>$ ^Zamanov<np><cog><m><sg>$}$
+
+ 1451 PASS: ^Габделкадыйр<np><ant><m><nom>/Ğabdelqadıyr<np><ant><m><sg><nom>$ ^Мөхәммәдвәли<np><ant><m><nom>/Möxämmädwäli<np><ant><m><sg><nom>$ ^мулла<n><attr>/mullah<n><sg><attr>$ ^ул<n><px3sp><nom>/son<n><sg><px3sp><nom>$ ^Заманов<np><cog><m><nom>/Zamanov<np><cog><m><nom>$ ->
+            ^np_np_n_n_np<NP>{^Ğabdelqadıyr<np><ant><m><sg>$ ^son<n><sg>$ ^of<pr>$ ^mullah<n><sg>$ ^Möxämmädwäli<np><ant><m><sg>$ ^Zamanov<np><cog><m><sg>$}$
+
+ 1516 PASS: ^сора<v><tv><inf>/ask<vblex><inf>$ ->
+            ^v<SV><tv>{^to<pr>$ ^ask<vblex><inf>$}$
+
+ 1518 PASS: ^сора<v><tv><neg><inf>/ask<vblex><neg><inf>$ ->
+            ^v<SV><tv>{^not<adv>$ ^to<pr>$ ^ask<vblex><inf>$}$
+
+23 / 24
+[/47DEQpj8HBSa]

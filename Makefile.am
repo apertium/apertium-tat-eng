@@ -256,3 +256,6 @@ non-destructuve-corpus-test: all
 
 non-destructuve-corpus-test-summary: all
 	diff -U0 texts/previousTranslation.csv texts/currentTranslation.csv | dwdiff --diff-input | grep -v '^@' |sed 's/.*\[-//'|sed 's/+}.*//'  | sort | uniq -c |sort -nr | less
+
+test: all
+	apertium-regtest test
