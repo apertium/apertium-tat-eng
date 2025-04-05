@@ -53,7 +53,7 @@
       <program name="cg-proc -w">
         <file name="eng-tat.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -gx">
+      <program name="apertium-tagger -g">
         <file name="eng-tat.prob"/>
       </program>      
       <program name="apertium-pretransfer"/>
